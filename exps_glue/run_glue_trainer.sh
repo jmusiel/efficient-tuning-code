@@ -113,7 +113,7 @@ for seed in "${seed_list[@]}"; do
     # python -m torch.distributed.launch --nproc_per_node 2 --master_port=${port} examples/pytorch/text-classification/run_glue.py \
 
     python -u examples/pytorch/text-classification/run_glue.py \
-        --model_name_or_path roberta-base \
+        --model_name_or_path bert-base-uncased \
         --task_name $TASK_NAME \
         --do_train \
         --do_eval \

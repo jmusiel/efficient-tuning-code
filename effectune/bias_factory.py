@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import math
 
-from transformers import RobertaConfig
+from transformers import BertConfig
 
 def init_lisa_params(module):
     std = 1e-20
@@ -47,7 +47,7 @@ class Prefix(nn.Module):
         super().__init__()
 
         # self.match_n_layer = config.decoder_layers if args.num_bias_layers < 0 else args.num_bias_layers
-        if isinstance(config, RobertaConfig):
+        if isinstance(config, BertConfig):
             self.match_n_layer = config.num_hidden_layers
             self.match_n_head = config.num_attention_heads
             self.n_embd = config.hidden_size
