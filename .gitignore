@@ -1,2 +1,5 @@
 **:Zone.Identifier
 **/__pycache__/**
+**/checkpoints/**
+**/wandb/**
+**/transformers.egg-info/**
