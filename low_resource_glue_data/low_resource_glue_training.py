@@ -18,7 +18,7 @@ def main():
 
                     training_name = "" + str(split_str) + "_" + str(rep_str) + "_" + str(task) + ""
 
-                    bash_str = ""\
+                    bash_str = "python -u examples/pytorch/text-classification/run_glue.py "\
                     + "--model_name_or_path roberta-base "\
                     + "--train_file /home/jovyan/working/class_projects/nlp_11711_project/efficient-tuning-code/low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/train.csv "\
                     + "--test_file /home/jovyan/working/class_projects/nlp_11711_project/efficient-tuning-code/low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/test.csv "\
