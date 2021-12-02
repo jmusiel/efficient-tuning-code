@@ -1,5 +1,5 @@
 import torch
-from transformers import MBartPreTrainedModel, RobertaConfig
+from transformers import BertPreTrainedModel, BertConfig
 import torch.nn as nn
 from typing import Any, Callable, Dict, Iterable, List, Optional, Tuple, Union
 from effectune.bias_factory import Prefix, MLP_Bias, Bias, PrefixDirectInit, PrefixCrossAttn
@@ -7,13 +7,13 @@ from transformers.utils import logging
 logger = logging.get_logger(__name__)
 
 
-class PrefixTuning(MBartPreTrainedModel):
+class PrefixTuning(BertPreTrainedModel):
     def __init__(self, config, args, pretrained_model, **kwargs):
         super().__init__(config)
         self.args = args
         self.seq2seq_model = pretrained_model
 
-        if isinstance(config, RobertaConfig):
+        if isinstance(config, BertConfig):
             self.match_n_layer = config.num_hidden_layers
             self.match_n_head = config.num_attention_heads
             self.n_embd = config.hidden_size
@@ -127,6 +127,6 @@ class PrefixTuning(MBartPreTrainedModel):
                                     output_attentions=output_attentions,
                                     output_hidden_states=output_hidden_states,
                                     return_dict=return_dict,
-                                    prefix_state=prefix_state,
+                                    # prefix_state=prefix_state,
                                     )
         return output
