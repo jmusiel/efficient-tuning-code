@@ -15,7 +15,7 @@ for split_path in split_paths:
     for root, dirs, files in os.walk(split_path):
         if len(files) > 0:
             for file in files:
-                if file.split(".")[-1] == "tsv":
+                if file.split(".")[-1] == "tsv" and file != "test.tsv":
                     read_header = "infer"
                     to_header = True
                     if "CoLA" in root:
@@ -40,5 +40,12 @@ for split_path in split_paths:
                         os.mkdir(to_dir)
                     print("loaded " + to_dir + file + " creating " + to_dir+file.split(".")[0]+".csv")
 
+                    if file == "dev.tsv":
+                        test_df = tsv_frame.sample(frac=0.5)
+                        tsv_frame.drop(test_df.index)
+                        test_df.to_csv(to_dir+"test"+".csv", sep=",", index=False, header=to_header)
+                        print("created test split " + to_dir + "test.csv")
+
                     tsv_frame.to_csv(to_dir+file.split(".")[0]+".csv", sep=",", index=False, header=to_header)
+                    print("created " + to_dir+file.split(".")[0]+".csv")
 
