@@ -316,7 +316,7 @@ def main():
         else:
             # A useful fast method:
             # https://huggingface.co/docs/datasets/package_reference/main_classes.html#datasets.Dataset.unique
-            label_list = datasets["train"].unique("label")
+            label_list = datasets["validation"].unique("label")
             label_list.sort()  # Let's sort it for determinism
             num_labels = len(label_list)
 
@@ -470,7 +470,7 @@ def main():
 
     # Log a few random samples from the training set:
     if training_args.do_train:
-        for index in random.sample(range(len(train_dataset)), 3):
+        for index in random.sample(range(len(train_dataset)), 1):
             logger.info(f"Sample {index} of the training set: {train_dataset[index]}.")
 
     # Get the metric function

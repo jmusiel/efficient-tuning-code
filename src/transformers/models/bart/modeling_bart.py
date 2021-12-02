@@ -47,7 +47,7 @@ from .configuration_bart import BartConfig
 
 import sys
 sys.path.insert(2, "./")
-from effectune.luna_attention import luna_attention_enc_dec
+# from effectune.luna_attention import luna_attention_enc_dec
 from effectune.bias_factory import Adapter_Layer, MHAdapter_Layer, softmax_gating, Linear, adapter_func
 
 logger = logging.get_logger(__name__)
