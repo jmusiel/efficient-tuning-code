@@ -425,6 +425,9 @@ def main():
                 pretrained_model=model,
             )
 
+    for param in model.parameters():
+        param.requires_grad = True
+
     print(model)
     for n, p in model.named_parameters():
         print(n, p.requires_grad)
