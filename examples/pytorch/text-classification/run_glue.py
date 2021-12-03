@@ -371,7 +371,7 @@ def main():
         sentence1_key, sentence2_key = task_to_keys[data_args.task_name]
     else:
         # Again, we try to have some nice defaults but don't hesitate to tweak to your use case.
-        non_label_column_names = [name for name in datasets["train"].column_names if name != "label"]
+        non_label_column_names = [name for name in datasets["train"].column_names if name != label_key]
         if "sentence1" in non_label_column_names and "sentence2" in non_label_column_names:
             sentence1_key, sentence2_key = "sentence1", "sentence2"
         elif "#1 String" in non_label_column_names and "#2 String" in non_label_column_names:
@@ -453,7 +453,10 @@ def main():
 
         # Map labels to IDs (not necessary for GLUE tasks)
         if label_to_id is not None and "label" in examples:
-            result["label"] = [(label_to_id[l] if l != -1 else -1) for l in examples["label"]]
+            result["label"] = [(label_to_id[l] if l != -1 else -1) for l in examples[label_key]]
+        else:
+            result["label"] = examples[label_key]
+
         return result
 
     datasets = datasets.map(
