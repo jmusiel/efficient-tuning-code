@@ -376,8 +376,8 @@ def main():
             sentence1_key, sentence2_key = "sentence1", "sentence2"
         elif "#1 String" in non_label_column_names and "#2 String" in non_label_column_names:
             sentence1_key, sentence2_key = "#1 String", "#2 String"
-        elif "Unnamed 0" in non_label_column_names and "Unnamed 1" in non_label_column_names and "Unnamed 2" in non_label_column_names and "Unnamed 3" in non_label_column_names:
-            sentence1_key, sentence2_key = "Unnamed 3", None
+        elif "sentence" in non_label_column_names and "author" in non_label_column_names and "source" in non_label_column_names:
+            sentence1_key, sentence2_key = "sentence", None
         else:
             if len(non_label_column_names) >= 2:
                 sentence1_key, sentence2_key = non_label_column_names[:2]
