@@ -1,0 +1,102 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+1353,main-captions,images,2014,520,none,none,Man playing guitar while sitting down.,Red and white bus driving down road.,0.0
+3638,main-news,deft-news,2014,188,none,none,zahedan is a city in southeastern,bam is a city in southeastern,1.8
+5391,main-news,headlines,2015,1092,none,none,Iraq army fights to retake Tikrit,Iraq army claims victory in Tikrit,3.2
+5711,main-news,headlines,2016,1252,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Oscar Pistorius sentenced to 5 years in prison,'Bookkeeper of Auschwitz' Sentenced to Four Years in Prison,0.0
+2580,main-news,MSRpar,2012,216,none,none,Ernst & Young has denied any wrongdoing and plans to fight the allegations.,"""Ernst & Young has denied the SEC's claims, and called its recommendations """"irresponsible"""".""",3.0
+1584,main-captions,images,2015,259,none,none,The child in the red coat laid in the red mat.,The toddler is ready to climb the red piece of equipment.,0.8
+922,main-captions,MSRvid,2012,628,none,none,A man is walking along a path through wilderness.,A man is peeling an onion.,0.75
+1592,main-captions,images,2015,283,none,none,Two dogs in a yard.,Two dogs in a stream.,2.0
+5152,main-news,headlines,2015,498,none,none,Vatican Embassy in Syria hit by mortar fire,Vatican embassy in Syria hit by mortar; no injuries,3.6
+4009,main-news,headlines,2013,322,none,none,Federer Wins 7th Wimbledon Title,Federer captures 7th Wimbledon title,5.0
+4234,main-news,headlines,2013,605,none,none,Canadian Muslims issue fatwa against 'honor killing',"US, Canadian imams issue fatwa against honour killings",3.4
+545,main-captions,MSRvid,2012,80,none,none,A woman is dancing.,The man is dancing.,2.6
+2773,main-news,MSRpar,2012,487,none,none,"The Fed's Empire State survey far exceeded expectations by jumping to 26.8 in June, a record high, from 10.6 in May.","Prices had pulled back from offshore highs when the Empire State survey far exceeded expectations by jumping to 26.8 in June, a record high, from 10.6 in May.",3.8
+2137,main-forum,deft-forum,2014,137,none,none,Do you notice the nonsensical things you are saying?,"And to be fair, do you notice the nonsensical things you are saying?",4.57142857142857
+4962,main-news,headlines,2015,16,none,none,Israel PM accuses Iran president of hypocrisy,Greek PM accuses coalition of hypocrisy,1.2
+5558,main-news,headlines,2016,63,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Mayawati demands president's rule in Kashmir,Mayawati demands Presidents rule in Jammu and Kashmir,3.0
+4992,main-news,headlines,2015,95,none,none,Ukraine's opposition chief wants more protests,Ukraine protesters topple Lenin statue,2.4
+5422,main-news,headlines,2015,1168,none,none,17:02 23 killed in Iraq car bombings,11 children killed in Syria bombings,0.6
+239,main-captions,MSRvid,2012,355,none,none,The man is slicing a fish open.,A man is slicing a potato.,2.2
+1541,main-captions,images,2015,159,none,none,A tent and a campsite in a sunlit forest.,A white dog on a beach is carrying a stick in its mouth.,0.0
+4549,main-news,headlines,2014,250,none,none,Chairman of easyJet to step down,Chairman of British no-frills airline easyJet to step down,4.2
+3983,main-news,headlines,2013,288,none,none,Government of Canada Supports Montréal Women Leading Change,Government of Canada Supports Women's Safety in Regina,1.6
+3171,main-news,MSRpar,2012,337,none,none,"As a result, 24 players broke par in the first round.","Twenty-four players broke par in the first round, the third highest figure in U.S. Open history.",3.0
+1351,main-captions,images,2014,516,none,none,Train in a station.,Trains inside an indoor station.,3.8
+3267,main-news,MSRpar,2012,487,none,none,"This led to the recovery of the 270-kilogram Cancuen altar, announced on Wednesday by the Vanderbilt University in Nashville and the National Geographic Society.","This led last month to the recovery of the 600-pound Cancun altar, Vanderbilt University in Nashville and the National Geographic Society announced Wednesday.",3.25
+1451,main-captions,images,2014,678,none,none,A red bird is perched in a tree.,A small red and grey bird perched in a tree.,3.2
+5095,main-news,headlines,2015,360,none,none,"Deaf customers sue Starbucks, say they're mocked","Deaf NY Starbucks patrons sue, say they're mocked",4.6
+4171,main-news,headlines,2013,523,none,none,Five dead in Pakistan suicide blast,At least 63 dead in Pakistan factory blaze,1.0
+2672,main-news,MSRpar,2012,350,none,none,"Certainly what we know suggests that we should take what they're saying very seriously, he added.","We don't know everything [but] what we know suggests that we should take what they're saying seriously, he said.",4.25
+2814,main-news,MSRpar,2012,554,none,none,"Costa's semifinal opponent is Spaniard Juan Carlos Ferrero, whom he beat in last year's final.",Costa will play Juan Carlos Ferrero next in a rematch of last year's final.,3.75
+2730,main-news,MSRpar,2012,430,none,none,"A number below 50 suggests contraction in the manufacturing sector, while a number above that indicates expansion.","A reading above 50 suggests growth in the sector, while a number below that level indicates contraction.",4.818
+5071,main-news,headlines,2015,289,none,none,Chinese News Agency Slams Delays in Search for Jet,Ten Chinese vessels on standby for jet search,3.2
+1767,main-captions,images,2015,818,none,none,A man and a woman are smiling.,A man and a woman laughing.,3.2
+5216,main-news,headlines,2015,661,none,none,Cricket-England v Australia fourth test scoreboard,"Cricket-England 155-4 v Australia, fourth test - tea",4.0
+247,main-captions,MSRvid,2012,369,none,none,The boy is playing the piano.,A boy plays a piano.,5.0
+3989,main-news,headlines,2013,297,none,none,"Romney, Obama fight for edge on Medicare","Obama, Romney compete for undecideds, stoke base",1.0
+3390,main-news,MSRpar,2012,667,none,none,"Our strong preference is to achieve a financial restructuring out of court, and we remain hopeful we can do so, chief executive Marce Fuller said.","Our strong preference is to achieve a financial restructuring out of court, Mirant CEO Marce Fuller said in a prepared statement early Friday.",4.0
+4878,main-news,headlines,2014,658,none,none,Pakistan condemns US drone strike in Shawal Area,Pakistan condemns US drone strike in Miranshah,3.2
+1754,main-captions,images,2015,774,none,none,A small boy in a bathrobe is sitting in a metal chair.,A boy in a robe sits in a chair.,4.2
+3717,main-news,deft-news,2014,267,none,none,russia may pull out of the treaty if the us and other nato allies refuse to ratify the amended version.,warned that russia would withdraw from the treaty if western nations refuse to ratify its amended version.,4.4
+597,main-captions,MSRvid,2012,152,none,none,A man is fishing.,A man is exercising.,0.5
+3737,main-news,deft-news,2014,287,none,none,"the resolution requires all 192 united nations member states to adopt laws to prevent terrorists, black marketeers and other non-state actors from manufacturing, acquiring or trafficking in nuclear, biological or chemical weapons or the materials to make them.","resolution 1540 requires all countries to adopt laws to prevent non-state actors from manufacturing, acquiring or trafficking in nuclear, biological or chemical weapons, the materials to make them, and the missiles and other systems to deliver them.",3.6
+4537,main-news,headlines,2014,235,none,none,Roadside bombs kill 5 in Afghanistan,Roadside bomb kills 3 policemen in Afghanistan,3.4
+3796,main-news,headlines,2013,58,none,none,UN Security Council unanimous vote on Syria,UN Security Council to vote on up to 300 Syria monitors,3.2
+1178,main-captions,images,2014,260,none,none,A woman in a black bikini top and jeans.,A woman in a black hat is standing by the subway.,1.0
+3295,main-news,MSRpar,2012,531,none,none,"""It was a final test before delivering the missile to the armed forces.",State radio said it was the last test before the missile was delivered to the armed forces.,4.0
+3296,main-news,MSRpar,2012,532,none,none,"Your withdrawal from our country is inevitable, whether it happens today or tomorrow, and tomorrow will come soon.""""""","""Your withdrawal from our country is inevitable, whether it happens today or tomorrow, added the voice, which signed off giving the date as """"mid-September.""""""",3.5
+3005,main-news,MSRpar,2012,73,none,none,He was taken to a hospital for precautionary X-rays on his neck.,"Harvey was taken to St. Luke's Hospital for precautionary neck X-rays, which came back negative.",3.25
+1464,main-captions,images,2014,695,none,none,A woman riding a bicycle on a large concrete area.,A women riding a mountain bike on a large concrete area.,3.8
+1414,main-captions,images,2014,615,none,none,Two men standing on beach.,Two women standing in front of tour bus.,0.0
+5187,main-news,headlines,2015,587,none,none,Russian Prime Minister On Second Day Of Crimea Visit,Russia warns against setting preconditions for Syria,0.8
+2110,main-forum,deft-forum,2014,110,none,none,A man and a woman are different yes.,Men and women are different yes?,3.4
+5706,main-news,headlines,2016,1216,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Nepal earthquake death toll surpasses 7,000","Death toll in Nepal earthquake tops 8,000",3.0
+3101,main-news,MSRpar,2012,229,none,none,Texas Instruments climbed $1.37 to $19.25 yesterday and Novellus Systems Inc. advanced $1.76 to $36.31.,"""Texas Instruments climbed $US1.37 to $US19.25 and Novellus Systems advanced $US1.76 to $US36.31, each having been raised to """"overweight"""" by Lehman.""",3.75
+141,main-captions,MSRvid,2012,205,none,none,A woman is dancing.,A man is talking.,0.0
+941,main-captions,MSRvid,2012,657,none,none,A man is meditating.,The man is riding the horse.,0.75
+4245,main-news,headlines,2013,617,none,none,Germany Likely to Press Russia on Syrian Crisis,What is Russia thinking on Syria? A brief guide,1.0
+960,main-captions,MSRvid,2012,688,none,none,A woman cuts up a vegetable.,A woman is slicing egg plant.,2.25
+40,main-captions,MSRvid,2012,59,none,none,A woman is frying fish.,A woman is cooking fish.,4.0
+2005,main-forum,deft-forum,2014,5,none,none,go figure You're asking me to prove a negative?,You're asking me to prove a negative?,4.6
+1543,main-captions,images,2015,161,none,none,A dog swimming with a stick in it's mouth.,A dog running with a stick in it's mouth.,2.6
+3442,main-news,MSRpar,2012,737,none,none,The family owns Cheetahs strip clubs here and in Las Vegas.,The searches were conducted simultaneously with raids on strip clubs in San Diego and Las Vegas.,1.5
+3478,main-news,deft-news,2014,28,none,none,nato regrets russia's decision to suspend participation in the cfe.,russia's decision to suspend participation in the cfe is a step in the wrong direction.,3.8
+4711,main-news,headlines,2014,448,none,none,Topless Women Protest Against Berlusconi As He Votes In Election,"Bulgaria President Backs Protesters, Opposes Snap Elections",0.6
+5016,main-news,headlines,2015,156,none,none,Death toll in Lebanon bombings rises to 47,1 suspect arrested after Lebanon car bombings kill 45,2.8
+1025,main-captions,images,2014,40,none,none,A brown horse stands in a lush green field.,A brown horse in a green field.,3.8
+1455,main-captions,images,2014,684,none,none,Large silver locomotive engine in a shed.,A close-up of a silver train engine with a red stripe.,3.0
+4294,main-news,headlines,2013,678,none,none,Syria rebels leave besieged Homs,Syrian rebels retreat from besieged Homs district,4.4
+3965,main-news,headlines,2013,266,none,none,East German rights activist Gauck elected president,Joachim Gauck elected as German president,4.0
+1248,main-captions,images,2014,366,none,none,A women holds a small baby while sitting on a sofa.,a woman sitting on a sofa holding a baby.,4.8
+1858,main-captions,images,2015,1104,none,none,A boy pushes a wagon with two pumpkins.,A child squats behind a wagon with two pumpkins in it.,2.8
+1856,main-captions,images,2015,1096,none,none,The clowns are striking a pose for the camera.,A child in orange is on a boogie board in the waves.,0.6
+1879,main-captions,images,2015,1163,none,none,A person on a snowmobile.,A person on a snowmobile in mid jump.,3.6
+2471,main-news,MSRpar,2012,38,none,none,"""General Myers told reporters that """"at first blush, it doesn't look like any rules were broken"""".""","At first blush, it doesn't look like any rules were broken, said Gen. Richard Myers, chairman of the Joint Chiefs of Staff.",3.6
+3125,main-news,MSRpar,2012,263,none,none,Doctors have speculated that the body’s own estrogen protects against cell damage and improves blood flow.,Their belief was based on speculation that estrogen prevents cell damage and improves blood flow.,4.2
+1295,main-captions,images,2014,433,none,none,Four women and two men sit at a long table in a restaurant.,A group of people sit at a table in an Italian restaurant.,3.0
+4628,main-news,headlines,2014,347,none,none,Four Morsi supporters killed in Egypt clashes,Dozens injured as Morsi supporters clash with security forces,2.2
+4996,main-news,headlines,2015,103,none,none,Suspected U.S. drone strike kills 5 in Pakistan,U.S. drone strike kills 5 in Pakistan,3.8
+68,main-captions,MSRvid,2012,104,none,none,A man is dancing.,A man is talking.,0.6
+2069,main-forum,deft-forum,2014,69,none,none,"Warm , maybe record.","Warmer , almost certainly a record.",4.4
+1387,main-captions,images,2014,574,none,none,A group of people sitting around a table on a porch.,A group of people sitting around a table with food on it.,3.6
+3182,main-news,MSRpar,2012,360,none,none,Bond bulls would like the Fed to recognize that risks are biased toward economic weakness.,The Fed also said the risks to the economy were biased toward weakness.,2.588
+5169,main-news,headlines,2015,541,none,none,Boston bomb suspect charged; religious motive seen,Boston bombing suspect charged in hospital bed,3.0
+4873,main-news,headlines,2014,650,none,none,'Large and extremely dangerous' tornado heads towards Oklahoma City,Mom and baby among five killed as tornadoes rake Oklahoma City area,1.6
+2790,main-news,MSRpar,2012,516,none,none,"""We don't know if any will be SARS,"""" said Dr. James Young, Ontario's commissioner of public safety.""","We're being hyper-vigilant, said Dr. James Young, Ontario's commissioner of public safety.",2.0
+5081,main-news,headlines,2015,312,none,none,James Gandolfini dies aged 51,Nelson Mandela dies aged 95,0.4
+5577,main-news,headlines,2016,198,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"North Korea Warns Foreigners in South, Advising Evacuation",North Korea warns foreigners in South to evacuate,5.0
+3071,main-news,MSRpar,2012,175,none,none,Sequent representatives could not immediately be reached for comment on the SCO announcement.,A spokesman for SCO could not be reached for comment this afternoon.,3.8
+2420,main-forum,deft-forum,2014,420,none,none,Except that it wasn't.,Except that they couldn't.,1.0
+1656,main-captions,images,2015,482,none,none,a group of old men walking down the street,A couple walking down the street.,2.0
+3375,main-news,MSRpar,2012,646,none,none,"This case was both mentally challenging and emotionally exhausting, said the foreman, Jim Wolfcale, a 41-year-old minister.","""Jim Wolfcale, the jury foreman and a minister, said, """"This case was both mentally challenging and emotionally exhausting.""""""",4.2
+5276,main-news,headlines,2015,800,none,none,China sets Bo Xilai trial date,China Bo Xilai trial in fourth day,3.2
+971,main-captions,MSRvid,2012,703,none,none,The girl is tiding up her bed.,A woman is making a bed.,2.5
+283,main-captions,MSRvid,2012,422,none,none,A chimpanzee is hurting a woman.,A man is driving a car.,0.0
+1405,main-captions,images,2014,601,none,none,A living room with a dining table in the background.,View of a living room with a dining room in the background.,4.2
+2114,main-forum,deft-forum,2014,114,none,none,Originally Posted by anabelle What's wrong with that?,Originally Posted by Vienna To 'say' what?,0.0
+254,main-captions,MSRvid,2012,379,none,none,A dog is looking into swimming pool.,A dog is walking around a pool.,2.0
+3913,main-news,headlines,2013,201,none,none,NATO sticks to transition roadmap in Afghanistan: Rasmussen,NATO helicopter makes hard landing in E. Afghanistan,1.0
+2248,main-forum,deft-forum,2014,248,none,none,I don't like flavored beers.,I don't like many flavored drinks.,3.0
+4378,main-news,headlines,2014,34,none,none,Man Who Set Himself on Fire on National Mall Dies of Injuries,Man 'who set himself ablaze' on National Mall dies,5.0
+1043,main-captions,images,2014,62,none,none,A women laying across two men sitting on a sofa.,A man and two women smiling at the camera while sitting on a blue sofa.,2.2

@@ -1,0 +1,101 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+3907,main-news,headlines,2013,195,none,none,Clinton calls for friends of Syria to unite,Plastic artist calls for greater support for new talents,0.0
+685,main-captions,MSRvid,2012,272,none,none,A woman is writing a letter.,A woman is sitting at a desk.,1.667
+123,main-captions,MSRvid,2012,182,none,none,A man is spinning.,A man is dancing.,1.6
+5396,main-news,headlines,2015,1110,none,none,Protesters swamp streets to reclaim revolution,Egypt: Protesters storm Muslim Brotherhood's HQ,1.6
+4953,main-news,headlines,2014,747,none,none,South Africa's Mandela taken to hospital,South Africa: Mandela remains in hospital,3.2
+4573,main-news,headlines,2014,280,none,none,Taiwan gang leader nabbed at airport after 17 years,Zambia arrests ex-leader Banda over oil deal,0.4
+4901,main-news,headlines,2014,686,none,none,Egyptians vote on Islamist-backed constitution,'Judge at polls directs voters on Egypt constitution vote',1.4
+2990,main-news,MSRpar,2012,55,none,none,Strayhorn said it was the first time in Texas history a comptroller had not certified the appropriations act.,"In a news release Thursday, Strayhorn said this was the first time a comptroller rejected a budget.",3.2
+4993,main-news,headlines,2015,96,none,none,Queen pays tribute to Nelson Mandela,South Africa's rugby fraternity mourns Mandela,1.0
+921,main-captions,MSRvid,2012,627,none,none,A slow loris bites a persons fingers.,A small animal is chewing on a finger.,2.5
+4536,main-news,headlines,2014,234,none,none,Car bomb kills one and wounds five in Benghazi,Car bomb hits Libyan Foreign Ministry in Benghazi,3.0
+1911,main-captions,images,2015,1245,none,none,An owl has its wings up and widespread during the day.,The bird has its wings spread as it flies.,2.4
+4787,main-news,headlines,2014,546,none,none,Israeli forces detain 5 Palestinians in West Bank,Israeli Forces Arrest Five Palestinians across West Bank,4.8
+5045,main-news,headlines,2015,222,none,none,"Shooting, protests mar Thai voting",Thai protesters disrupt advance voting,3.6
+866,main-captions,MSRvid,2012,545,none,none,A man  is driving a car.,A woman dips a shrimp in batter.,0.0
+3326,main-news,MSRpar,2012,577,none,none,The settlement taking effect this week was reached less than two months after O'Malley took the helm of the nation's fourth-largest archdiocese.,"The $85 million agreement was reached in September, less than two months after Archbishop Sean O'Malley took over as leader of the nation's fourth-largest diocese.",3.0
+3799,main-news,headlines,2013,62,none,none,China news agency: Still hope for Syria peace,China state news agency: There's still hope for Syria peace,4.2
+4126,main-news,headlines,2013,465,none,none,Sudan blames Israel for Khartoum arms fire,Sudan accuses Israel of airstrike on arms factory,3.6
+3920,main-news,headlines,2013,208,none,none,Russian TV reports foiled attempt on Putin,"Russia, Ukraine foiled plot to kill Putin, report says",3.2
+4231,main-news,headlines,2013,601,none,none,Anti-Putin protesters form human chain in Moscow,Anti-Putin protesters form human chain,3.8
+4091,main-news,headlines,2013,422,none,none,Jonny Bairstow and Eoin Morgan shine for England in Mumbai,Bairstow hits ton in India tour match,1.8
+992,main-captions,MSRvid,2012,735,none,none,A female applies something to he hair with her hands.,A cat is eating a slice of watermelon.,0.0
+3564,main-news,deft-news,2014,114,none,none,estonian officials stated that some of the cyber attacks that caused estonian government websites to shut down temporarily came from computers in the administration of russia including in the office of president vladimir putin.,officials in estonia including prime minister andrus ansip have claimed that some of the cyber attacks came from russian government computers including computers in the office of russian president vladimir putin.,3.8
+5693,main-news,headlines,2016,1136,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Texas sues over Syrian refugees,Turkey 'exploits' Syrian refugees,1.0
+724,main-captions,MSRvid,2012,328,none,none,A man is playing piano.,A man is laying on the ground.,0.75
+4635,main-news,headlines,2014,355,none,none,Police confirm how suspect was captured,Raid on Boston Marathon bombing suspect captured on film,2.2
+4598,main-news,headlines,2014,310,none,none,Tony Abbott sworn in as new Australian PM,Tony Abbott Sworn In As Australia PM,4.6
+1328,main-captions,images,2014,484,none,none,A black cow and a brown cow stands in a plain in front of an uprooted tree.,A black cow and a brown cow standing in front of a small copse of trees in a field.,4.2
+2119,main-forum,deft-forum,2014,119,none,none,"GL, Terral That is absolutely amazing.",Hi Ollie: That is absolutely amazing.,2.4
+4805,main-news,headlines,2014,567,none,none,Russians leaving Syria cross into Lebanon,Russia delivers humanitarian aid to Syrian refugees in Lebanon,2.2
+80,main-captions,MSRvid,2012,117,none,none,A boy is singing and playing the piano.,A boy is playing the piano.,3.0
+2242,main-forum,deft-forum,2014,242,none,none,It's a common sense/deductive reasoning thing.,Hilited your common sense/deductive reasoning thing.,2.5
+1491,main-captions,images,2014,738,none,none,A close-up view of a horse's head.,A close-up of a brown horse's head.,4.2
+2846,main-news,MSRpar,2012,596,none,none,British police arrested 21 people early Tuesday in connection with the suspected ritual murder of an African boy whose torso was found in the Thames River.,Police have arrested 21 people in connection with the murder of a young Nigerian child whose headless and limbless torso was found floating in the river Thames.,3.5
+2587,main-news,MSRpar,2012,227,none,none,"The rate of skin cancer has tripled since the 1950s in Norway and Sweden, according to the study.",The study also found that skin cancer nearly tripled in Norway and Sweden since the 1950s.,4.75
+1586,main-captions,images,2015,264,none,none,A child in a blue and white team uniform chasing a soccer ball.,A young boy in a blue soccer uniform chasing a ball.,4.0
+3569,main-news,deft-news,2014,119,none,none,many of those executed in iran are hanged in public.,many of the people executed are hanged in public.,3.4
+1,main-captions,MSRvid,2012,4,none,none,A man is playing a large flute.,A man is playing a flute.,3.8
+3400,main-news,MSRpar,2012,682,none,none,Richard Grasso quit as chairman last week after losing the support of his board amid public furor over his $140 million pay package.,Grasso quit last week in the wake of a firestorm of criticism over his $140 million compensation package.,3.8
+4483,main-news,headlines,2014,168,none,none,Ryanair reports record profits but warns growth likely to slow this year,Stansted: Ryanair reports 13% rise in annual profits but warns of slower growth this year,3.4
+3177,main-news,MSRpar,2012,351,none,none,"Against the Japanese currency, the euro was at 135.92/6.04 yen against the late New York level of 136.03/14.","The dollar was at 117.85 yen against the Japanese currency, up 0.1 percent.",2.75
+5448,main-news,headlines,2015,1238,none,none,Obama announces creation of twin manufacturing hubs,US stocks retreat on manufacturing data,0.4
+1373,main-captions,images,2014,554,none,none,A man in white with a wine bottle and a woman in a red turtleneck with a white vest.,A man and woman posing on a field with a bottle of wine.,3.0
+365,main-captions,MSRvid,2012,546,none,none,A woman is peeling a potato.,A lion is walking around.,0.0
+932,main-captions,MSRvid,2012,642,none,none,A car backs out of a space.,A car is taking reverse.,2.4
+3731,main-news,deft-news,2014,281,none,none,korobeynichev's laboratory worked with the u.s. lawrence livermore national laboratory.,korobeynichev's laboratory worked with other scientific institutes.,3.2
+1321,main-captions,images,2014,469,none,none,A red double decker bus on a city street.,A red double decker bus driving down a street.,4.8
+3393,main-news,MSRpar,2012,671,none,none,It estimated on Thursday it has a 51 percent market share in Europe.,Boston Scientific said it has gained 51 percent of the coated-stent market in Europe.,2.8
+4671,main-news,headlines,2014,396,none,none,"""Hagel laments """"political"""" changes to US defence budget""",Hagel defends proposed cuts in defense spending,2.4
+220,main-captions,MSRvid,2012,323,none,none,Someone is slicing an onion.,Someoen is peeling a potato.,1.0
+787,main-captions,MSRvid,2012,428,none,none,A man dries his hands.,A woman fixes her hair.,0.25
+1193,main-captions,images,2014,286,none,none,A black and white cow standing in a grassy field.,A black and white horned cow standing in a field.,4.0
+1919,main-captions,images,2015,1259,none,none,A child in a red shirt is using a black wake board to splash over a beach wave.,A man in a rowboat is rowing across blue water.,1.0
+4788,main-news,headlines,2014,547,none,none,Protests sweep Brazil despite concession,Protests planned across Brazil despite concessions,4.0
+3623,main-news,deft-news,2014,173,none,none,29 people were convicted by the quang ninh people's court of participating in a drug ring that trafficked heroin from vietnam to china.,court official tran dao stated the 12 people were among 29 people convicted by the quang ninh people's court of participating in a drug ring that trafficked heroin from vietnam to china.,3.4
+5198,main-news,headlines,2015,621,none,none,India accuses China of crossing de facto border,"Senate, House on collision course on border money",0.6
+1710,main-captions,images,2015,642,none,none,A dog runs through the grass.,a dog runs across the grass.,4.8
+946,main-captions,MSRvid,2012,665,none,none,An animal is walking.,A woman is applying eye makeup.,0.0
+4262,main-news,headlines,2013,637,none,none,Syrian govt wont stop attacks,Syrian opposition reports 'massacre',1.0
+4506,main-news,headlines,2014,195,none,none,Pakistan court demands 'blasphemy' rampage answers,Pakistan-UN report reveals alarming levels of drug use,0.6
+1667,main-captions,images,2015,508,none,none,Six dogs running on the sandy beach.,Six dogs walking beside the beach.,3.4
+4258,main-news,headlines,2013,631,none,none,BP sells some Gulf of Mexico assets for $5.55 bil,BP sells Gulf of Mexico assets to Plains for $5.55 bn,3.6
+2975,main-news,MSRpar,2012,34,none,none,"The Dow Jones industrial average .DJI was off 58.69 points, or 0.64 percent, at 9,137.86.","The blue-chip Dow Jones industrial average .DJI fell 86.56 points, or 0.94 percent, to 9,109.99, after giving up more than 1 percent earlier.",2.5
+2650,main-news,MSRpar,2012,318,none,none,"Tuition at four-year private colleges averaged $19,710 this year, up 6 percent from 2002.","For the current academic year, tuition at public colleges averaged $4,694, up almost $600 from the year before.",1.5
+2356,main-forum,deft-forum,2014,356,none,none,I absolutely do believe there was an iceberg in those waters.,I don't believe there was any iceberg at all anywhere near the Titanic.,1.2
+2000,main-forum,deft-forum,2014,0,none,none,How about some testimonies from real health experts?,"""Also, who's to say there aren't testimonies from """"real"""" health experts on there?""",3.0
+598,main-captions,MSRvid,2012,153,none,none,A woman is swimming.,A man is singing.,0.067
+780,main-captions,MSRvid,2012,417,none,none,A man is preparing a hanging rope.,A man is tying a noose.,4.667
+965,main-captions,MSRvid,2012,696,none,none,A man is adding oil to a pot.,A dog is catching a fish in a river.,0.2
+4185,main-news,headlines,2013,542,none,none,Ryanair in new bid for Aer Lingus,Ryanair chief hails report findings,1.2
+4910,main-news,headlines,2014,698,none,none,US Senate confirms Janet Yellen as US Federal Reserve chief,Senate confirms Janet Yellen as next Federal Reserve Chair,4.6
+2571,main-news,MSRpar,2012,203,none,none,"A seventh victim, a woman, died Tuesday night in the burn unit at childrens Hospital Medical Center of Akron.","A seventh person, a 21-year-old woman, was in critical condition in the burn unit at Akron Children's Hospital.",2.4
+2733,main-news,MSRpar,2012,433,none,none,"That truck was spotted in the Campbells Creek area, fitting that description, Morris said.","A black pickup truck was also seen in the Campbells Creek area, Morris said.",3.0
+1035,main-captions,images,2014,51,none,none,Very crowded office desk with computer monitor on.,Messy computer desk with two monitors.,3.0
+3695,main-news,deft-news,2014,245,none,none,russia has ratified the amended version but the united states and other nato members have refused to do so until the russian government withdraws troops from the former soviet republics of moldova and georgia.,the united states and other nato members have refused to ratify the amended version until russia withdraws troops from former soviet republics moldova and georgia.,3.6
+2501,main-news,MSRpar,2012,82,none,none,"A passer-by found Ben hiding along a dirt road in Spanish Fork Canyon about 7 p.m., with his hands still taped together but his feet free.","A passer-by found the boy hiding along a dirt road in Spanish Fork Canyon about 7 p.m. Thursday, with his feet free but his hands still taped.",4.0
+3740,main-news,deft-news,2014,290,none,none,"the amnesty international report suggested that-- belgium begin immediate talks with india to prevent future sales of the alh, components or military technology to myanmar.",the report urged belgium to begin immediate talks with india in order to prevent future weapons sale to myanmar.,3.0
+1955,main-captions,images,2015,1362,none,none,A child and two dogs play in the water.,A child in red and blue floaties looking down at the water.,2.2
+4288,main-news,headlines,2013,669,none,none,Wall Street Opens Lower,Wall Street Ends Mixed,2.0
+858,main-captions,MSRvid,2012,532,none,none,A woman is seasoning a piece of meat.,A man is loading a rifle with bullets.,0.0
+596,main-captions,MSRvid,2012,151,none,none,A kangaroo is eating.,Kangaroo eating.,4.75
+553,main-captions,MSRvid,2012,89,none,none,A man is slicing a cucumber.,A man is cutting cucumbers.,4.5
+1793,main-captions,images,2015,880,none,none,A dog is running in the snow.,Two dogs running in the dirt,2.2
+2892,main-news,MSRpar,2012,667,none,none,It would be difficult to overestimate the potential dangers of the Remote Procedure Call (RPC) vulnerability.,"The flaw involves the Remote Procedure Call (RPC) protocol, which deals with inter-computer communications.",2.5
+5307,main-news,headlines,2015,883,none,none,Red panda‚Äôs short-lived zoo escape,India‚Äôs march to Mars,0.0
+4650,main-news,headlines,2014,370,none,none,Seven peacekeepers killed in Sudan's Darfur,Peacekeeper killed in Abyei clash,1.6
+3236,main-news,MSRpar,2012,444,none,none,Colgate shares closed Monday at $56.30 on the New York Stock Exchange.,Colgate shares were down 30 cents at $56 in morning trade on the New York Stock Exchange.,2.4
+3718,main-news,deft-news,2014,268,none,none,this is particularly true in the poorest countries.,this was particularly after ethiopia withdraws its forces.,0.4
+2803,main-news,MSRpar,2012,537,none,none,"In Vienna, the IAEA said ElBaradei would accept the invitation, although no date had yet been set.","In Vienna, the International Atomic Energy Agency said on Monday ElBaradei had accepted Iran's invitation, but said no date had yet been set.",3.25
+3539,main-news,deft-news,2014,89,none,none,bae systems is the uk's largest defense company.,bae systems is the uk's largest military,3.4
+4762,main-news,headlines,2014,518,none,none,RI condemns use of chemical weapons in Syria,Questions arise over chemical weapons claims in Syria,2.6
+1126,main-captions,images,2014,178,none,none,Tan cow with ear tags on a grassy field.,Many sheep standing on a green hill.,0.2
+3880,main-news,headlines,2013,163,none,none,UN monitors yet to reach site of Syrian 'massacre' – video,UN monitors unable to reach site of Syria killings,4.4
+5186,main-news,headlines,2015,584,none,none,Rock bands' plane makes emergency landing in Ill.,Rock Bands' Plane Makes Emergency Landing in Ill.,5.0
+5326,main-news,headlines,2015,926,none,none,Headlines in major Iranian newspapers on April 5,Headlines in major Iranian newspapers on August 18,3.0
+1260,main-captions,images,2014,383,none,none,A man and a woman holding hands walking along the beach.,A man with a beard and a skullcap and a boy walk along the ocean's shore.,2.2
+2588,main-news,MSRpar,2012,229,none,none,The judge also refused to postpone the trial date of Sept. 29.,Obus also denied a defense motion to postpone the Sept. 29 trial date.,3.929
+1601,main-captions,images,2015,321,none,none,Two dogs share a toy in a field of vegetation.,Two snowboarders are in the air over the snow.,0.17
+2490,main-news,MSRpar,2012,68,none,none,Shares of Hartford rose $2.88 to $46.50 in New York Stock Exchange composite trading.,"Shares of Hartford were up $2.28, or 5.2 percent, to $45.90 in midday trading.",2.5
+4152,main-news,headlines,2013,500,none,none,Romney announces Paul Ryan as running mate,Romney chooses Ryan as GOP running mate,4.4

@@ -1,0 +1,751 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+233,main-captions,MSRvid,2012,653,none,none,A woman is slicing fruit.,Two women are slicing some lemons.,2.0
+179,main-captions,MSRvid,2012,376,none,none,The man is playing the keyboards.,A man is playing guitar.,2.2
+933,main-forums,answers-forums,2015,1664,none,none,"Dick was an idea guy and a people guy, not a science guy.",Most of Philip K Dick's works aren't hard Sci-Fi in the least.,1.4
+797,main-forums,answers-forums,2015,979,none,none,"Different parts of California have different wildlife, so you should probably narrow the region.",You can get a rough estimate from using an online calorie estimation website.,0.0
+108,main-captions,MSRvid,2012,607,none,none,A woman is peeling some fish.,A woman is pouring a yellow mixture on a frying pan.,1.2
+544,main-captions,track5.en-en,2017,94,none,none,A woman walking down the side of a highway.,A man is standing on one feet on a bridge.,0.4
+407,main-captions,images,2015,419,none,none,Two little girls in pink are dancing.,Two ladies jogging on a path near the waterfront.,0.0
+1398,main-news,headlines,2014,653,none,none,"5 killed, 50 injured in Pakistan blast","3 killed, 138 injured in Boston blasts: media",0.8
+425,main-captions,images,2015,602,none,none,A boy riding on a swing.,A young boy riding in a swing.,4.8
+1351,main-news,headlines,2014,181,none,none,Chinese shares close lower on Wednesday,Chinese students attacked in France,0.0
+1437,main-news,headlines,2015,730,none,none,Zoo worker dies after tiger attack,Indian-origin teacher dies after attack in New Zealand,0.4
+929,main-forums,answers-forums,2015,1634,none,none,I started watching the Stargate series by watching Atlantis first!,"Without delving into an in-depth analysis of Atlantis and Universe, I'll try and be as succinct as possible.",1.8
+132,main-captions,MSRvid,2012,6,none,none,A woman is cutting broccoli.,A woman is slicing broccoli.,5.0
+1044,main-news,MSRpar,2012,210,none,none,"His daughter, Nina Axelrod, told The Associated Press that he died in his sleep, apparently of heart failure.","Axelrod died in his sleep of heart failure, said his daughter, Nina Axelrod.",4.333
+1216,main-news,MSRpar,2012,491,none,none,"That took the benchmark 10-year note US10YT=RR down 9/32, its yield rising to 3.37 percent from 3.34 percent late on Thursday.","That saw the benchmark 10-year note US10YT=RR slip 5/32 in price, taking its yield to 3.36 percent from 3.34 percent late on Thursday.",3.417
+470,main-captions,images,2015,1032,none,none,A person wearing scuba gear is swimming underwater water.,A person is scuba diving in very clear blue water.,3.8
+1245,main-news,MSRpar,2012,720,none,none,"A Merrill Lynch spokesman said ""we are pleased with the judge's decision.""","""We are very pleased with the judge's decision,"" Merrill said yesterday.",4.4
+892,main-forums,answers-forums,2015,1436,none,none,"No, nothing in the Patient Protection and Affordable Care Act grants the President transitional authority.","There is always ""transitional authority"" by virtue of the writing of regulations.",2.0
+911,main-forums,answers-forums,2015,1553,none,none,I think 90 days is the absolute most you can plan out in a single time period.,Definitely plan a month ahead - it's totally OK for your plans to change - just amend them as they do.,2.6
+1423,main-news,headlines,2015,471,none,none,6.4-magnitude quake strikes off Indonesia,6.9-magnitude quake strikes off Russia's Kuril Islands,1.0
+796,main-forums,answers-forums,2015,973,none,none,"Once you open it up to toxins, the answer is clearly no, boiling is not enough.",Boiling eliminates only a certain class of contaminants that can make you ill.,3.2
+1309,main-news,headlines,2013,553,none,none,Breivik complains of 'ridicule',Breivik: Jail term 'ridiculous',1.8
+418,main-captions,images,2015,500,none,none,A woman and a man are amused by headphones.,A man and a woman resting after exercise.,1.2
+699,main-forums,answers-forums,2015,407,none,none,I'd suggest you look to the constructions of the native language(s) of your students.,"As bikeboy389 said, you can learn a lot by looking at students' native languages.",2.8
+214,main-captions,MSRvid,2012,534,none,none,A woman is adding oil on fishes.,The woman is cutting potatoes.,0.6
+150,main-captions,MSRvid,2012,145,none,none,A woman is playing the guitar.,A person is playing a guitar.,4.0
+793,main-forums,answers-forums,2015,942,none,none,An embolism in a medical context refers to any large moving mass or defect in the blood stream.,Here is an interesting article on wikipedia to give overview of pressure related injuries.,0.0
+5,main-captions,MSRvid,2012,10,none,none,A woman is cutting an onion.,A man is cutting onions.,2.615
+1355,main-news,headlines,2014,216,none,none,Lebanon businesses strike in protest at political impasse,Tunisia president says confident can overcome political crisis,0.6
+1261,main-news,headlines,2013,96,none,none,US senators penalize Pakistan for jailing doctor who aided CIA,US decries Pakistan doctor's fate,2.8
+693,main-forums,answers-forums,2015,398,none,none,Good cheddar has little chunks of calcium lactate on/in it - could it be that?,"I have two suspicions: One, you're undercooking your roux, the flour and butter mixture, and not fully incorporating the flour.",0.6
+500,main-captions,track5.en-en,2017,1,none,none,Our current vehicles will be in museums when everyone has their own aircraft.,The car needs to some work,0.2
+1036,main-news,MSRpar,2012,171,none,none,"After 9/11, Connolly said, agents spent thousands of hours investigating al-Bayoumi.",Connolly said FBI agents in San Diego and abroad spent thousands of hours investigating al-Bayoumi.,3.0
+756,main-forums,answers-forums,2015,719,none,none,"""What I am really looking for is an estimation of the Muslim population..."" @ThanosK and @T.E.D., an overall, general population estimation f.e.",The following is taken from my dog-eared copy of the New Penguin Atlas of Medieval History.,0.0
+42,main-captions,MSRvid,2012,236,none,none,A panda is climbing.,A man is climbing a rope.,1.6
+1354,main-news,headlines,2014,213,none,none,"The Note's Must-Reads for Monday, November 25, 2013","The Note's Must-Reads for Tuesday, October 8, 2013",2.6
+1258,main-news,headlines,2013,79,none,none,Mohamed Morsi sworn in as Eygptian president,Mohamed Morsi sworn in as Egypt's President,4.6
+1154,main-news,MSRpar,2012,166,none,none,"The Winston-Salem, North Carolina company opened six stores during the quarter, bringing the total to 282.","Six new Krispy Kreme stores were opened in the first quarter, bringing the total number of stores to 282.",3.0
+74,main-captions,MSRvid,2012,434,none,none,The woman is dicing onions.,A woman is dancing in railway station.,0.4
+1369,main-news,headlines,2014,351,none,none,Stocks close 0.39% higher,Stocks close 2.47% higher,1.8
+810,main-forums,answers-forums,2015,1029,none,none,You should have a consultation route with the school head which can lead to direct consultation with a health professional.,It is always difficult when parents refuse to see what seems obvious to a teacher.,0.8
+1362,main-news,headlines,2014,257,none,none,London Marathon observes silence for Boston bomb victims,London Marathon observes silence for Boston victims,4.6
+145,main-captions,MSRvid,2012,124,none,none,A man is dancing.,A man is singing.,1.25
+1463,main-news,headlines,2015,1169,none,none,China yuan weakens to 6.1559 against USD,China yuan weakens to 6.1818 against USD Tuesday,3.6
+905,main-forums,answers-forums,2015,1521,none,none,"A quick research (1, 2) showed me that the concentration of caffeine seems to peak about 30-60mins after ingestion.",The issue is that it never becomes useful in its true meaning.,0.0
+1304,main-news,headlines,2013,528,none,none,Manchester United slashes price for US IPO,Manchester United Reveal Share Price Details,2.4
+1292,main-news,headlines,2013,387,none,none,"At CPAC, Mitt Romney Stresses Conservative Credentials",CPAC 2012: Mitt Romney Struggles to Connect with Conservative Base,3.2
+165,main-captions,MSRvid,2012,274,none,none,A man is playing a guitar.,The girl is playing the guitar.,2.25
+1234,main-news,MSRpar,2012,599,none,none,"An incremental step reported by researchers at the University of California, San Francisco, is the latest in a decade-long effort.","The incremental step, reported by researchers at UC San Francisco, is the latest in a decade-long effort to infect mice with the virus.",3.25
+25,main-captions,MSRvid,2012,147,none,none,A girl is riding a horse.,A girl is riding a bicycle.,1.917
+1260,main-news,headlines,2013,88,none,none,IAF strike Gaza terror hubs,IAF strikes Gaza terror cell; 1 dead,3.2
+1137,main-news,MSRpar,2012,92,none,none,"The new system costs between $1.1 million and $22 million, depending on configuration.","The system is priced from US$1.1 million to $22.4 million, depending on configuration.",3.6
+51,main-captions,MSRvid,2012,305,none,none,Someone is stirring chili in a kettle.,Someone is stirring a pot of chili with a spoon.,3.8
+560,main-captions,track5.en-en,2017,122,none,none,Men are fighting after a basketball game.,The men are playing a game of basketball.,2.2
+334,main-captions,images,2014,589,none,none,A person is standing underneath an overpass near a highway.,A person walks a dog along the water's edge.,0.2
+1235,main-news,MSRpar,2012,612,none,none,"Bush turned out a statement yesterday thanking the commission for its work, and said, ""Our journey into space will go on.""","Mr. Bush did not discuss this when he issued a brief statement yesterday thanking the commission for its work, and saying, ""Our journey into space will go on.""",3.6
+1376,main-news,headlines,2014,438,none,none,No radiation leak at Iran's nuclear plant,US Congress may throw wrench into Iran nuclear deal,0.8
+1302,main-news,headlines,2013,490,none,none,EU Set for New Sanctions on Iran,EU plans major new sanctions against Iran,4.4
+1215,main-news,MSRpar,2012,489,none,none,"The upcoming second-quarter earnings season will be particularly important in offering investors guidance, they say.",They say second-quarter earnings reports will be key in giving investors that guidance.,5.0
+1096,main-news,MSRpar,2012,528,none,none,"A federal appeals court ruled Tuesday that the government was free to withhold the names of more than 700 people detained in the aftermath of Sept. 11, 2001.","A federal appeals court ruled Tuesday that the U.S. government can withhold the names of people detained as part of the September 11 investigation, reversing a lower court decision.",3.6
+1093,main-news,MSRpar,2012,505,none,none,"Just five months ago, Dean committed to accepting taxpayer money and vowed to attack any Democrat who didnt.","Just five months ago, Dean committed to accepting taxpayer money and the spending limits that come with it and vowed to attack any Democrat who didnt.",3.6
+147,main-captions,MSRvid,2012,134,none,none,The man is hiking in the woods.,A man is tracking in the wood.,3.0
+1332,main-news,headlines,2014,10,none,none,7 detained for 'house sister' scandal,"China detains 7 for ""house sister"" scandal",4.2
+1045,main-news,MSRpar,2012,223,none,none,"Deaths in rollover crashes accounted for 82 percent of the number of traffic deaths in 2002, the agency says.","Fatalities in rollover crashes accounted for 82 percent of the increase in 2002, NHTSA said.",3.25
+413,main-captions,images,2015,456,none,none,A group of people are at a convention waving American flags.,A crowd of people at an outdoor event,2.4
+386,main-captions,images,2015,178,none,none,A black dog is chasing two birds on the shore of the ocean.,A dog is running along the beach beside the ocean.,2.6
+995,main-forums,answers-forums,2015,1967,none,none,The answer to your question is: It depends on how the writer works.,"At first, I thought this is a bit of a tricky question.",0.8
+250,main-captions,images,2014,0,none,none,A cat standing on tree branches.,A black and white cat is high up on tree branches.,3.6
+437,main-captions,images,2015,718,none,none,A black dog lays in the sand.,Kids play in the water,0.0
+816,main-forums,answers-forums,2015,1061,none,none,My son didn't become potty trained until about his 4th birthday.,Here are some things that worked with my son who started toilet training around 2.5 years.,1.6
+44,main-captions,MSRvid,2012,261,none,none,A man plays a guitar.,A man plays the piano.,1.4
+240,main-captions,MSRvid,2012,690,none,none,The man is trying to feed the snake with a mouse.,A man is working on his laptop.,0.8
+791,main-forums,answers-forums,2015,934,none,none,I visit AZ every summer and include some hikes in the desert when I'm there.,"Apart from what has been said, your need of water also depends on what you eat.",0.2
+898,main-forums,answers-forums,2015,1488,none,none,Professor Burkhauser has done extensive research on who is hurt by higher minimum wages.,"Minimum wage laws hurt the least skilled, least productive the most.",2.8
+454,main-captions,images,2015,869,none,none,A man in a grey suit kneels in front of a woman in a white dress.,A woman in red with a beer followed by a man in white.,0.0
+1349,main-news,headlines,2014,154,none,none,Calif man pleads not guilty in girl kidnap case,Calif. man pleads not guilty in terrorism case,2.2
+365,main-captions,images,2014,739,none,none,Two cats sitting together on the sofa looking out the window.,Two cats sit on the back of a couch looking out the window.,4.2
+957,main-forums,answers-forums,2015,1774,none,none,"Actually, it's much more easier to count the one NOT on the same continent.","That is also the recommended strategy for marathons, if you are going for time.",0.0
+373,main-captions,images,2015,54,none,none,A dog runs on brown grass.,A wet dog runs through the yellow grass holding a tennis ball.,2.2
+436,main-captions,images,2015,706,none,none,Two dogs are sniffing something in the rocks.,Two dogs running down a path in the woods.,1.6
+851,main-forums,answers-forums,2015,1217,none,none,"The difference between ""necessary"" and ""sufficient"" is the direction of the logical arrow.","sufficient is an upper bound, necessary is a lower bound.",2.0
+119,main-captions,MSRvid,2012,686,none,none,A cat is on a robot.,A man is eating bread.,0.0
+1004,main-news,MSRpar,2012,15,none,none,"A key question was whether France, which infuriated Washington by leading the charge against U.N. authorization for the war, would vote ""Yes"" or abstain.","France, which infuriated Washington by leading the charge against U.N. approval for the war, also sought changes.",2.6
+1371,main-news,headlines,2014,393,none,none,Almagor blasts Netanyahu over prisoner release,Yacimovich urges cabinet to approve Palestinian prisoners release,1.4
+507,main-captions,track5.en-en,2017,13,none,none,A man is carrying a canoe with a dog.,A dog is carrying a man in a canoe.,1.8
+1246,main-news,MSRpar,2012,721,none,none,"Trans fats are created when hydrogen is added to vegetable oil, solidifying it and increasing the shelf life of certain food products.","Trans fats are created when vegetable oil has been partially hydrogenated, solidifying it and increasing the shelf life of certain products.",4.8
+889,main-forums,answers-forums,2015,1426,none,none,"Let me share my opinion as Ukrainian citizen, from Kharkiv, eastern Ukraine.",I am sure this is more phylosophical and ethical question than it seems.,0.0
+564,main-captions,track5.en-en,2017,130,none,none,Three men are drying to pull a Subaru out of a ditch along a mountain road.,Two men are waiting for a ride on the side of a dirt road.,1.4
+1409,main-news,headlines,2015,109,none,none,Another migrant ship capsizes off Italy,"Another migrant boat capsizes off Italy, 27 dead",3.8
+785,main-forums,answers-forums,2015,903,none,none,A few points to add here: Coyotes are not know to be aggressive towards humans.,In general they are not considered dangerous because they rarely attack humans.,3.2
+142,main-captions,MSRvid,2012,78,none,none,The man is smashing garlic.,A man is smashing some garlic.,5.0
+1353,main-news,headlines,2014,200,none,none,2 police killed in eastern Afghan explosion,At least 28 people die in Chinese coal mine explosion,0.4
+779,main-forums,answers-forums,2015,842,none,none,"As you can see from this map on the Wals.info site, there are many.",This is an example I always find is helpful for first year.,0.6
+1274,main-news,headlines,2013,211,none,none,Government promises action on Heathrow queues,Finance minister promises no new taxes,0.4
+599,main-captions,track5.en-en,2017,190,none,none,There are four snowboarders going off a jump and that are in the air.,Two racers are coming to a turn.,1.0
+442,main-captions,images,2015,750,none,none,Two tan and white dogs and one tan dog racing down the beach near the water.,Lady in a pink Tinkerbell jacket stands next to the railing and looks out at the water.,0.2
+1123,main-news,MSRpar,2012,16,none,none,"The last time the survey was conducted, in 1995, those numbers matched.","In 1995, the last survey, those numbers were equal.",5.0
+266,main-captions,images,2014,92,none,none,The udders of a dairy cow that is standing in a pasture near a large building.,The black and brown cow is standing on the green grass.,2.0
+567,main-captions,track5.en-en,2017,136,none,none,Female in a maroon shirt engaged in conversation with another female in a tan blazer.,"A girl in a blue dress and another girl in a purple dress, both smiling.",1.2
+682,main-forums,answers-forums,2015,326,none,none,I just hold the cheese closer to the edge away from the grater.,"By the wording of the question, I'm pretty sure you're using one of those pyramidal graters or a ""sheet"" grater.",1.4
+239,main-captions,MSRvid,2012,684,none,none,Women are holding each other and dancing together.,Two men are playing table tennis.,0.0
+1201,main-news,MSRpar,2012,407,none,none,John Hickenlooper had 65 percent of the vote to 35 percent for City Auditor Don Mares.,"Hickenlooper clobbered city Auditor Don Mares, 46, in the Tuesday runoff.",2.4
+528,main-captions,track5.en-en,2017,66,none,none,A woman looks at a duck as she walks behind it.,A woman is going on a walk with her dog.,1.0
+277,main-captions,images,2014,166,none,none,Two women posing with a baby.,Two smiling women holding a baby.,4.0
+293,main-captions,images,2014,281,none,none,A black-and-white photo of a loveseat.,A black and white photo of an old train station.,1.2
+815,main-forums,answers-forums,2015,1059,none,none,I'm facing a similar situation; being Danish and living in (German-speaking) Austria.,An alternative would be to expose her solely or additionally to Hindi in daycare.,0.0
+1182,main-news,MSRpar,2012,314,none,none,He also said the academy will get its own internal report next week detailing the seriousness of the remaining problem.,"The academy will get its own internal report next week and it will be made public, Rosa said.",3.333
+205,main-captions,MSRvid,2012,474,none,none,A man is serving cake.,A man seasoning quail.,0.75
+1048,main-news,MSRpar,2012,234,none,none,"The broader Standard & Poor's 500 Index <.SPX> eased 7.57 points, or 0.76 percent, at 990.94.","The technology-laced Nasdaq Composite Index was down 25.36 points, or 1.53 percent, at 1,628.26.",0.8
+977,main-forums,answers-forums,2015,1860,none,none,The answer will depend significantly on what country you're traveling to.,"As someone who has always travelled with a lot of prescription medication, I always declare it.",1.0
+451,main-captions,images,2015,828,none,none,A dog and a red ball in the air.,A dog digs a hole in a yard.,1.0
+837,main-forums,answers-forums,2015,1146,none,none,You should take this animal to a vet right away.,"As covered in the other answers, your only option is to see a vet in order to have surgery done.",3.6
+1016,main-news,MSRpar,2012,72,none,none,"The technology-laced Nasdaq Composite Index <.IXIC> jumped 26 points, or 1.78 percent, to 1,516.","The broad Standard & Poor's 500 Index .SPX was up 8.79 points, or 0.96 percent, at 929.06.",0.8
+430,main-captions,images,2015,667,none,none,Two dogs in the snow,Two dogs play in the grass.,2.4
+1042,main-news,MSRpar,2012,200,none,none,YES filed suit yesterday in the Supreme Court of New York County in Manhattan.,The suit was filed in the Supreme Court of New York County.,3.0
+181,main-captions,MSRvid,2012,379,none,none,A woman is playing the flute.,A man is playing a keyboard.,1.0
+1057,main-news,MSRpar,2012,301,none,none,The Securities and Exchange Commission has also initiated an informal probe of Coke.,That federal investigation is separate from an informal inquiry by the Securities and Exchange Commission.,2.2
+984,main-forums,answers-forums,2015,1903,none,none,"Yes, this is OK, as it allows you to emphasise certain things, that you want the readers to notice.",I believe this is perfectly acceptable and does a good job of emphasising your point.,4.0
+290,main-captions,images,2014,254,none,none,Sheep are grazing in a grassy field near a stand of trees.,Sheep are grazing in the field in front of a line of trees.,4.6
+206,main-captions,MSRvid,2012,476,none,none,Someone is greating a carrot.,A woman is grating an orange food.,2.5
+379,main-captions,images,2015,119,none,none,Kids playing ball in the park.,Two dogs playing by the shore.,0.6
+264,main-captions,images,2014,72,none,none,A red double decker bus on a crowded street.,A double decker bus on a city street.,4.2
+329,main-captions,images,2014,570,none,none,An AeroMexico jet taxing along a runway.,A silver AreoMexico Jet Liner sitting on the tarmac.,3.2
+441,main-captions,images,2015,740,none,none,Two dogs are playing on the beach together.,Two black dogs are playing in a grass.,3.0
+1266,main-news,headlines,2013,137,none,none,Suicide bomber kills 4 near NATO's Afghan HQ,Suicide bomber kills 23 at Afghan wedding,1.6
+687,main-forums,answers-forums,2015,341,none,none,I grill salmon that I get with the skin on.,Salmon is a great choice and it's readily available pretty much everywhere.,1.8
+916,main-forums,answers-forums,2015,1569,none,none,I disagree with Josh Bruce on some of his tips.,Research does indicate that sleeping after studying is a pretty good rule-of-thumb.,0.6
+110,main-captions,MSRvid,2012,611,none,none,A person is boiling soup.,A woman is placing eggs into a pan.,0.25
+1448,main-news,headlines,2015,936,none,none,DPRK leader calls for better ties with S.Korea,North Korea urges foreigners to leave South Korea,0.4
+821,main-forums,answers-forums,2015,1093,none,none,"Most of the literature I can find about infant sleeping has to do primarily with waking habits, not eating habits.","In my experience, babies tend to wake up by themselves when they get hungry.",2.6
+11,main-captions,MSRvid,2012,39,none,none,A man is playing a guitar.,A man is playing a flute.,1.583
+328,main-captions,images,2014,563,none,none,"A long-haired man with a hat standing between two large, half-empty Coke bottles.",A man with a cap and jacket walking between two large bottles.,3.6
+396,main-captions,images,2015,294,none,none,The white and brown dog is running quickly through the grass.,The big white dog is running in the grass.,3.4
+596,main-captions,track5.en-en,2017,183,none,none,A girl in water without goggles or a swimming cap.,"A girl in water, with goggles and swimming cap.",3.0
+515,main-captions,track5.en-en,2017,36,none,none,Four girls happily walk down a sidewalk.,Three young girls walk down a sidewalk.,3.4
+986,main-forums,answers-forums,2015,1916,none,none,David Weber's The War God's Own has some lengthy travel scenes in it which he does quite well.,One thing that should be used as a seasoning in Odyssey tales is the idea of the false destination.,0.2
+943,main-forums,answers-forums,2015,1702,none,none,It is simply the number of balls bowled divided by the number of wickets taken.,Bowling strike rate is defined for a bowler as the average number of balls bowled per wicket taken.,4.4
+1040,main-news,MSRpar,2012,186,none,none,"Paul Themba Nyathi, an MDC spokesman, said the Avenues Clinic was being targeted because it was treating opposition supporters.",MDC spokesperson Paul Themba Nyathi said the Avenues Clinic was targeted because it was handling opposition supporters.,4.6
+410,main-captions,images,2015,448,none,none,A black dog is running through the snow.,The black and brown dog is running through the snow.,4.0
+348,main-captions,images,2014,654,none,none,Blue couch and twin bed in a living room.,A leather couch and wooden table in a living room.,2.2
+521,main-captions,track5.en-en,2017,49,none,none,a girl with vases in the background inside her house,The girl is standing as the other girl with glasses works on her hand painting.,0.2
+915,main-forums,answers-forums,2015,1568,none,none,The best way to clear your head after a study session is by taking on a vigorous physical exercise (min.,What works for me is to switch the subjects and take frequent breaks.,2.2
+1493,main-news,headlines,2016,1095,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Israeli police clash with Palestinian protesters at sensitive Jerusalem holy site,Israel Police Clash With Palestinians in Jerusalem,3.0
+720,main-forums,answers-forums,2015,517,none,none,"I feel your pain - I absolutely pour with sweat with any vigorous exercise, even in cool conditions.","Sweat rate is sweat rate, you can't really control it.",1.0
+656,main-forums,answers-forums,2015,147,none,none,"The farther away, the faster the galaxies move away from us.",Here is my answer to a similar question posted on the physics stack exchange website.,0.0
+57,main-captions,MSRvid,2012,345,none,none,A man is jumping into water.,A man is cutting paper.,0.8
+880,main-forums,answers-forums,2015,1394,none,none,"Anil, there certainly is a difference in results, mainly in image quality.","If you want to learn photography, almost any camera will do to start with.",1.0
+1194,main-news,MSRpar,2012,369,none,none,"Barbini said the union may reach a compromise with the United States but it wants a system for labeling such foods, something the industry successfully fought here.","Barbini said the EU may reach a compromise but it wants a system for labeling such foods, something the industry has resisted.",3.25
+759,main-forums,answers-forums,2015,736,none,none,These are tickets to the archaeological sites of Epidaurus (which includes the still in use theatre) and Mycenae.,I guess those are greek tickets (εισιτηριον) for excavation sites or museums.,2.6
+35,main-captions,MSRvid,2012,213,none,none,A puppy plays with a plastic container.,The dog is playing with a plastic container.,3.8
+766,main-forums,answers-forums,2015,791,none,none,"Dominus, plural Domini, in ancient Rome, “master,” or “owner,” particularly of slaves.","A greek-speaking slave (δούλος, doulos) I think would call his master κύριος (translit: kurios; lord, master, sir; vocative form: κύριε).",2.2
+866,main-forums,answers-forums,2015,1305,none,none,"Apart from aperture and focal length, depth of field also decreases with camera-subject distance.","The wider your aperture, the smaller your focal depth will be.",2.6
+203,main-captions,MSRvid,2012,453,none,none,A woman is mixing eggs.,The woman is eating.,0.5
+245,main-captions,MSRvid,2012,733,none,none,A woman is adding some mushrooms and liquid to a pot.,A young man is playing the guitar.,0.0
+1323,main-news,headlines,2013,696,none,none,Malawi confirms president's death,Malawi confirms President Mutharika's death,4.0
+211,main-captions,MSRvid,2012,522,none,none,A woman is removing skin from some meat.,A woman is slicing a tomato.,1.2
+843,main-forums,answers-forums,2015,1179,none,none,We always put it crushed up in a bit of butter or on a sardine.,"We had a cat that required daily medication, and it was a struggle to give the cat a pill.",1.4
+1031,main-news,MSRpar,2012,153,none,none,"This integrates with Rational PurifyPlus and allows developers to work in supported versions of Java, Visual C# and Visual Basic .NET.","IBM said the Rational products were also integrated with Rational PurifyPlus, which allows developers to work in Java, Visual C# and VisualBasic .Net.",3.5
+1265,main-news,headlines,2013,136,none,none,Colorado shooting suspect was in therapy,Lawyers: Colo. shooting suspect is mentally ill,4.2
+97,main-captions,MSRvid,2012,551,none,none,A woman is putting her baby in a waste bin.,The woman is poking holes in the potato.,0.0
+1425,main-news,headlines,2015,487,none,none,"Quotes from leaders, family at Mandela memorial",Obama shakes hands with Cuba's Castro at Mandela memorial,2.0
+295,main-captions,images,2014,284,none,none,Living room or den with large screen television.,Living room with tan furniture and flat screen television.,3.2
+1011,main-news,MSRpar,2012,58,none,none,Shares of Coke closed New York Stock Exchange trading Thursday at $44.01.,"In morning trading on the New York Stock Exchange, Coca-Cola shares were down 34 cents at $43.67.",2.4
+523,main-captions,track5.en-en,2017,53,none,none,People rock jumping into water while people fish in the background.,Two people watching the water.,2.2
+186,main-captions,MSRvid,2012,390,none,none,A woman is cutting potato.,A woman is riding a horse.,0.75
+557,main-captions,track5.en-en,2017,117,none,none,four people walk toward a tower,Two men walk toward a dome-shaped building.,2.0
+649,main-forums,answers-forums,2015,114,none,none,All of these effects are related to the 11 year solar cycle.,I will be specific to answering the part regarding the prediction of solar flares.,0.8
+1315,main-news,headlines,2013,633,none,none,"Romney leads rivals, not Obama, in fundraising",Romney: I left all management of Bain in 1999,0.8
+819,main-forums,answers-forums,2015,1085,none,none,Playing doctor is something all kids want to try at some point.,I have been in a simular situation with my daughter and a female friend when they were 5 and 4.,1.8
+286,main-captions,images,2014,220,none,none,Large silver locomotive engine in a shed.,The silver train is parked in a station.,2.6
+415,main-captions,images,2015,466,none,none,A white dog is running through the water at a beach,A white dog is running through the water onto the shore.,4.6
+421,main-captions,images,2015,532,none,none,Three dogs are playing in the white snow.,Two dogs are playing in the grass.,1.6
+1273,main-news,headlines,2013,210,none,none,Israeli Leader Puts Off Evicting Settlers From Hebron House,Israeli army orders settlers out of Hebron house,1.6
+19,main-captions,MSRvid,2012,88,none,none,A man is speaking.,A man is spitting.,0.636
+1352,main-news,headlines,2014,188,none,none,"Red grapes and blueberries boost immune system, scientists say","Red grapes, blueberries boost human immunity",4.2
+292,main-captions,images,2014,267,none,none,Children looking a sheep.,Child milking a cow outside.,0.6
+46,main-captions,MSRvid,2012,265,none,none,A woman is taking a picture.,A man is playing a guitar.,0.25
+130,main-captions,MSRvid,2012,743,none,none,A man plays an acoustic guitar.,A woman and dog are walking together.,0.0
+886,main-forums,answers-forums,2015,1409,none,none,The president is not really all that important for German people.,The function of the german president is almost just representative.,4.0
+87,main-captions,MSRvid,2012,506,none,none,A man is pressing microwave buttons.,A man turns on the microwave.,2.75
+449,main-captions,images,2015,812,none,none,"Three clowns in bright, multi-colored costumes.",Three women in brightly colored dresses.,2.0
+1288,main-news,headlines,2013,336,none,none,Spanish jobless rate soars past 25 per cent,"US jobless rate seen rising, offering Obama no relief",1.0
+94,main-captions,MSRvid,2012,539,none,none,The boy is playing the piano.,A band is playing on stage.,1.333
+377,main-captions,images,2015,69,none,none,Two white dogs are walking through deep white snow.,Two white dogs walk through a huge bank of mountain snow.,4.6
+302,main-captions,images,2014,312,none,none,A kitchen with wood cabinets and dining table.,A kitchen with wooden cabinets and furniture.,4.4
+1480,main-news,headlines,2016,330,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Treasury proposal sees 1.5% increase in income tax,Treasury proposes 1.5% income tax raise in budget,4.0
+1046,main-news,MSRpar,2012,225,none,none,"The pound also made progress against the dollar, reached fresh three-year highs at $1.6789.","The British pound flexed its muscle against the dollar, last up 1 percent at $1.6672.",3.25
+104,main-captions,MSRvid,2012,575,none,none,A woman is chopping onion.,A man is doing a card trick.,0.0
+1088,main-news,MSRpar,2012,499,none,none,Neither Iowa State athletic director Bruce Van De Velde nor Morgan could be reached for comment.,Iowa State athletic director Bruce Van de Velde would not confirm an offer was made to Lebo.,2.8
+724,main-forums,answers-forums,2015,541,none,none,"If you're doing a full body workout 6 days a week, you absolutely need the rest week.",There are both physiological and neurological reasons to build in rest.,2.6
+350,main-captions,images,2014,665,none,none,A bird eating from a bird feeder.,A yellow bird eating fruit on a bird feeder.,3.2
+1447,main-news,headlines,2015,928,none,none,Fire in Russian psychiatric hospital kills 38,38 feared dead in Russian psychiatric hospital fire,4.2
+331,main-captions,images,2014,575,none,none,An older Asian couple poses with a newborn baby at the dinner table.,A group of elderly people pose around a dining table.,2.4
+531,main-captions,track5.en-en,2017,73,none,none,The four women are practicing for a upcoming match.,The women are in a play,1.2
+1473,main-news,headlines,2015,1417,none,none,World's oldest man dies at 116,Japan: World's Oldest Man Ever Dies Aged 116,4.6
+171,main-captions,MSRvid,2012,317,none,none,The man is shaking hands with other men.,A man is shaking another mans hand.,4.333
+1027,main-news,MSRpar,2012,145,none,none,"The dollar was at 116.92 yen against the yen , flat on the session, and at 1.2891 against the Swiss franc , also flat.","The dollar was at 116.78 yen JPY= , virtually flat on the session, and at 1.2871 against the Swiss franc CHF= , down 0.1 percent.",3.2
+267,main-captions,images,2014,97,none,none,A woman posing by a pillar with a U2 sign.,"a woman is standing by a pillar where ""u2"" is written.",4.2
+307,main-captions,images,2014,394,none,none,Two bald eagles perched on a branch.,Two eagles are perched on a branch.,4.2
+297,main-captions,images,2014,288,none,none,A doubly decker red bus driving down the road.,A red double decker bus driving down a street.,5.0
+945,main-forums,answers-forums,2015,1714,none,none,"We only used Fartlek as a fitness measurement, and as a bit of fun.",Fartlek is not more effective than any proper interval training - just more fun!,2.6
+1418,main-news,headlines,2015,355,none,none,"Syrian forces hit mosque with barrel bomb, kill 5",Hunting for clues in Boston bombing,0.4
+134,main-captions,MSRvid,2012,16,none,none,The man is slicing a potato.,A man is slicing potato.,5.0
+485,main-captions,images,2015,1302,none,none,A man is skating down a set of stairs.,The man is skiing down a snowy hill.,0.8
+538,main-captions,track5.en-en,2017,85,none,none,A man has his skis ready for the field to get iced out,A man on a boat getting ready to pull in his net to see what he caught.,0.4
+640,main-forums,answers-forums,2015,93,none,none,"This does not fully answer your question, but it is certainly one consideration.","I am a PhD student in Computational Science, which is an interdisciplinary major spanning mathematics, computer science, and engineerning.",0.0
+674,main-forums,answers-forums,2015,279,none,none,"Since this is a relatively new problem for behavioral researchers, I don't know that there is a common consensus.","I'll address just the first of your three sub-questions, the others have been answered by Chuck Sherrington.",0.0
+944,main-forums,answers-forums,2015,1705,none,none,"Yes, absolutely - the receiving player must allow the ball to bounce before returning the serve - or any shot, actually.","Yes, the receiver needs to wait until the ball touches his playing area, otherwise it counts as being obstructed.",3.0
+1282,main-news,headlines,2013,272,none,none,Jordan Opens First Tent Camp for Syrian Refugees,Jordan Opens First Refugee Camp for Syrians,4.8
+1301,main-news,headlines,2013,475,none,none,Egypt's Coptic Pope Shenuda III dies,Egypt prepares to bury Coptic Pope Shenuda III,3.6
+389,main-captions,images,2015,216,none,none,Two dogs fighting in the snow.,Two dogs standing in the snow.,2.4
+1195,main-news,MSRpar,2012,370,none,none,The blaze then spread to several surrounding structures on the property and destroyed them.,The fire spread to several surrounding structures on the property and destroyed them as deputies held back firefighters.,4.0
+654,main-forums,answers-forums,2015,129,none,none,"As per your definition, a star formed in a binary system (hence near some gravitating body) is a generalised planet.","The main flaw with your definition of a ""generalised planet"" would be the boundary between stars and planets.",3.2
+190,main-captions,MSRvid,2012,405,none,none,A child runs into and out of the ocean waves.,A young boy is running toward and from the ocean waves.,3.8
+443,main-captions,images,2015,754,none,none,A man is riding a bicycle on a dirt path.,Two dogs running along dirt path.,1.6
+776,main-forums,answers-forums,2015,835,none,none,All the same methods of analysis that are used with spoken languages apply successfully to signed languages.,One idea that's been going around at least since the 80s is that you can distinguish between Holds and Moves.,0.2
+342,main-captions,images,2014,616,none,none,A man with glasses and two plastic bottles in the foreground.,A man talking with two water bottles sitting in front of him.,3.0
+1464,main-news,headlines,2015,1172,none,none,Israelis and Palestinians aim to negotiate a 'final' peace deal after positive talks,Israeli army kills 3 Palestinian militants in West Bank clashes,1.6
+678,main-forums,answers-forums,2015,310,none,none,"In addition to oil, make sure the grill is nice and hot before you start cooking.","I'd been using paper towels to oil the grill, and I just discovered that newspapers work a lot better.",1.6
+1417,main-news,headlines,2015,348,none,none,Israel expands subsidies to settlements,Israel widens settlement subsidies,5.0
+1318,main-news,headlines,2013,668,none,none,Sly Stallone's Sone Sage Found Dead in LA,Sylvester Stallone's Son Found Dead At Home,4.2
+1439,main-news,headlines,2015,752,none,none,17 govt employees killed in Pakistan bus bombing,At least 78 killed in Pakistan church bombing,0.8
+1073,main-news,MSRpar,2012,403,none,none,"Actor Noah Wyle, who has played Dr. John Carter since the shows inception in 1994, extended his contract with the show through the 2004-2005 season.","Noah Wyle, who has played Dr. John Carter since the series launched in 1994, has inked a one-year extension to his deal with producer Warner Bros. TV.",3.8
+635,main-forums,answers-forums,2015,59,none,none,The academic year does start around September in the USA and I think most European countries.,"I would not accelerate things, to avoid getting worse grades that you want.",0.2
+47,main-captions,MSRvid,2012,280,none,none,The man is riding a horse.,A woman is using a hoe.,0.0
+751,main-forums,answers-forums,2015,702,none,none,Some villages had histories and thus names going back to Ancient Roman times.,"Many towns and villages took their name from the ruling family, the owners of the village.",1.2
+141,main-captions,MSRvid,2012,76,none,none,A man dives into a pool.,A man dives into a swimming pool.,5.0
+1319,main-news,headlines,2013,670,none,none,"Clinton: US, Europe must do more against tyrants","Clinton: US, Europe Must Work to Defeat Tyrants",4.4
+143,main-captions,MSRvid,2012,79,none,none,A man is cutting up a potato.,A man is cutting up carrots.,2.375
+951,main-forums,answers-forums,2015,1739,none,none,"Reading your post, made me think of my younger years !!",I'd say you need to distract yourself from the bigger picture.,0.0
+1331,main-news,headlines,2014,9,none,none,Suicide bomber hits funeral in Iraq,Suicide bomber strikes in Syria,1.8
+1429,main-news,headlines,2015,533,none,none,Chinese shares close higher on Tuesday,Chinese shares close lower on Wednesday,1.8
+1291,main-news,headlines,2013,377,none,none,Five dead in Pakistan suicide blast,Over 120 dead in Pakistan factory blaze,0.6
+417,main-captions,images,2015,477,none,none,a skateboard performs a trick off a quarter pipe.,A skateboarder attempts to do a trick over a homemade ramp.,3.2
+1467,main-news,headlines,2015,1254,none,none,Iran backs proposal for meeting on Syria conflict,Iran says Israel lying about rockets,0.4
+1157,main-news,MSRpar,2012,190,none,none,"For the entire season, the average five-day forecast track error was 259 miles, Franklin said.","""The average track error for the five-day (forecast) is 323 nautical miles.",1.75
+169,main-captions,MSRvid,2012,285,none,none,Someone is pouring chicken broth into a pot.,The man is pouring broth into the pot.,3.75
+723,main-forums,answers-forums,2015,539,none,none,"Rotate through square, lunges and calf raises doing each until you feel a little burn.","Air squats, forward and side lunges, sprawl, wall chair, and lots and lots of jump rope.",1.6
+406,main-captions,images,2015,416,none,none,Two people are walking by the ocean.,Two men in fleeces and hats looking at the camera.,0.4
+719,main-forums,answers-forums,2015,507,none,none,"Yes, you should stretch before running, but not the sit down and reach kind of stretching.",Neuromuscular Activation and Dynamic Stretching Here is an excellent video on a dynamic stretching routine for running.,1.8
+1310,main-news,headlines,2013,566,none,none,Romney rocked by secret video,Romney taped at secret donor talk,2.8
+584,main-captions,track5.en-en,2017,163,none,none,A woman is in the bathroom.,The woman is in a bathroom.,4.6
+1094,main-news,MSRpar,2012,512,none,none,Artists are worried the plan would harm those who need help most - performers who have a difficult time lining up shows.,The artists say the plan will harm French culture and punish those who need help most - performers who have a hard time lining up work.,3.0
+285,main-captions,images,2014,215,none,none,People ride mopeds in an urban setting.,People riding horses in a fenced area.,1.4
+1488,main-news,headlines,2016,832,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Bombings kill 9 people in Iraqi capital,Bombings kill 19 people in Iraq,2.0
+921,main-forums,answers-forums,2015,1597,none,none,"Some studies suggest open-space environments lower working efficiency with 2-10% due to interruptions, stress and noise.",There's an iPhone app called Groups which might be helpful.,0.0
+1097,main-news,MSRpar,2012,535,none,none,"The time was about 4 a.m. on March 18, just hours before the first pinpoint missiles rained down on the capital.","The seizure occurred at 4am on March 18, just hours before the first American air assault.",3.0
+188,main-captions,MSRvid,2012,396,none,none,A man is singing into a microphone.,A man is dancing in the rain.,0.4
+580,main-captions,track5.en-en,2017,158,none,none,Two girls are playing Doctor inside their house.,The two girls are walking with their father.,0.8
+1176,main-news,MSRpar,2012,287,none,none,"""The European Union is basically absent,"" said Tito Barbini, regional minister for agriculture in Tuscany, Italy.","Tito Barbini, a regional minister for agriculture in Tuscany, Italy, criticized the absence Tuesday in Sacramento.",3.4
+154,main-captions,MSRvid,2012,182,none,none,A woman is hitting a man.,A woman is taking a bath.,0.2
+199,main-captions,MSRvid,2012,441,none,none,The boy is playing the piano.,The woman is pouring oil into the pan.,0.0
+1389,main-news,headlines,2014,553,none,none,Guatemala arrests software guru John McAfee,"Held in Guatemala, software guru McAfee fights deportation",3.4
+822,main-forums,answers-forums,2015,1097,none,none,Here is my advice based on my personal experience pumping breastmilk for twin boys for a full year.,"I understand that the first 3 days are the most important, so much so it is vital you do it then.",0.4
+917,main-forums,answers-forums,2015,1570,none,none,"Currently I've got a fairly close to purely digital GTD setup, although this could do with some refinements and tweaks.",My GTD system is effectively 100 percent electronic--as described in detail here.,3.4
+1298,main-news,headlines,2013,467,none,none,Prince Philip hospitalised in London,"Britain's Prince Philip hospitalised, to miss jubilee",3.6
+1328,main-news,headlines,2013,732,none,none,China's CPI growth slows to 1.8 pct in July,China's industrial output growth slows to 9.2 pct in July,2.6
+444,main-captions,images,2015,758,none,none,A seated young woman in a hat is reading at a coffee shop.,a woman enjoying her reading at a coffee shop,4.4
+1077,main-news,MSRpar,2012,450,none,none,"A former candidate for governor of New York, he styled himself an advocate of better corporate governance.","Mr. McCall, who ran unsuccessfully for governor of New York in 2002, styled himself an advocate of better corporate governance.",3.25
+962,main-forums,answers-forums,2015,1788,none,none,"Glad to hear you've started playing hockey, its a great sport!",A general rule of thumb is every 5-6 hours of skating.,0.4
+1160,main-news,MSRpar,2012,201,none,none,Beleaguered telecommunications gear maker Lucent Technologies is being investigated by two federal agencies for possible violations of U.S. bribery laws in its operations in Saudi Arabia.,Two federal agencies are investigating telecommunications gear maker Lucent Technologies for possible violations of U.S. bribery laws in its operations in Saudi Arabia.,4.8
+335,main-captions,images,2014,591,none,none,A woman and child push strollers down the sidewalk.,A women and a young girl walking pushchairs along the sidewalk.,3.4
+1392,main-news,headlines,2014,588,none,none,Cannes thief 'steals $53m of jewels' in armed heist at hotel,"Robber steals $53 million worth of jewels in Cannes, police say",3.8
+996,main-forums,answers-forums,2015,1976,none,none,Webster's New World Rhyming Dictionary: Clement Wood's Updated This is the rhyming dictionary I turn to first.,"http://www.rhymezone.com/ You just type in a word, then select one of the following.",1.2
+623,main-captions,track5.en-en,2017,247,none,none,Two men are sitting in the room.,Two men are standing in a room.,3.0
+555,main-captions,track5.en-en,2017,113,none,none,Many guards are standing in front of the starting line of a race.,Two men in business dress are standing by the side of a road.,0.4
+548,main-captions,track5.en-en,2017,101,none,none,Men competing in a contest.,Two women compete in a contest.,2.4
+1041,main-news,MSRpar,2012,188,none,none,He claims it may seem unrealistic only because little effort has been devoted to the concept.,"""This proposal is modest compared with the space programme, and may seem unrealistic only because little effort has been devoted to it.",3.5
+570,main-captions,track5.en-en,2017,140,none,none,Some smiling children are standing in front of an ocean sunset.,People walking in the dark.,0.6
+979,main-forums,answers-forums,2015,1890,none,none,Would going on a cargo ship count as a tour?,"Ozbus offer a 29 week tour of South America, starting and finishing in Quito.",1.0
+118,main-captions,MSRvid,2012,682,none,none,A girl is dancing in a cage.,A onion is being chopped.,0.0
+1005,main-news,MSRpar,2012,16,none,none,"Mel Gibson's passion-stirring Biblical epic ""The Passion of Christ"" will open in the United States on Feb. 25 - Ash Wednesday on the Roman Catholic calendar.","Mel Gibson is negotiating with Newmarket Films to distribute his embattled Biblical epic ""The Passion of Christ"" in the United States.",2.0
+1006,main-news,MSRpar,2012,22,none,none,Executive recruiters say that finding a seasoned chief merchandising officer will perhaps be the trickiest of all hires because there is such a dearth of good ones.,Executive recruiters say that finding a seasoned chief merchandising officer perhaps will be the trickiest of all hires.,3.75
+1358,main-news,headlines,2014,230,none,none,Google invests $200 million in Texas wind farm,Google invests 200 million USD in Texas wind farm project,5.0
+1326,main-news,headlines,2013,727,none,none,Syria in ceasefire observers call,Syrian ceasefire brings uneasy calm,1.8
+1206,main-news,MSRpar,2012,441,none,none,"Common side effects include nasal congestion, runny nose, sore throat and cough, the FDA said.","The most common side effects after getting the nasal spray were nasal congestion, runny nose, sore throat and cough.",3.4
+1427,main-news,headlines,2015,511,none,none,Major fire breaks out in JK secretariat in Srinagar,Fire breaks out near secretariat in Srinagar,4.6
+2,main-captions,MSRvid,2012,3,none,none,A man is feeding a mouse to a snake.,The man is feeding a mouse to the snake.,5.0
+1484,main-news,headlines,2016,603,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Protests after George Zimmerman acquitted in Trayvon Martin case,Zimmerman acquitted in slaying,3.0
+763,main-forums,answers-forums,2015,751,none,none,"There were indeed some serious issues surrounding Kennedy's election in 1960, one of the closest elections in History.",As per your original question: The  Wikipedia section does not claim that Joseph P Kennedy bought John F Kennedy's victory.,1.6
+12,main-captions,MSRvid,2012,41,none,none,The cougar is chasing the bear.,A cougar is chasing a bear.,5.0
+289,main-captions,images,2014,253,none,none,Several televisions are on the floor and stacked up on top of one another.,"Three televisions, on on the floor, the other two on a box.",3.2
+1456,main-news,headlines,2015,1049,none,none,All eyes on new Pak army chief Raheel Sharif,Flood alerts in France as river levels rise,0.0
+248,main-captions,MSRvid,2012,739,none,none,The girl is slicing an onion.,A woman is chopping an onion into small pieces.,2.2
+1200,main-news,MSRpar,2012,394,none,none,"Two convicted killers and another inmate escaped from a state prison on a busy street Wednesday by cutting through a fence, a Corrections Department official said.",A convicted killer and two other inmates cut through two fences topped with razor wire and escaped from a state prison on a busy street.,3.5
+1380,main-news,headlines,2014,477,none,none,2 Pussy Riot Members Reunited in Krasnoyarsk,Freed Pussy Riot pair stir up anti-Putin protests,1.2
+998,main-forums,answers-forums,2015,1991,none,none,"In these days of googling, it's sloppy to not find the source of a quotation.","I agree with Kate Sherwood, you should be able to attribute most quotes these days by simple fact checking.",3.2
+346,main-captions,images,2014,642,none,none,A man on a motorcycle performing a wheelie.,Motorcyclist performing a wheelie next to a car.,4.0
+426,main-captions,images,2015,607,none,none,A black dog running through the snow.,A black dog runs through the water.,2.4
+1346,main-news,headlines,2014,128,none,none,Moderate earthquake jolts NW Pakistan,Moderate earthquake hits southern Pakistan,3.0
+607,main-captions,track5.en-en,2017,211,none,none,There are two men near a wall.,Three women are sitting near a wall.,2.0
+1084,main-news,MSRpar,2012,488,none,none,"""I can say I am being forced into exile by the world superpower,"" he said.","""I am being forced into exile by the world's superpower,"" Taylor said in an address videotaped at his home.",3.0
+774,main-forums,answers-forums,2015,833,none,none,The reason for this is that Russian is a much more tonal language than English.,"Although I am quite fluent in Russian, I wouldn't say English sound particularly 'cold' to me.",1.6
+676,main-forums,answers-forums,2015,286,none,none,The Hare Psychopathy Checklist is often used to assess psychopathy in clinical settings.,From an article entitled Can You Call a 9-Year-Old a Psychopath?,1.8
+394,main-captions,images,2015,268,none,none,A black dog is running after a white dog in the snow.,Black dog chasing brown dog through snow,1.8
+301,main-captions,images,2014,305,none,none,A close-up of a cat on a cream sofa.,A close-up of a horse.,1.2
+633,main-forums,answers-forums,2015,44,none,none,In general there are a number of different distinct workflows that lead to a poster.,"For completeness, Apple's Pages has quite a few nice poster layouts.",0.6
+1219,main-news,MSRpar,2012,498,none,none,"Consumer groups are against the changes, saying they hurt individuality in markets.","Consumer groups oppose the changes, saying they would concentrate too many outlets in too few media empires.",3.6
+899,main-forums,answers-forums,2015,1494,none,none,The University constituencies are modelled on the University constituencies in use in Britain in 1922 when Ireland became independent.,"This is still a representational form of gov't, but with a unique twist.",0.2
+824,main-forums,answers-forums,2015,1102,none,none,Turtles love eating goldfish and lots of things that fit into their mouths.,"First, the turtles are eating the fish because fish are food, not friends.",2.8
+310,main-captions,images,2014,414,none,none,A group of peoples posing in fur hats.,A group of cyclists in green and white with spectators looking on.,0.0
+325,main-captions,images,2014,549,none,none,A black and white photo of a bottle sitting atop a rock carving in front of a line of bushes.,A bottle of water sitting on a stone with other stones and a wall in the background.,2.0
+478,main-captions,images,2015,1200,none,none,A black and brown dog is chewing on a large stick.,A black and white dog playing in the sand.,1.8
+22,main-captions,MSRvid,2012,98,none,none,An animal is chewing on something.,An animal is chewing on a key chain.,3.2
+283,main-captions,images,2014,193,none,none,An elderly Asian couple pose with a yawning baby at a dinner table.,An older Asian couple poses with a newborn baby at the dinner table.,4.4
+1054,main-news,MSRpar,2012,277,none,none,The report shows that drugs sold in Canadian pharmacies are manufactured in facilities approved by Health Canada - the FDA's counterpart in Canada.,"The report shows that drugs sold in Canadian pharmacies are manufactured in facilities approved by Health Canada, which serves a similar role as the FDA for the Canadian government.",5.0
+757,main-forums,answers-forums,2015,730,none,none,In Hinduism and Buddhism there is message of peace and an encouragement to not be materialistic.,"This relates to the ""discovery"" of Asian, and other non-European cultures by Americans.",0.0
+124,main-captions,MSRvid,2012,717,none,none,A woman is peeling an orange.,A woman cuts off a small piece of lemon rind.,1.8
+1414,main-news,headlines,2015,296,none,none,Protesters clash with police in Caracas,Protesters Clash with Police in Brazil,3.8
+254,main-captions,images,2014,20,none,none,A group of four people in a dinner having cake.,Four people eating dessert around a table.,3.8
+209,main-captions,MSRvid,2012,506,none,none,A man shappens a knife.,A man carries a women.,0.5
+732,main-forums,answers-forums,2015,606,none,none,"Yes, you can add coffee grounds with their filters to your compost pile.",Absolutely ok; we have incorporated coffee grounds into our plant food and many of those grounds included the paper filter.,4.0
+590,main-captions,track5.en-en,2017,175,none,none,The rollerblades are moving.,Two vehicles are going towards the camera.,0.8
+1317,main-news,headlines,2013,645,none,none,Egyptians vote to pick president for first time,Egyptians wait for key presidential vote results,2.6
+801,main-forums,answers-forums,2015,1001,none,none,You are safe to use the bottles as long as they have been properly sterilised.,I would say it's completely safe so long as the bottles have been adequately rinsed to remove any detergent residue.,3.8
+1085,main-news,MSRpar,2012,490,none,none,"Investigators have meticulously looked into virtually every aspect of Campbell's personal and financial affairs, Campbell has acknowledged.","Investigators continue to probe virtually every aspect of Campbell's personal and financial affairs, the former mayor has said.",3.75
+647,main-forums,answers-forums,2015,111,none,none,"Like Chris said above, stars rotate to conserve their angular momentum.","Stars are rotating, but that's not the cause for their stability.",3.4
+1022,main-news,MSRpar,2012,104,none,none,North American markets finished mixed in directionless trading Monday as earnings season begins to slow and economic indicators move into the spotlight.,"North American markets grabbed early gains Monday morning, as earnings season begins to slow and economic indicators take the spotlight.",3.8
+639,main-forums,answers-forums,2015,89,none,none,Supporting an ideology in an ostentatious manner (rather than privately or discreetly) is a personality problem.,I think for an appropriate answer I'd need to know exactly what the 'bad' ideology is.,1.2
+1311,main-news,headlines,2013,580,none,none,Eurozone agrees to lend Spain up to $125 billion,Eurozone to lend Spain up to 100 bil. euros,3.4
+294,main-captions,images,2014,282,none,none,the back of a stop sign with many stickers on it.,The back of a sign with stickers on.,3.8
+1078,main-news,MSRpar,2012,454,none,none,"FBI agents arrested a former partner of Big Four accounting firm Ernst & Young ERNY.UL on criminal charges of obstructing federal investigations, U.S. officials said on Thursday.",A former partner of accountancy firm Ernst & Young was yesterday arrested by FBI agents in the US on charges of obstructing federal investigations.,4.6
+1117,main-news,MSRpar,2012,710,none,none,"I've still got a fighting chance, though,"" Hewitt said after battling to overcome Davydenko 6-3 4-6 6-3 7-6 (7-5) on centre court.","""I'm still not red-hot favourite,"" Hewitt said after battling to down Davydenko 6-3 4-6 6-3 7-6 (7-5) on centre court.",3.75
+946,main-forums,answers-forums,2015,1715,none,none,If the number of fours hit by two teams are also equal then both teams will get 1 point each.,This is the rule if the runs scored by two teams in Super Over is equal...,0.6
+644,main-forums,answers-forums,2015,104,none,none,It indeed appears the Andromeda galaxy (M31) and The Milky Way (MW) are en route to a collision.,"In a few billion years, the Milky Way and Andromeda will collide.",4.4
+103,main-captions,MSRvid,2012,573,none,none,A small baby is playing a guitar.,"A boy sits on a bed, sings and plays a guitar.",2.0
+1281,main-news,headlines,2013,258,none,none,Obama endorses same-sex marriage,Obama's delicate dance on same-sex marriage,2.6
+1198,main-news,MSRpar,2012,375,none,none,"""I am advised that certain allegations of criminal conduct have been interposed against my counsel,"" said Silver.","""I am advised that certain allegations of criminal conduct have been interposed against my counsel, J. Michael Boxley,'' the Silver statement said. """,3.6
+1103,main-news,MSRpar,2012,572,none,none,"Justices said that the Constitution allows the government to administer drugs only ""in limited circumstances.""","In a 6-3 ruling, the justices said such anti-psychotic drugs can be used only in ""limited circumstances.""",3.5
+1014,main-news,MSRpar,2012,65,none,none,The retailer said it came to the decision after hearing the opinions of customers and associates.,"The decision came after ""listening to our customers and associates,"" Melissa Berryhill, a spokeswoman for Wal-Mart, said.",3.2
+48,main-captions,MSRvid,2012,286,none,none,A man is drilling a hole in a board.,Someone is drilling a hole in a piece of wood.,4.0
+392,main-captions,images,2015,253,none,none,The girl with the blue bucket splashes beneath the pier.,The girl in the ski jacket is walking near the buildings.,0.4
+891,main-forums,answers-forums,2015,1433,none,none,I'm not yet able to answer if the phenomenon has an official PoliSci name.,"There are 2 problems with the viewpoint you presented in the question, which explain the seeming contradiction.",0.4
+795,main-forums,answers-forums,2015,964,none,none,"As I wrote above, it's hard to rate this wall.","Unlike others, I think the route is pretty well described.",0.2
+963,main-forums,answers-forums,2015,1792,none,none,I prefer to run the second half 1-2 minutes faster then the first.,I would definitely go for a slightly slower first half.,2.6
+1400,main-news,headlines,2014,667,none,none,Chinese shares close lower on Wednesday,China stocks close lower on Friday,2.5
+1153,main-news,MSRpar,2012,155,none,none,Joining Stern and McEntee on stage was International Union of Painters and Allied Trades President James Williams.,The International Union of Painters and Allied Trades endorsed Mr Dean several weeks ago.,2.6
+549,main-captions,track5.en-en,2017,102,none,none,The puppy is outdoor.,A man in printed board shorts is doing a yoga pose on the beach.,0.0
+31,main-captions,MSRvid,2012,189,none,none,A band is performing on a stage.,A band is playing onstage.,5.0
+107,main-captions,MSRvid,2012,580,none,none,Men are jumping into water from a bridge.,Men jump in a river.,2.75
+385,main-captions,images,2015,166,none,none,A young boy jumping into a lake.,The boy is jumping into a lake.,4.6
+194,main-captions,MSRvid,2012,414,none,none,A person uses a blowtorch on two cameras.,A person is burning cameras.,2.333
+881,main-forums,answers-forums,2015,1398,none,none,"Freezing motion generally requires one, maybe two things: fast shutter speed, and flash at the right time.","In addition to @Pearsonartphoto's answer, you can use flash (either the built-in or better yet, an extarnal) to freeze the motion.",2.6
+1324,main-news,headlines,2013,716,none,none,Venezuela's Chavez in Cuba for 3rd anti-cancer treatment,Venezuelan leader returning to Cuba for treatment,3.2
+363,main-captions,images,2014,734,none,none,Black and white cow standing in grassy field.,A black and white photo of a man standing next to a bus.,0.8
+777,main-forums,answers-forums,2015,836,none,none,"Newspeak, a ""deliberately impoverished"" language designed to prevent people from communicating and thinking about subversive ideas.",Every language is permeated by the cultural values in which it is immersed.,1.0
+1316,main-news,headlines,2013,636,none,none,9/11 defendants ignore judge at Guantanamo hearing,Sept. 11 defendants enrage families at hearing,1.0
+1269,main-news,headlines,2013,155,none,none,South Africa train crash kills at least 19,South Africa train crash kills 26,3.6
+208,main-captions,MSRvid,2012,494,none,none,A monkey is karate kicking a person.,A monkey pratices martial arts.,2.5
+469,main-captions,images,2015,1030,none,none,A boy is jumping into the water with a ball in his hand.,A little boy swimming underwater with a toy in his hand.,2.2
+198,main-captions,MSRvid,2012,436,none,none,A person is folding a square paper piece.,A person folds a piece of paper.,3.75
+69,main-captions,MSRvid,2012,419,none,none,A man shoots a man.,A man with a pistol shoots another man.,4.25
+627,main-forums,answers-forums,2015,7,none,none,"Apart from admission (which normally should not be related to age), there is something that's related to your question.","Age is not a PhD admission facor in the continental Europe, too.",1.0
+326,main-captions,images,2014,552,none,none,A black and white cat is sitting on a brown chair looking up.,Black and white cat sitting on wood chair looking up.,3.6
+1404,main-news,headlines,2014,727,none,none,US Senator McCain meets opposition leaders in Ukraine,SFG meeting reviews situation in Mali,0.2
+1204,main-news,MSRpar,2012,420,none,none,"From the start, however, the United States' declared goal was not just to topple Saddam but to stabilize Iraq and install a friendly government.",But the United States' ultimate goal was not just to topple Mr. Hussein but to stabilize the country and install a friendly government.,4.8
+879,main-forums,answers-forums,2015,1386,none,none,"Large-format cameras are very much worth buying used; they're often extremely well-cared-for, if not coddled.","If I had to pick, Linhof would be my choice.",0.6
+1,main-captions,MSRvid,2012,2,none,none,A young child is riding a horse.,A child is riding a horse.,4.75
+66,main-captions,MSRvid,2012,392,none,none,A man plays a keyboard.,A person is playing the keyboard.,4.0
+733,main-forums,answers-forums,2015,608,none,none,There are no post-emergents that specifically kill crabgrass without killing lawn grass.,I brought an Ace product that kla crab grass and you can use it below 90 degrees.,1.8
+919,main-forums,answers-forums,2015,1583,none,none,I've recently bought two sit/stand Galant tables from IKEA and I'm quite happy with them.,http://www.varidesk.com/ There is also the hand-made/DIY version for which you could obtain design templates for.,1.8
+296,main-captions,images,2014,287,none,none,Two women sitting in lawn chairs.,Two women are sitting in a cafe.,2.6
+1125,main-news,MSRpar,2012,21,none,none,"In two weeks, he'll probably send out Peace Rules in the Preakness.",Frankel said Peace Rules will run in the Preakness Stakes on May 17.,3.6
+541,main-captions,track5.en-en,2017,89,none,none,A pair of young boys in t-shirts are hiding in the woods with one looking aghast.,Two smiling little girls playing in a fountain with other people.,0.0
+1175,main-news,MSRpar,2012,277,none,none,Florida's Supreme Court has twice refused to hear the case.,"On Tuesday, a Florida appeals court again refused to block removal of the tube.",2.75
+1079,main-news,MSRpar,2012,459,none,none,Yeager said the suspect in the Target attack showed tendencies of being a prior offender.,"Yeager said the incident appeared to be isolated, but the suspect showed tendencies of being a prior offender.",3.714
+476,main-captions,images,2015,1165,none,none,Children are playing on a trampoline in the snow.,Several children and jumping on a trampoline in the snow.,4.5
+855,main-forums,answers-forums,2015,1238,none,none,If a statement is not provable an inconsistency or self-contradiction may or will develop that invalidates the system.,Should arrival at this point be the focus for examination of any system?,0.6
+488,main-captions,images,2015,1333,none,none,The dogs are playing in the snow.,Two dogs playing on the shore.,1.8
+92,main-captions,MSRvid,2012,532,none,none,The lady put the skewered shimp in the hot water.,The lady fried the breaded meat in hot oil.,1.6
+1321,main-news,headlines,2013,690,none,none,Roadside bomb kills 10 Afghan civilians: police,Roadside bomb kills 5 Afghan policemen,2.6
+870,main-forums,answers-forums,2015,1324,none,none,I have found there is no single best way to increase size.,There are a very wide variety of solutions for resizing and sharpening images for use on the web.,2.6
+359,main-captions,images,2014,704,none,none,Depressed woman sitting on couch.,Older woman holding newborn baby.,0.0
+246,main-captions,MSRvid,2012,734,none,none,A man is passionately playing a guitar in front of an audience.,A woman is peeling a potato.,0.0
+82,main-captions,MSRvid,2012,473,none,none,A man is playing a flute.,A dog is barking at a fly.,0.0
+127,main-captions,MSRvid,2012,729,none,none,A man is buttering a piece of bread.,A slow loris hanging on a cord.,0.0
+1379,main-news,headlines,2014,464,none,none,Singapore stocks end up 0.11 pct,Singapore stocks close 0.54 pct higher,2.2
+149,main-captions,MSRvid,2012,138,none,none,A man is riding a bike.,A woman is riding a horse.,1.4
+832,main-forums,answers-forums,2015,1126,none,none,"First, double-check the dog's body language to make sure that it is truly aggressive.","First, you should realize that this is not you or your dog's problem.",1.6
+948,main-forums,answers-forums,2015,1730,none,none,"It is hard to speak for a team, know what their strategy is going into a draft.",Drafting has changed dramatically with the new collective bargaining agreement.,2.6
+700,main-forums,answers-forums,2015,409,none,none,"I see some references to status as uncountable as well, but that doesn't make much sense to me.","There are some cases ""status"" may be accounted of countable.",2.6
+1432,main-news,headlines,2015,594,none,none,UN Chemical Weapons Experts to Visit Syria,US Says Chemical Weapons Used in Syria,2.0
+193,main-captions,MSRvid,2012,412,none,none,A dog is stealing food from a refrigerator.,The dog took something out of the refrigerator.,3.2
+1067,main-news,MSRpar,2012,361,none,none,He was arrested Tuesday night at a northwest Atlanta tire shop after a national manhunt.,"He was arrested in Atlanta, Georgia, on Monday night by police acting on a tip-off.",2.4
+749,main-forums,answers-forums,2015,697,none,none,"Aloes, like most succulents, are very hardy and will withstand considerable neglect .",Some of the guys at my office have potted aloe plants.,1.6
+45,main-captions,MSRvid,2012,264,none,none,A woman is slicing a meat.,A woman is singing on stage.,0.25
+1105,main-news,MSRpar,2012,592,none,none,"At first blush, then, the distinction drawn by the creators of the do-not-call registry would seem to draw the line in precisely the right place.","At first blush, then, the creators of the registry would seem to have drawn the line between exempted and banned calls in the right place.",4.0
+409,main-captions,images,2015,438,none,none,Two people walking along the shore at sunset.,Two people walking along the beach at sunset towarn a group of people.,3.0
+338,main-captions,images,2014,605,none,none,A laptop computer and a computer monitor.,A laptop and a PC at a workstation.,2.6
+1415,main-news,headlines,2015,310,none,none,France cleared to impose controversial 'millionaire tax',Manila to increase counter-terror team,0.0
+1008,main-news,MSRpar,2012,40,none,none,"Tom Kasmer, a 14-year-old from Belmont, N.C., got a word that sounded like ""zistee"" during yesterday's competition.","The 14-year-old national spelling finalist who attends school in Belmont, N.C., got a word that sounded like ""zistee"" during competition Wednesday.",3.75
+1479,main-news,headlines,2016,294,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Euro crisis is over, says France's Francois Hollande","Eurozone debt crisis is over, says France's President",4.0
+784,main-forums,answers-forums,2015,901,none,none,"A tent may give you slightly more protection than sleeping out in the open, but not much.","No, a tent will not give you any protection from bears that want what's inside.",3.0
+1074,main-news,MSRpar,2012,405,none,none,The WHO says the latest case does not fit its profile of SARS and is not a public health concern.,"The WHO has said the Singapore case did not fit its profile of SARS and was ""not an international public health concern.""",3.8
+1148,main-news,MSRpar,2012,140,none,none,As part of a restructuring Peregrine sold its Remedy help desk software unit last year to BMC Software Inc.,Peregrine sold its Remedy business unit to BMC Software in November for $355 million.,3.0
+1446,main-news,headlines,2015,918,none,none,Obama signs law aimed at barring Iran UN envoy,Obama urges no new sanctions on Iran,1.0
+800,main-forums,answers-forums,2015,1000,none,none,My opinion is to wait for the child to ask for it.,My opinion is to wait until the child itself expresses a desire for this.,4.8
+1132,main-news,MSRpar,2012,62,none,none,Former company chief financial officer Franklyn M. Bergonzi pleaded guilty to one count of conspiracy on June 5 and agreed to cooperate with prosecutors.,"Last week, former chief financial officer Franklyn Bergonzi pleaded guilty to one count of conspiracy and agreed to cooperate with the government's investigation.",4.2
+1277,main-news,headlines,2013,228,none,none,Syrian troops kill 35 in Damascus suburb,Activists: Syrian troops kill dozens near Damascus,3.6
+204,main-captions,MSRvid,2012,464,none,none,A man is riding on a boat.,A man is tying in the machine.,0.4
+668,main-forums,answers-forums,2015,232,none,none,Q: What is the reason for people to implicitly trust their peers in extreme (or not) situations?,One human-being reliance on other(s) awareness is defined by the level of trust between the humans.,2.6
+116,main-captions,MSRvid,2012,669,none,none,A woman puts cosmetics on her eyelid.,The woman is pencilling on eye shadow.,4.0
+670,main-forums,answers-forums,2015,245,none,none,Presumably the decision of drivers to slow down in response to work zone signage is influenced by many factors.,"This short talk deals with issues of ""cheating slightly"" :Dan Ariely: Our buggy moral code.",0.0
+275,main-captions,images,2014,164,none,none,A cat looking at the camera.,"A grey, black, and white cat looking at the camera.",4.0
+78,main-captions,MSRvid,2012,454,none,none,The lady cracked an egg for the mixer.,The lady sliced up the meat.,1.154
+404,main-captions,images,2015,402,none,none,A brown and white dog is catching a tennis ball while standing on its hind legs.,the brown and white dog is carrying a stick in his mouth.,1.8
+343,main-captions,images,2014,623,none,none,A close-up of a brown horse.,A close-up of a horse.,4.0
+464,main-captions,images,2015,961,none,none,A Japanese swordsman jumps into the air.,A woman is getting her dog to jump in the air.,1.0
+1438,main-news,headlines,2015,747,none,none,Six killed in drone strike in N Waziristan,12 killed in bus accident in Pakistan,1.8
+351,main-captions,images,2014,666,none,none,Black bird sitting on a concrete slab.,Black bird standing on concrete.,4.0
+6,main-captions,MSRvid,2012,15,none,none,A man is erasing a chalk board.,The man is erasing the chalk board.,5.0
+68,main-captions,MSRvid,2012,405,none,none,A plane rides on a road.,An airplane moves along a runway.,2.812
+475,main-captions,images,2015,1160,none,none,Two brown dogs chase each other in the snow.,Two brown dogs are playing with each other in the snow.,4.2
+1453,main-news,headlines,2015,996,none,none,Manchester United Ticket Sales And Profit Down,Manchester United owner Malcolm Glazer dies at 85,0.6
+1066,main-news,MSRpar,2012,356,none,none,"Appellate courts across the country have issued differing rulings on the issue, allowing public displays of the Ten Commandments in some cases and banning them in others.","Lower courts have splintered on the issue, allowing depictions of the Ten Commandments in some instances and not in others.",4.25
+1115,main-news,MSRpar,2012,697,none,none,"The identical rovers will act as robotic geologists, searching for evidence of past water.","The rovers act as robotic geologists, moving on six wheels.",3.2
+691,main-forums,answers-forums,2015,381,none,none,Coagulated egg proteins in combination with gluten give baked goods the supporting structure they need.,There are basically two types of cakes: butter and sponge (or Génoise).,1.0
+362,main-captions,images,2014,732,none,none,"A young woman with outstretched arms stands in front of a ""Going Places"" bus.",TThe girl is standing in front of the open door of the bus.,3.0
+1341,main-news,headlines,2014,80,none,none,Cardinals enter Vatican for historic vote,Cardinals enter Sistine Chapel to elect pope,3.4
+817,main-forums,answers-forums,2015,1076,none,none,"Show her how much fun splashing is - that's what we did, and made a game of it.",You can put her toys near her or give he toys to her.,0.8
+1135,main-news,MSRpar,2012,82,none,none,"""They were tossed around like feathers,"" Gordon said.","""The concrete barriers (between lanes) were being tossed around like feathers.""",3.0
+922,main-forums,answers-forums,2015,1598,none,none,Experience: you must have noticed in you project/office that other colleagues who are more experience understand things quickly.,I think a learning attitude is the founding skill of a self-taught person.,1.6
+383,main-captions,images,2015,140,none,none,Two girls in blue and teal dresses and large hats are standing next to a large tree trunk.,"A woman, a little boy, and a tiny baby are standing in front of a cow statue.",1.2
+1424,main-news,headlines,2015,484,none,none,Police helicopter crashes into pub in Glasgow - several casualties,Helicopter crashes into roof of Glasgow club,4.0
+304,main-captions,images,2014,351,none,none,Two boys sit facing one another at a table and one points at the other.,Two people sit facing each other at a table as one points at the other.,4.4
+1104,main-news,MSRpar,2012,575,none,none,The veteran Malyasian diplomat met Suu Kyi Wednesday at the lakeside home in Yangon where she is under house arrest.,"Razali Ismail met for 90 minutes with Suu Kyi, a 1991 winner of the Nobel Peace Prize, at her lakeside home, where she is under house arrest.",3.692
+1196,main-news,MSRpar,2012,372,none,none,"Sources say agents confiscated ""several"" documents he was carrying.",Agents confiscated several classified documents in his possession and interrogated him.,3.5
+536,main-captions,track5.en-en,2017,83,none,none,The man is in a deserted field.,The man is outside in the field.,4.0
+462,main-captions,images,2015,933,none,none,A group of people in boats racing towards the shore.,A group of people stand together and pose in front of a house.,0.8
+28,main-captions,MSRvid,2012,173,none,none,A woman is reading.,A woman is kneading dough.,1.0
+1190,main-news,MSRpar,2012,359,none,none,"Tail wagging, Abbey trotted on stage with Conway before a crowd of more than 10,000 attendees at PeopleSoft's annual customer conference at the Anaheim Convention Center.","On Monday, Abbey trotted on stage, tail wagging, with Conway before a crowd of 10,000 attendees at PeopleSoft's annual customer conference.",4.0
+1099,main-news,MSRpar,2012,542,none,none,"EU ministers were invited to the conference but canceled because the union is closing talks on agricultural reform, said Gerry Kiely, a EU agriculture representative in Washington.","Gerry Kiely, a EU agriculture representative in Washington, said EU ministers were invited but canceled because the union is closing talks on agricultural reform.",5.0
+1407,main-news,headlines,2015,82,none,none,Rescuers scour debris after India buildings collapse,Select images from Bangladesh building collapse,2.2
+539,main-captions,track5.en-en,2017,86,none,none,The biker is doing dangerous stunts.,A biker is doing stunts.,4.4
+565,main-captions,track5.en-en,2017,131,none,none,A woman doesn't have her arms up because she's paralyzed from the neck down,A woman is sitting on the steps because she tripped and hurt her ankle.,0.8
+416,main-captions,images,2015,472,none,none,A man and woman blow bubbles.,A man and a woman in glasses blow bubbles.,4.2
+479,main-captions,images,2015,1205,none,none,Two black dogs playing in the grass.,Two dogs play in the grass.,4.2
+876,main-forums,answers-forums,2015,1353,none,none,"The short answer is that yes, you can do this.","Speaking from my own experience, I would rather carry different ND filters that combine two polarisers.",0.0
+32,main-captions,MSRvid,2012,194,none,none,Elephants are walking down a trail.,A herd of elephants are walking along a trail.,4.6
+1120,main-news,MSRpar,2012,736,none,none,"The woman felt threatened and went to the magistrate's office, police said.",The woman reported that she felt threatened and obtained a warrant for Stackhouse's arrest from the local magistrate's office.,3.25
+1381,main-news,headlines,2014,485,none,none,Israel launches airstrike in Gaza,Israel launches air strikes near Damascus,3.0
+1459,main-news,headlines,2015,1139,none,none,Hong Kong set for democracy march,Hong Kong set for huge democracy rally,4.8
+1107,main-news,MSRpar,2012,602,none,none,Chechen officials working for the Moscow-backed government are a frequent target for rebels and tension is running high ahead of next Sunday's presidential election in war-torn Chechnya.,"Officials in Chechnya's Moscow-backed government are a frequent target for rebels, and tension is running high ahead of Sunday's presidential election in the war-ravaged region.",4.75
+534,main-captions,track5.en-en,2017,79,none,none,A woman paints a picture of a large building which can be seen in the background.,A person paints a picture of a large building which can be seen in the background.,4.2
+474,main-captions,images,2015,1155,none,none,A hockey player looks intently downward.,A hockey player during a game.,2.0
+73,main-captions,MSRvid,2012,431,none,none,A man is talking with other women on the beach.,A man is walking down the street.,0.0
+244,main-captions,MSRvid,2012,721,none,none,A chef is slicing carrot.,A person is drawing a picture.,0.0
+591,main-captions,track5.en-en,2017,176,none,none,There is a older man near a window.,A boy is near some stairs.,0.4
+535,main-captions,track5.en-en,2017,82,none,none,Two kids are playing a game of Foosball.,The kids are playing a game with each other.,3.4
+662,main-forums,answers-forums,2015,206,none,none,It's pretty difficult to imagine a person with Social Anxiety Disorder being an extrovert.,"On the surface, it does seem like social anxiety disorder and extroversion shouldn't both exist in the same person.",4.2
+634,main-forums,answers-forums,2015,49,none,none,It is perfectly okay to ask for the figure knowing well that the other person may not give.,"You can always ask, then it is the choice of the author to accept or not.",3.6
+601,main-captions,track5.en-en,2017,203,none,none,A helicopter is getting ready to take off.,The plane is getting ready to take off.,2.8
+684,main-forums,answers-forums,2015,330,none,none,"Break the bulb into cloves, breaking off the bottom and the dry stick that goes up the middle.",lay down a knife horizontaly on the cloves and hit it.,1.6
+1306,main-news,headlines,2013,535,none,none,ICC lawyer detained in Libya on security concerns,ICC lawyer held in Libya faces 45-day detention,3.4
+752,main-forums,answers-forums,2015,704,none,none,The USA is the world's strongest country because of its military force.,The United States is one of the five largest countries in the world by area.,2.0
+391,main-captions,images,2015,248,none,none,A man practicing boxing,A man practices boxing,5.0
+1180,main-news,MSRpar,2012,305,none,none,The plane was estimated to be within 100 pounds of its maximum takeoff weight.,"US Airways Flight 5481, which crashed Jan. 8, was judged to be within 100 pounds of its maximum takeoff weight.",3.25
+527,main-captions,track5.en-en,2017,63,none,none,The carriage is drawn by a horse.,A man riding on a bicycle by side of building.,0.4
+789,main-forums,answers-forums,2015,921,none,none,So it's important to have a basic understanding before you even get on skis.,Skiing is a sport where taking lessons pays off very quickly.,2.8
+213,main-captions,MSRvid,2012,533,none,none,A woman is relaxing in a bath tub.,A woman is stabbing a potato with a fork.,0.4
+1043,main-news,MSRpar,2012,205,none,none,"He will be paid $395,000 per year, up from Atkinson's current salary of $361,400.","Dynes will be paid $395,000 a year; Atkinson's salary is $361,400.",4.0
+605,main-captions,track5.en-en,2017,209,none,none,A woman jumps and poses for the camera.,A woman poses for the camera.,4.0
+1364,main-news,headlines,2014,261,none,none,Ukrainian Prime Minister Azarov and entire government resign,Ukrainian officials barred from Canada as protests continue,1.2
+1229,main-news,MSRpar,2012,550,none,none,"While waiting for a bomb squad to arrive, the bomb exploded, killing Wells.",The bomb exploded while authorities waited for a bomb squad to arrive.,3.25
+768,main-forums,answers-forums,2015,800,none,none,"Yes, this is true and yes, in most cases indefinite articles indeed developed from numerals, as @MGN already said.","Indefinite articles developed from numerals, and the definite articles developed from demonstratives.",2.6
+172,main-captions,MSRvid,2012,318,none,none,A target is being hit with gun fire.,The target was being shot with bullets.,4.214
+863,main-forums,answers-forums,2015,1300,none,none,"When I needed a travel tripod, I also opted for a Trekpod.",An alternative tripod that may serve your needs is the TrekPod.,3.0
+155,main-captions,MSRvid,2012,185,none,none,Three men are dancing.,Women are dancing.,1.3
+546,main-captions,track5.en-en,2017,98,none,none,A young boy has a red fishing pole.,A young boy stands over a bridge with a fishing pole.,3.0
+830,main-forums,answers-forums,2015,1116,none,none,I have noticed most cats don't lick people a great deal.,Cats may or may not lick a person based on all kinds of things.,3.0
+26,main-captions,MSRvid,2012,153,none,none,A man is lifting weights in a garage.,A man is lifting weights.,4.25
+893,main-forums,answers-forums,2015,1456,none,none,Russian Federal Law is actually quite specific on this one and not as arbitrary as argued.,"The last round of presidential elections in Russia was held on March 4th, 2012 and December 4th, 2011 for the Duma.",0.6
+197,main-captions,MSRvid,2012,431,none,none,A puppy is trying to come out from the sink.,The puppy tried to get out of the tub.,3.0
+1452,main-news,headlines,2015,992,none,none,Iran threatens to trigger oil price war,Man admits threatening to kill Prince Harry,0.0
+762,main-forums,answers-forums,2015,747,none,none,"By the time that Qin had totally collapsed, Xiang Yu was China's hegemon.","The Han Dynasty came after the Qin Dyansty, after the government under Shi Huang Di collapsed.",2.0
+1116,main-news,MSRpar,2012,702,none,none,Representatives for Puretunes could not immediately be reached for comment Wednesday.,Puretunes representatives could not be located Thursday to comment on the suit.,3.25
+653,main-forums,answers-forums,2015,124,none,none,"Why is the speed of light 299,792,458 m/s, and not (for instance) 3,1 or 4,3 x 10^44 m/s?",Speed of light being finite is one of the fundamentals of our Universe.,1.0
+88,main-captions,MSRvid,2012,507,none,none,A girl is riding a horse.,The girl trotted the horse.,4.5
+519,main-captions,track5.en-en,2017,45,none,none,The dogs are chasing a cat.,The dogs are chasing a black cat.,4.4
+1333,main-news,headlines,2014,36,none,none,China Yuan Strengthens to 6.168 against USD Monday,China yuan strengthens to 6.1696 against USD Thursday,4.2
+890,main-forums,answers-forums,2015,1428,none,none,"Most people want not only to be WELL off, but to become BETTER off as time goes by.","To start, the main drivers of economic growth are resources, technology, and institutions.",0.4
+207,main-captions,MSRvid,2012,484,none,none,A man is standing on a roof top playing a violin.,A man is on a roof dancing.,1.8
+1340,main-news,headlines,2014,77,none,none,Nelson Mandela taken to hospital,Nelson Mandela released from hospital,1.6
+987,main-forums,answers-forums,2015,1917,none,none,You have to define the problem before attempting a solution.,"Whenever I start reading the same lines over and over again, I start skimming.",0.0
+950,main-forums,answers-forums,2015,1733,none,none,"Yes, dew (wetness in the environment) factor can change the direction of a match.",Another disadvantage of the dew factor is that it makes hitting boundaries difficult.,3.0
+212,main-captions,MSRvid,2012,528,none,none,A man is stirring ingredients in a bowl.,A man is beating two eggs in a bowl with a fork.,2.75
+235,main-captions,MSRvid,2012,664,none,none,The baby laughed in his car seat.,A baby is laughing.,3.1
+783,main-forums,answers-forums,2015,874,none,none,From what I'm seeing it's generally accepted that most English speakers have a vocabulary size of 15000 to 20000 words.,According to a statistical estimation I know roughly 7000 words in English.,1.4
+1485,main-news,headlines,2016,663,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Maldives begins to vote in controversy-ridden presidential poll,Crisis-hit Maldives holds new presidential poll,3.0
+173,main-captions,MSRvid,2012,330,none,none,A woman is applying makeup.,A man is playing a guitar.,0.0
+96,main-captions,MSRvid,2012,550,none,none,A woman is riding a horse along a perimeter.,A dog is riding a skateboard.,0.6
+1110,main-news,MSRpar,2012,651,none,none,"The company will launch 800 hot spots, or ""Wi-Fi Zones,"" later this summer, and plans to have more than 2,100 by the end of the year.","The service will launch later this summer with 800 locations, and Sprint plans 2,100 locations by the end of the year.",3.0
+615,main-captions,track5.en-en,2017,223,none,none,The player shoots the winning points.,The basketball player is about to score points for his team.,2.8
+706,main-forums,answers-forums,2015,430,none,none,"I'm American, and I've never heard the bathroom referred to as St. John's.","In situations like these, I tend to lengthen out the phrase.",0.0
+999,main-forums,answers-forums,2015,1993,none,none,I have been doing a lot of my outlining/pre-writing work in Workflowy.,Am I allowed to beat the drum for Scrivener again?,0.2
+259,main-captions,images,2014,39,none,none,A black and wood colored dining room set in a small apartment.,Black and brown table in living room setting.,3.2
+636,main-forums,answers-forums,2015,62,none,none,I will advise exactly the contrary of what bravo just said in another answer : go for A !,"You could defer admission, but it's a little unusual to defer for a year.",0.2
+809,main-forums,answers-forums,2015,1021,none,none,The point is to get the air out that the infant sucks into the stomach while feeding.,"I've found with my baby that it's more accurate to go by his behavior than by ""rules"".",1.2
+1240,main-news,MSRpar,2012,658,none,none,Net revenue rose to $3.99 billion from $3.85 billion during the same quarter last year.,That is up from $1.14 billion during the same quarter last year.,1.75
+509,main-captions,track5.en-en,2017,17,none,none,A girl dancing on a sandy beach.,A girl is on a sandy beach.,3.6
+106,main-captions,MSRvid,2012,578,none,none,A child is playing a computer game.,A boy is playing a game on a laptop.,3.091
+457,main-captions,images,2015,891,none,none,A family is playing on the beach with their dog.,A naked little girl being thrown into the air.,0.0
+1396,main-news,headlines,2014,630,none,none,Death toll in Colorado floods rises to four,Thousands told to evacuate in Colorado flooding,1.6
+1412,main-news,headlines,2015,204,none,none,Rosberg emulates father with Monaco win,FORMULA 1: Rosberg stays modest despite Monaco win,3.8
+613,main-captions,track5.en-en,2017,221,none,none,A soccer player is kicking the ball.,The soccer player gave the ball a high kick.,3.8
+722,main-forums,answers-forums,2015,533,none,none,I recently stumbled on a great article that talks about protein consumption for the purposes of building muscle (recovery included).,Low reps with high weights don't add mass because the duration of the exercise is kept short.,1.0
+148,main-captions,MSRvid,2012,137,none,none,A man is playing a flute.,A man is playing guitar.,2.167
+1098,main-news,MSRpar,2012,538,none,none,"The technology-laced Nasdaq Composite Index <.IXIC> was up 7.42 points, or 0.45 percent, at 1,653.44.","The broader Standard & Poor's 500 Index .SPX was 0.46 points lower, or 0.05 percent, at 997.02.",1.0
+446,main-captions,images,2015,781,none,none,A woman stands with her arms out at her sides while another takes a picture.,A man stands in a crowd holding a white object.,0.4
+37,main-captions,MSRvid,2012,219,none,none,A man plays the piano.,A man is playing a piano.,5.0
+1368,main-news,headlines,2014,298,none,none,North Korea Nuclear Test Sparks Worry,North Korea nuclear test,2.4
+1442,main-news,headlines,2015,828,none,none,"US, Russia enter third day of Syria talks",US and Russia agree Syria arms deal in Geneva,1.8
+30,main-captions,MSRvid,2012,186,none,none,The lady cracked an egg into a bowl.,The man is cracking eggs into a bowl.,2.6
+482,main-captions,images,2015,1233,none,none,A black person in black and red is sleeping on a bench with an open black umbrella.,A man sitting up taking a nap on a park bench with an open umbrella protecting him from the sun.,3.6
+1264,main-news,headlines,2013,127,none,none,"Annan urges end to Syria violence, minister defects",Annan urges end to Syrian violence,3.8
+858,main-forums,answers-forums,2015,1255,none,none,"Forget for a moment that you ever learned anything about so-called ""complex"" or ""imaginary"" numbers.","As others have already mentioned, numbers are of course abstractions.",1.2
+731,main-forums,answers-forums,2015,604,none,none,It is not recommended to use greywater on vegetables that you will eat directly.,Adding soap to water allows the water to dissolve oils.,0.6
+897,main-forums,answers-forums,2015,1484,none,none,"Absolute majority always defined by the institution, or the context.","In countries like India, when you have 2/3 of the seats of all parliament, you have absolute majority.",2.6
+427,main-captions,images,2015,614,none,none,A black dog walking beside a pool.,A black dog is walking along the side of a pool.,5.0
+1247,main-news,MSRpar,2012,727,none,none,But skeptics are concerned about the ease with which vendors can use these hardware-based security features to set digital rights management policies.,But skeptics are concerned about the ease at which these hardware-based security features could be used to set digital rights management policies by vendors.,5.0
+610,main-captions,track5.en-en,2017,218,none,none,The woman is holding the hands of the man.,The woman is checking the eyes of the man.,2.4
+349,main-captions,images,2014,664,none,none,A white bicycle stands on a floor.,Old style bicycle parked on floor.,3.4
+1009,main-news,MSRpar,2012,46,none,none,The budget analysis comes as negotiations between the City Council and the Bloomberg administration heat up.,Budget negotiations between the mayor and the City Council are entering high gear.,3.2
+387,main-captions,images,2015,180,none,none,A man and a woman on a bench.,A man and woman sit on a park bench.,3.6
+1387,main-news,headlines,2014,530,none,none,"Websites battle nasty comments, anonymity",Websites fight nasty comments by taking away anonymity,3.8
+717,main-forums,answers-forums,2015,500,none,none,There are a lot of push up variations you can do and they all stress different muscle systems.,There are several different pushup variations out there and most of them provide a unique advantage.,4.2
+272,main-captions,images,2014,145,none,none,A smiling woman holding a small baby.,Two smiling women holding a baby.,3.0
+1197,main-news,MSRpar,2012,374,none,none,"The helicopter burst into flames upon impact, according to the Mohave County Sheriff's Office.","The helicopter was owned by Las Vegas-based Sundance Helicopters Inc., according to the sheriff's office.",2.0
+844,main-forums,answers-forums,2015,1183,none,none,The biggest reason I can think of is that you're taking away a defence mechanism for the cat.,"Cats don't usually like to have their paws held, touched, or anything like that.",1.6
+219,main-captions,MSRvid,2012,552,none,none,A boy is playing a piano.,A man is singing and playing a guitar.,1.25
+772,main-forums,answers-forums,2015,829,none,none,"In English, certainly the most common use of do is Do-Support.","In traditional grammar, the word doing is a participle in all your examples.",0.6
+493,main-captions,images,2015,1384,none,none,Two dogs running together and one has a duck toy in its mouth.,a black and white dog walking through the grass with a long stick in his mouth.,1.8
+52,main-captions,MSRvid,2012,306,none,none,The woman is cracking eggs into a bowl.,The lady broke raw eggs into a bowl.,4.8
+780,main-forums,answers-forums,2015,853,none,none,"Zipf’s law, as I understand it, is not really about languages, but about statistics and probability.","As with all natural laws, Zipf's law is an approximation.",2.8
+201,main-captions,MSRvid,2012,449,none,none,A woman is feeding a baby.,A man is adding water to pan.,0.0
+923,main-forums,answers-forums,2015,1600,none,none,There is a relatively narrow set of people who are eligible to be wandering in the restricted areas.,The capital severely punishes people who head out to the restricted areas (e.g.,2.8
+839,main-forums,answers-forums,2015,1154,none,none,There are a few things to help your bun gain a bit of weight.,John Cavan has some reasonable and appropriate methods for increasing a rabbits weight in his answer.,3.0
+835,main-forums,answers-forums,2015,1134,none,none,Cover the entrance to the doorway with a old carpet and use a staple guns to secure it.,I started to dig into this because you caught my curiosity itch with the question...,0.0
+1287,main-news,headlines,2013,331,none,none,2 pro-Palestinian activists arrested at B-G Airport,Dozens of 'flytilla' activists protest at Paris airport,2.2
+428,main-captions,images,2015,627,none,none,The man is wearing a black shirt and hat and smiling.,A man is lifting a little girl above his head.,0.0
+382,main-captions,images,2015,128,none,none,The group of hikers is resting in front of a mountain.,Several hikers rest with their gear in front of a mountain.,4.8
+688,main-forums,answers-forums,2015,344,none,none,"The recipe I work from has you put the meat in the freezer, then pan sear it.","Starting with a whole chilled piece of meat, I quickly pour boiling water over all the outside surface.",1.4
+1303,main-news,headlines,2013,493,none,none,Assad meets with Red Cross officials in Syria,Assad makes Red Cross pledge,2.0
+164,main-captions,MSRvid,2012,263,none,none,A person is mixing a pot of rice.,A person is peeling a potato.,0.778
+1244,main-news,MSRpar,2012,718,none,none,Aiken's study appears in the Sept. 24 issue of the Journal of the American Medical Association.,The findings appear in Wednesday's Journal of the American Medical Association.,3.091
+576,main-captions,track5.en-en,2017,152,none,none,Three humans are walking a dog.,Three people are walking a dog.,4.8
+1159,main-news,MSRpar,2012,199,none,none,"A search for three missing teenagers uncovered at least two bodies buried beneath freshly poured concrete in the basement of a house, authorities said Wednesday.",Authorities performed an autopsy Thursday on one of three bodies recovered from beneath a layer of freshly poured concrete in the basement of a northwest Indiana home.,2.4
+1285,main-news,headlines,2013,307,none,none,Barack Obama's personal evolution on same-sex marriage,Obama backs same-sex marriage,2.6
+1367,main-news,headlines,2014,292,none,none,Deaths confirmed after helicopter crashes into Scottish pub,Scottish police say at least one dead after helicopter crashes into pub,4.0
+927,main-forums,answers-forums,2015,1628,none,none,I was invited in to pitch story ideas to Ron Moore at ST:TNG.,It's obviously possible for it to leave the field without harm - it occurred.,0.0
+1083,main-news,MSRpar,2012,483,none,none,The Embraer jets are scheduled to be delivered by September 2006.,The Bombardier and Embraer aircraft will be delivered to U.S. Airways by September 2006.,3.0
+603,main-captions,track5.en-en,2017,207,none,none,Three guys in speedos have their feet up on the railing of a boat getting a tan.,A few men on the deck are dropping another man into the water,1.6
+648,main-forums,answers-forums,2015,113,none,none,According to this website the peak visible magnitude will be about 10.5 around February 2nd.,"The AAVSO data seems to indicate that it might have already peaked, at around 10.5 (visual).",3.6
+58,main-captions,MSRvid,2012,354,none,none,A man is playing a guitar.,A guy is playing an instrument.,3.8
+126,main-captions,MSRvid,2012,725,none,none,A man is cutting a potato.,A woman plays an electric guitar.,0.083
+725,main-forums,answers-forums,2015,545,none,none,I've noticed a remarkable difference when I run on the treadmill vs when I run on the road.,A treadmill won't prepare you for the impact of running for real.,3.2
+976,main-forums,answers-forums,2015,1857,none,none,The most obvious is the oldest long distance walk in Scotland: The West Highland Way.,Look at this: http://www.capewrathtrail.co.uk/ You could do it in stages.,1.6
+1113,main-news,MSRpar,2012,678,none,none,"It will cost about $20,000 per eight-week course of treatment, comparable to other injected cancer therapies, a spokeswoman said.","It will cost about $20,000 per average course of treatment -16 to 17 weeks.",3.5
+1401,main-news,headlines,2014,676,none,none,Miss New York Crowned Miss America 2013,Miss New York is crowned Miss America,3.0
+1060,main-news,MSRpar,2012,327,none,none,Dotson was arrested Monday in his native Maryland and charged with murder.,"Dotson, 21, was subsequently charged with Dennehy's murder.",3.2
+612,main-captions,track5.en-en,2017,220,none,none,The child is the woman's kid.,There is a boy and a girl.,0.8
+773,main-forums,answers-forums,2015,830,none,none,A caveat: I'm experiencing the tail end of a three day migraine.,I agree with the commentators that your question is a little confusing.,0.0
+1002,main-news,MSRpar,2012,9,none,none,He later learned that the incident was caused by the Concorde's sonic boom.,He later found out the alarming incident had been caused by Concorde's powerful sonic boom.,5.0
+1017,main-news,MSRpar,2012,73,none,none,Business Week's online edition reported on Friday that WorldCom and the SEC could announce a settlement as early as Monday.,"BusinessWeek Online has learned that the settlement could come as early as Monday, May 19.",3.2
+1220,main-news,MSRpar,2012,504,none,none,"Every Thursday, a grains management committee meets in the Commission's agriculture directorate to decide the outcome of a weekly export tender.",A grains management committee normally meets each Thursday in the Commission's agriculture unit -- another target of Wednesday's raids -- to decide the outcome of a weekly export tender.,3.6
+934,main-forums,answers-forums,2015,1666,none,none,"First, we must consider that ""Sphere"" is less Hard SF and more soft SF, thriller, airport novel and such.","""Fins"" on real spacecraft are usually for one of two purposes: solar panels or thermal radiators.",0.0
+740,main-forums,answers-forums,2015,630,none,none,"So you know, I do not have personal experience with this.","Since you've already accepted a nicely sourced answer, I'll contribute some unsubstatiated tradition (i.e.",0.2
+823,main-forums,answers-forums,2015,1100,none,none,"It is possible, but it will have to be a docile female betta and a bigish tank.",We tried putting a male betta in a community tank once.,2.4
+547,main-captions,track5.en-en,2017,99,none,none,A player bounces a ball.,A player catching a ball.,1.6
+775,main-forums,answers-forums,2015,834,none,none,"Palatalisation of /k/ before front vowels happens all over the place: Russian, Greek, Turkish, Persian etc.","Sinhala, one of the languages spoken in Sri Lanka has a four way deixis system.",0.8
+1213,main-news,MSRpar,2012,483,none,none,The company said it would cut the wholesale price of most top-line CDs to $9.09 from $12.02.,The company also said it would cut wholesale prices on cassettes and change the suggested retail price to $8.98.,1.6
+765,main-forums,answers-forums,2015,782,none,none,http://en.wikipedia.org/wiki/History_of_Delhi#Early_history shows that the city was called Delhi (or Dilli) at least since the 12/13th century.,"I am not exactly sure but I remember the media (in India) addressing Delhi as ""HASTHINA"".",1.2
+90,main-captions,MSRvid,2012,518,none,none,A woman pours oil into a skillet from a plastic bottle while she is talking.,An older woman is pouring oil into a skillet on the stove.,3.8
+1192,main-news,MSRpar,2012,365,none,none,Graham is expected to be nominated and elected to a second one-year term today and will deliver the presidential address.,"Later Tuesday, Graham was expected to be re-elected for a second one-year term.",3.333
+1222,main-news,MSRpar,2012,519,none,none,"Stout previously worked for General Electric subsidiary GE Capital Service Inc., where he was vice president and chief technology and information officer.","Stout comes to Sprint from GE Capital, where he served as chief technology and information officer.",3.2
+182,main-captions,MSRvid,2012,380,none,none,A man is riding on a horse.,A woman is riding an elephant.,1.533
+257,main-captions,images,2014,35,none,none,The cows feed in the trough.,The brown and white cows are eating in the trough.,4.0
+1047,main-news,MSRpar,2012,231,none,none,The Recording Industry Association of America says it plans to sue the song traders next month.,"That is, if the Recording Industry Association of America has anything to say about it.",1.75
+1126,main-news,MSRpar,2012,23,none,none,"The technology-laced Nasdaq Composite Index was up 7.60 points, or 0.46 percent, at 1,653.62.","The broader Standard & Poor's 500 Index <.SPX> shed 2.38 points, or 0.24 percent, at 995.10.",0.8
+221,main-captions,MSRvid,2012,579,none,none,A woman is riding a horse on the beach.,A woman is washing a bowl.,0.2
+40,main-captions,MSRvid,2012,225,none,none,A toddler walks down a hallway.,A little girl is walking down a hallway.,3.6
+273,main-captions,images,2014,159,none,none,Two airplanes in the sky.,A plane in the sky.,2.4
+1236,main-news,MSRpar,2012,614,none,none,"The governor is going to Jackson, where 13 of the state's 16 fatalities were reported.","The governor is going to Jackson, where 13 people were killed.",3.8
+972,main-forums,answers-forums,2015,1835,none,none,"Kyoto, at least does, as described here: JR Kyoto Station.",Coin lockers are a feature of most stations in Japan.,0.4
+9,main-captions,MSRvid,2012,36,none,none,A woman peels a potato.,A woman is peeling a potato.,5.0
+1482,main-news,headlines,2016,409,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Chinese lunar rover lands on moon,China lands robot rover on moon,5.0
+146,main-captions,MSRvid,2012,125,none,none,A man is running.,A man is singing.,1.25
+330,main-captions,images,2014,571,none,none,A red bird and four other birds sitting in the snow.,Five birds stand on the snow.,2.8
+375,main-captions,images,2015,62,none,none,"A man eating an apple, sitting in public.",A man sits in a public place eating an apple.,5.0
+908,main-forums,answers-forums,2015,1527,none,none,Even though the question has been answered I would like to add my answer .,"I don't know if I should say this, but if your job is making you anxious.",0.0
+458,main-captions,images,2015,898,none,none,a dog runs through the long grass.,A dog lays down in the long green grass.,2.6
+1297,main-news,headlines,2013,448,none,none,Lance Armstrong drops fight against doping charges,Lance Armstrong calls it quits in fight against doping charges,4.8
+466,main-captions,images,2015,978,none,none,A group of seven people are rafting in the rapids in a green boat.,A group of people are standing and sitting around on the ground at night.,0.0
+792,main-forums,answers-forums,2015,936,none,none,A wonderful woman I know has the Habenera bag by REI (link).,If you can settle on purple Nunatak and Feather Friends have good sleeping bags in those colors.,0.8
+1080,main-news,MSRpar,2012,464,none,none,The 30-year bond US30YT=RR dipped 14/32 for a yield of 4.26 percent from 4.23 percent.,"The 30-year bond US30YT=RR lost 16/32, taking its yield to 4.20 percent from 4.18 percent.",3.333
+357,main-captions,images,2014,699,none,none,A grey house with a red door.,House with a red door.,3.4
+0,main-captions,MSRvid,2012,0,none,none,A man with a hard hat is dancing.,A man wearing a hard hat is dancing.,5.0
+508,main-captions,track5.en-en,2017,16,none,none,a woman watches a rap group live,An audience watches a girl dance.,2.2
+1393,main-news,headlines,2014,598,none,none,Nelson Mandela undergoes surgery,‘Nelson Mandela is recovering’,2.2
+369,main-captions,images,2015,26,none,none,Two dogs are running in a grassy field,Two dogs running through a grassy field.,5.0
+170,main-captions,MSRvid,2012,303,none,none,A woman is chopping an onion.,A woman is chopping garlic with a knife.,1.8
+252,main-captions,images,2014,13,none,none,A bull standing in the field.,A brown horse stands in a lush green field.,1.4
+695,main-forums,answers-forums,2015,400,none,none,"She obviously has a legit excuse, although she could have been more responsible and ""have"" told you in advance.",The first have covers both been more responsible and told you in that sentence.,0.4
+352,main-captions,images,2014,668,none,none,Dark colored dog standing in grassy field.,A grey dog standing in a grassy field.,3.2
+43,main-captions,MSRvid,2012,255,none,none,Kids are dancing on stage.,Some people are dancing on stage.,3.0
+1023,main-news,MSRpar,2012,107,none,none,"The Standard & Poor's 500 stock index ended the quarter up 120 points, a gain of 14 percent, the best performance for that broad market benchmark since 1998.","The Standard and Poor's 500-stock index, a broad collection of equities representing leading companies, finished its best quarter yesterday since the last three months of 1998.",3.2
+81,main-captions,MSRvid,2012,468,none,none,A man playing the guitar.,A woman is painting her lips.,0.0
+210,main-captions,MSRvid,2012,511,none,none,A woman is brushing her feet.,A woman is chopping an onion.,0.4
+109,main-captions,MSRvid,2012,610,none,none,People are playing baseball.,The cricket player hit the ball.,0.5
+372,main-captions,images,2015,50,none,none,A group of people standing in the street,A woman addressing a diverse group of people standing in the street.,2.6
+1076,main-news,MSRpar,2012,428,none,none,"It got up on his personal radar screen this past week, I've given him my pitch and he was quite supportive,"" he said.","""It got up on his personal radar screen in the past week, and I had to get my pitch.",3.4
+888,main-forums,answers-forums,2015,1419,none,none,The part of economics that is most like physics is called microeconomics.,Side note first: I don't think that physicists always agree on their theories and predictions.,0.6
+1313,main-news,headlines,2013,598,none,none,"Russia, China Veto UN Resolution on Syria","Russia, China veto UN resolution on Syria killings",3.8
+975,main-forums,answers-forums,2015,1850,none,none,"Generally, almost wherever I go, I find it's easiest to get money out of the ATM.","There are plenty of ATMs and Exchanges all around the city, especially in city center.",1.8
+1188,main-news,MSRpar,2012,348,none,none,"But JT was careful to clarify that it was ""not certain about the outcome of the discussion at this moment"".","""However, we are not certain about the outcome of the discussion at this moment.""",3.2
+91,main-captions,MSRvid,2012,524,none,none,A woman is cutting some herbs.,A woman is chopping cilantro.,2.8
+788,main-forums,answers-forums,2015,920,none,none,"Different parts of California have different wildlife, so you should probably narrow the region.","American black bears They are somewhat common in some wilderness areas of California, mostly in the mountains.",2.0
+767,main-forums,answers-forums,2015,794,none,none,"The bulk of India then was not controlled by Porus, but by the Nanda dynasty, centered at Pataliputra.","I believe Alexander lost heart after his horse, Bucephelus, died from a wound received in the battle against Porus.",0.6
+978,main-forums,answers-forums,2015,1885,none,none,"There are trains via Knin, which means a large detour inland (there just isn't a coastal line).",As others have said if you want to get to Split the best public transport offering is by bus.,0.6
+909,main-forums,answers-forums,2015,1539,none,none,Your brain is already beginning to wind down as you see the end in sight.,I'm writing here a few tips that can help you with motivation.,0.4
+1069,main-news,MSRpar,2012,372,none,none,"The shares represent more than half the 115.9 million shares Turner held at the end of April, according to Bloomberg data.",The sale represents about 52 per cent of the 115.9 million shares Mr Turner held at the end of April.,3.8
+1457,main-news,headlines,2015,1106,none,none,"One killed, 40 injured in Mexico candy factory blast","Three killed, 21 injured in two road mishaps",0.8
+1121,main-news,MSRpar,2012,3,none,none,"The American Anglican Council, which represents Episcopalian conservatives, said it will seek authorization to create a separate group.","The American Anglican Council, which represents Episcopalian conservatives, said it will seek authorization to create a separate province in North America because of last week's actions.",3.4
+490,main-captions,images,2015,1344,none,none,Two dogs are running on the grass in front of the trees.,A brown dog is running on the grass in front of some trees.,2.8
+939,main-forums,answers-forums,2015,1689,none,none,"Remember, from the Fleet's point of view, the rest of the galaxy is what's moving and experiencing time dilation.","Well, it really depends on how long he was there, and the exact speed of the Fleet.",1.8
+112,main-captions,MSRvid,2012,644,none,none,A ballet dancer is performing on stage.,The beaver is being petted.,0.0
+439,main-captions,images,2015,728,none,none,A man helps a boy ride a bike.,The man helps the boy ride a bike.,4.8
+1474,main-news,headlines,2015,1426,none,none,Pakistanis vote in landmark election,Pakistan holds landmark election as 29 killed in attacks,3.4
+885,main-forums,answers-forums,2015,1406,none,none,"Leaving aside heath care angle, you are working from a flawed premise that waging war doesn't save lives.",Healthcare They would probably reject your implied claim that Obama's healthcare law will save lives.,1.6
+227,main-captions,MSRvid,2012,608,none,none,The lady made some slices on the shrimp.,A chef is slicing a shrimp.,2.8
+1270,main-news,headlines,2013,161,none,none,Civilians Bear Brunt of Afghan Attacks,Taliban launch coordinated Afghan attacks,1.8
+1259,main-news,headlines,2013,85,none,none,1 person killed in sectarian clashes in Lebanon,Nine killed in Syrian-linked clashes in Lebanon,1.4
+1095,main-news,MSRpar,2012,526,none,none,"At his request, he will be reassigned within the district.",District Superintendent J. Chester Floyd told reporters Monday that McCrackin will be reassigned within the district.,2.8
+850,main-forums,answers-forums,2015,1213,none,none,People who are good at the philosophy of mathematics are mathematicians and not philosophers.,My motivation is that I like to look at things from their roots and go up.,0.0
+739,main-forums,answers-forums,2015,629,none,none,Chances are picking the seeds once it's gone to seed isn't going to actually encourage new growth.,The longer you can leave the seed-heads on the plant the better (IMHO).,1.6
+1172,main-news,MSRpar,2012,252,none,none,"Police believe Wilson shot Reynolds, then her mother once in the head before fatally turning the gun on herself.",Police believe Wilson then shot Jennie Mae Robinson once in the head before turning the gun on herself.,3.0
+764,main-forums,answers-forums,2015,756,none,none,"""The grass family is one of the most widely distributed and abundant groups of plants on Earth.","As noted on the Wiki page, grass seed was imported to the new world to improve pasturage for livestock.",1.4
+65,main-captions,MSRvid,2012,387,none,none,A man is making a bed.,A woman is playing a guitar.,0.0
+459,main-captions,images,2015,913,none,none,A group of people are camping out on some rocks.,A group of people are standing beside a fire truck.,1.2
+222,main-captions,MSRvid,2012,580,none,none,A person is chopping an herb.,A man is finely chopping a green substance.,3.0
+1055,main-news,MSRpar,2012,288,none,none,Who will succeed Mr. O'Neill at Hyundai is not clear.,There is no clear successor for Mr. O'Neill at Hyundai.,5.0
+434,main-captions,images,2015,698,none,none,Two dogs fighting in the snow.,Two dogs play in the snow.,3.2
+1218,main-news,MSRpar,2012,497,none,none,"In the latest violence, insurgents threw a bomb at a U.S. convoy in northern Baghdad, killing one soldier.","Early Monday, insurgents threw a homemade bomb at a U.S. convoy in northern Baghdad, killing an American soldier.",4.111
+718,main-forums,answers-forums,2015,501,none,none,You definitely do NOT want to be supporting your weight with your arms on the bike for normal riding.,"No, don't support your weight on your arms Your hands simply aren't really made for supporting all that weight.",4.2
+964,main-forums,answers-forums,2015,1798,none,none,It was random that she faced Li Na in the first round - not because she's seeded/ranked #127.,"This was too long for a comment, so I am posting it as a CW-answer.",0.0
+1397,main-news,headlines,2014,648,none,none,"Nicaragua, Venezuela offer asylum to Snowden",Bolivia's Morales says he would grant asylum to Snowden if asked,2.2
+322,main-captions,images,2014,527,none,none,Two cats are close together inside and black and white furry enclosure.,"Two baby kittens are sitting inside a cow-schemed, fur-covered dome.",3.6
+804,main-forums,answers-forums,2015,1009,none,none,"Yes, twins can develop their own language, but it's not a given.","Here's what I saw with my fraternal twins: While learning to speak, all children develop some of their own dialect.",2.6
+1191,main-news,MSRpar,2012,362,none,none,"At midnight on Wednesday, 68 percent of voters said ""no"" to the tax, with 97 percent of the votes counted.","With 97 percent of precincts counted tonight, 68 percent of voters opposed the tax.",4.667
+153,main-captions,MSRvid,2012,181,none,none,The man is buttering the bread.,The man is stirring the rice.,0.4
+54,main-captions,MSRvid,2012,324,none,none,A man is talking on a phone.,A man is singing to a woman.,0.25
+15,main-captions,MSRvid,2012,51,none,none,A man is finding something.,A woman is slicing something.,0.8
+1130,main-news,MSRpar,2012,52,none,none,"On Thursday, a Washington Post article argued that a 50 basis point cut from the Fed was more likely, contrary to the Wall Street Journal's line.","On Thursday, a Post article argued that a 50 basis point cut from the Fed was more likely.",3.75
+552,main-captions,track5.en-en,2017,108,none,none,A person is scaling a rock wall.,A person and a horse are above a fence.,0.2
+55,main-captions,MSRvid,2012,338,none,none,A man is playing an electronic keyboard.,A man is playing a flute.,1.2
+540,main-captions,track5.en-en,2017,87,none,none,A musician is smearing jam on his white guitar at a concert.,Trombonist playing the her instrument in a band for a parade.,0.4
+1193,main-news,MSRpar,2012,366,none,none,"""These changes may affect a large number of existing Web pages,"" the statement continued.","Still, changes to IE ""may affect a large number of existing Web pages,"" according to the W3C's notice.",3.0
+974,main-forums,answers-forums,2015,1842,none,none,"I visited Peru in August, starting from Lima and touring for three weeks.",Cusco: High: 70F Low: 40F This is just before the rainy season (Dec-Mar) and crowds are general less.,0.2
+679,main-forums,answers-forums,2015,313,none,none,The best way I have found is to soak the ears in husk for several hours before grilling.,Soak whole ears in the husk in a bowl of water.,3.2
+361,main-captions,images,2014,721,none,none,The brown and white cows are eating in the trough.,Brown and white cows are eating from a trough.,4.8
+663,main-forums,answers-forums,2015,207,none,none,"It is hard to delineate emotion completely from thoughts or sensations, because emotion can contain both.","Technically speaking, an emotion is not different from thought the way it is processed in brain, both involve neurotransmitters.",2.8
+618,main-captions,track5.en-en,2017,236,none,none,A dog walks along a beach with breaking waves.,A boy with an oar walks out of the surf and onto a beach.,1.0
+569,main-captions,track5.en-en,2017,138,none,none,They are preparing for a performance at school.,Two medical professionals in green look on at something.,0.0
+122,main-captions,MSRvid,2012,709,none,none,The man stirred the sauce for the chicken.,The man is stirring oil.,2.4
+93,main-captions,MSRvid,2012,538,none,none,A woman is riding on a horse.,A man is shooting off guns.,0.0
+1406,main-news,headlines,2015,65,none,none,Matt Smith quits BBC‚Äôs Doctor Who,Matt Smith quits BBC's Doctor Who,5.0
+316,main-captions,images,2014,471,none,none,A woman equestrian riding a horse.,The woman is riding on the brown horse.,3.8
+543,main-captions,track5.en-en,2017,91,none,none,A man is enjoying watching three asian children dance.,A man is watching three asian kids dance.,4.6
+491,main-captions,images,2015,1351,none,none,a young boy climbing on a rock wall,Five greyhounds are racing on a sand track.,0.0
+517,main-captions,track5.en-en,2017,43,none,none,A man playing the violin in the rain.,A man playing the guitar in the rain.,3.2
+1445,main-news,headlines,2015,892,none,none,International forensic teams join Kenyan mall carnage probe,Arrested Briton 'not significant' to Kenya attack probe,1.0
+895,main-forums,answers-forums,2015,1460,none,none,According to Shia Muslims specially Iran state and Hezbollah a country called Israel does not exist.,"As with the definition of Palestine, the definition of Israel varies depending on whom you ask.",3.2
+961,main-forums,answers-forums,2015,1785,none,none,"As per FIFA's ""Equipment Regulations"", Section 22, only the goalkeeper is permitted to wear a cap.","Although headgear is allowed to be worn, it is not advised for anyone other than the goalkeeper.",2.4
+1082,main-news,MSRpar,2012,480,none,none,"""It's a major victory for Maine, and it's a major victory for other states.",The Maine program could be a model for other states.,2.8
+23,main-captions,MSRvid,2012,122,none,none,A man is playing a flute.,A man is playing guitar.,2.167
+34,main-captions,MSRvid,2012,211,none,none,A man sitting on the floor plays a guitar.,A man sitting on the floor in a room is strumming a guitar.,4.8
+1050,main-news,MSRpar,2012,247,none,none,Both papers are being published today in the New England Journal of Medicine.,The study appears today in the New England Journal of Medicine.,3.0
+666,main-forums,answers-forums,2015,227,none,none,"Spike trigger is a specific type or you could say a sub-set of reverse correlations, covariance and probabilities.","There's the naïve version of spike triggered averaging, and the sophisticated version.",2.0
+947,main-forums,answers-forums,2015,1720,none,none,Women first appeared in the modern Olympics in Croquet at the 1900 Olympics.,"In 1900, the second modern Olympic games, 22 women competed in 5 events: tennis, sailing, croquet, equestrian, and golf.",3.2
+1133,main-news,MSRpar,2012,76,none,none,U.S. District Judge Edmund Sargus ruled that the Akron-based company should have determined that changes at one of its plants would increase overall pollution emissions.,"FirstEnergy Corp. should have determined that modernizing one of its plants would increase overall pollution emissions, U.S. District Judge Edmund Sargus ruled Thursday.",3.6
+177,main-captions,MSRvid,2012,346,none,none,A person is picking a komodo dragon and putting it in a box.,A person is placing a baby komodo dragon into a container.,4.2
+168,main-captions,MSRvid,2012,278,none,none,A man is playing a guitar.,A man is cleaning a cd.,0.833
+681,main-forums,answers-forums,2015,323,none,none,I've never adjusted the length of time based on number of eggs.,I don't boil eggs enough to keep a feel for the timing...,3.0
+473,main-captions,images,2015,1090,none,none,Two women holding checkered flags near an orange car.,Two ladies in skimpy clothes pose next to an old fashioned car.,2.8
+673,main-forums,answers-forums,2015,267,none,none,"These are interesting studies, but the bottom line is: yes, environment affects cognitive abilities.","I'm not sure what you mean by cognitive capacity, but I absolutely believe that language shapes the way we think.",1.6
+571,main-captions,track5.en-en,2017,143,none,none,Two fishermen try to untangle their large fishing net on the side of the road on a cloudy day.,Several men pull a fishing net up on to the beach.,3.0
+894,main-forums,answers-forums,2015,1459,none,none,This question has already been widely discussed and answered on Skeptics.,"Minimum wage laws hurt the least skilled, least productive the most.",0.0
+217,main-captions,MSRvid,2012,540,none,none,A man is slicing a carrot by a machine.,A man is standing in the rain.,0.4
+162,main-captions,MSRvid,2012,216,none,none,The puppy tried to get out of the tub.,A puppy is trying to get out of a bathtub.,4.4
+770,main-forums,answers-forums,2015,805,none,none,In some nowadays Indo-European languages you can still see rests of base-20 numeral systems.,"Modern Englishes, and many other well-known languages, use base 10 (ie decimal) systems of numerals.",2.2
+1440,main-news,headlines,2015,774,none,none,At least 12 dead in Washington ...,At least 150 dead as strong quake hits southwest Balochistan,0.4
+518,main-captions,track5.en-en,2017,44,none,none,The people are leaving the airplane.,The people are entering the plane.,2.2
+1224,main-news,MSRpar,2012,537,none,none,"Former South African Archbishop Desmond Tutu said Sunday he did not see what ""all the fuss"" was over appointing a gay bishop, but urged homosexual clergy to remain celibate.","South Africa's Nobel laureate Archbishop Desmond Tutu says he does not understand all the fuss about appointing a gay bishop, but he has urged homosexual clergy to remain celibate.",4.5
+1189,main-news,MSRpar,2012,356,none,none,"Shares of Halliburton fell 71 cents, or 3 percent, to close at $21.59 yesterday on the New York Stock Exchange.","Halliburton shares fell 54 cents, or 2.4 percent, to $21.76 a share in midday New York Stock Exchange trade.",2.4
+18,main-captions,MSRvid,2012,79,none,none,Kittens are eating food.,Kittens are eating from dishes.,4.0
+754,main-forums,answers-forums,2015,716,none,none,"While Queen may refer to both Queen regent (sovereign) or Queen consort, the King has always been the sovereign.","There is a very good reason not to refer to the Queen's spouse as ""King"" - because they aren't the King.",2.0
+1052,main-news,MSRpar,2012,268,none,none,"""I do not wish to be present during this witness,"" he told Stanislaus County Superior Court Judge Al Girolami.","""Yes, I do not wish to be present during this witness,"" Peterson, 31, calmly told the judge as he was returned to his cell.",3.25
+1295,main-news,headlines,2013,426,none,none,"Wigan 3-2 Wolves: Match report, pictures & video highlights","Arsenal 0-0 Chelsea: Match report, pictures & video highlights",1.2
+1092,main-news,MSRpar,2012,504,none,none,BioReliance's stock closed down 2 cents yesterday at $47.98 per share.,"Shares of BioReliance sold at $47.98 at the close of market yesterday, down 2 cents.",5.0
+990,main-forums,answers-forums,2015,1928,none,none,"One thing you seem to be forgetting regarding myths, is they are extremely prevalent stories.","I noticed you said ""movie critics"" enjoy mythological references in a film, but do audiences?",1.2
+949,main-forums,answers-forums,2015,1732,none,none,"To play golf, the first thing you need is a set of clubs.","Having fairly recently taken up the sport myself, I feel your discomfort.",1.2
+1284,main-news,headlines,2013,298,none,none,Two blasts hit Syria capital,Two blasts rock Syrian capital,4.8
+510,main-captions,track5.en-en,2017,22,none,none,The woman is drinking lemonade and watching T.V.,The man is sitting drinking coffee.,0.4
+471,main-captions,images,2015,1035,none,none,This dog is jumping through the water.,Two dogs running through the water on a beach.,2.2
+1487,main-news,headlines,2016,824,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Iran, IAEA Officials Meet Ahead of March Nuclear Deadline","Iran, IAEA officials meet ahead of March nuclear deadline: ISNA",5.0
+281,main-captions,images,2014,187,none,none,Red double decker bus on side of street.,A red double decker bus on a crowded street.,3.8
+3,main-captions,MSRvid,2012,7,none,none,A woman is playing the guitar.,A man is playing guitar.,2.4
+101,main-captions,MSRvid,2012,568,none,none,A man is screwing wood to a wall.,A man is giving a woman a massage.,0.2
+794,main-forums,answers-forums,2015,962,none,none,It would be unusual for a snake to attack a stationary person.,"I'm no herpetologist, but in my experience, snakes are in the ""you don't bug me, I won't bug you"" category.",4.2
+1388,main-news,headlines,2014,549,none,none,Turkish police mass near Istanbul park protest area,British police deny protecting sex abuser Savile,0.0
+709,main-forums,answers-forums,2015,454,none,none,"As others have said, ""ten of six"", though not used in many English speaking areas, would be understood as 5:50.","""Ten of six"" probably means 5:50 but I have not heard it before.",3.8
+140,main-captions,MSRvid,2012,75,none,none,A man is playing a harp.,A woman is playing a guitar.,1.6
+942,main-forums,answers-forums,2015,1701,none,none,Yes a team can use the same player for both bowling and batting in a super over.,There's no rule that decides which players can be picked for bowling/batting in the Super Over.,4.2
+1119,main-news,MSRpar,2012,726,none,none,"""What they have done is a thinly veiled attempt to do an end run around the Constitution,"" she said.","The church's lawyer, Shirley Phelps-Roper, was clear: ""What they have done is a thinly veiled attempt to do an end run around the constitution,"" she said.",2.6
+918,main-forums,answers-forums,2015,1574,none,none,Feel the fear... And do it anyway The book recommends to feel the fear.,13 Tips To Face Your Fear and Enjoy the Ride seems interesting.,2.2
+520,main-captions,track5.en-en,2017,47,none,none,the tan dog is playing with the red dog out in the snow,A yellow dog is playing in the snow.,2.6
+422,main-captions,images,2015,573,none,none,A man in red swim trunks playing volleyball.,A man and woman sitting on a motorcycle.,0.0
+311,main-captions,images,2014,418,none,none,Black domestic cat lying on brown table.,A grey cat laying on a dining table.,1.4
+629,main-forums,answers-forums,2015,22,none,none,"If you don't want to pay for Adobe Acrobat Pro, as @schultem mentions, LaTeX can do this with embedded hyperlinks.","If you don't mind hosting your files online, SlideShare is a good solution.",0.8
+753,main-forums,answers-forums,2015,708,none,none,Nearly all countries grew quickly in the 1950s and 1960s for pretty much the same reasons.,The USSR growth rate during the 50's was not exceptionally high.,1.0
+726,main-forums,answers-forums,2015,548,none,none,Google search for Travel WODs has whole lots of results which you can use.,"As @Sarge says, this is for a doctor to diagnose properly.",0.4
+89,main-captions,MSRvid,2012,514,none,none,Batman and Robin fly a helicopter over water.,A helicopter flies over water.,2.6
+638,main-forums,answers-forums,2015,82,none,none,"I agree with Seteropere completely, ""Network Science"" is a very broad subject.",I would say you are approaching it in the wrong way.,0.0
+1231,main-news,MSRpar,2012,567,none,none,"The American women, who are defending champions, will play in Philadelphia on Sept. 25 and conclude group competition in Columbus on Sept. 28.","The U.S. women, who are defending champions, will play on Sept. 25 in Philadelphia and conclude group competition on Sept. 28 in Columbus, Ohio.",4.75
+558,main-captions,track5.en-en,2017,118,none,none,A little girl and boy are reading books.,An older child is playing with a doll while gazing out the window.,0.2
+701,main-forums,answers-forums,2015,410,none,none,"If I understand you correctly, you are looking for a hypernym of inclusion and exclusion.",Inclusion is the act of including and exclusion is the act of excluding.,2.6
+665,main-forums,answers-forums,2015,224,none,none,"There are individuals who possess extraordinary memory ability, sometimes called eidetic memory.",There are many arguments for why this is not the case.,0.0
+1481,main-news,headlines,2016,339,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"EU Ministers of Employment and Social policy will discuss how to boost employment, integrate social and economic policies",EU Ministers of Employment and Social policy to discuss employment boosting strategies,3.0
+129,main-captions,MSRvid,2012,737,none,none,The lady cut the tail and body of a shrimp.,A woman is cleaning a shrimp.,4.5
+445,main-captions,images,2015,759,none,none,A black and white dog is running through the grass.,The black and white dog is running on the grass.,4.8
+255,main-captions,images,2014,25,none,none,A group of people eat at a table outside.,A group of elderly people pose around a dining table.,2.6
+778,main-forums,answers-forums,2015,841,none,none,"In Russian, for example, animacy is not clear-cut in the distinction animate/inanimate.","As in Russian, Polish marks animate masculine nouns by having a genitive-accusative vs. the nominative-accusative of inanimate masculines.",2.8
+460,main-captions,images,2015,925,none,none,There is a black dog jumping into a swimming pool.,A black dog is leaping into a swimming pool.,5.0
+655,main-forums,answers-forums,2015,141,none,none,A method used to calculate the distance between stars is 3 Dimensional trigonometry.,You only need two-dimensional trigonometry if you know the distances to the two stars and their angular separation.,2.0
+1181,main-news,MSRpar,2012,310,none,none,"Gainer said the two staff aides are ""very sorry this all happened,"" and the security personnel had performed ""well within standards.""","The security personnel performed ``well within standards'' and the two staff aides were ``very sorry all this happened,'' Gainer said.",5.0
+1134,main-news,MSRpar,2012,79,none,none,"Mr Pollard said: ""This is a terrible personal tragedy and a shocking blow for James's family.","Nick Pollard, the head of Sky News said: ""This is a shocking blow for James's family.",3.4
+600,main-captions,track5.en-en,2017,200,none,none,"A basketball player makes the 5th rebound of the night,",A tennis player in the middle of a game.,1.4
+1458,main-news,headlines,2015,1135,none,none,"Hassoun to Mauritanian delegation: conspiracy imposed on Syria targets its stances, particularly over Palestine","Mufti : conspiracy aginst Syria targets its stances, particularly towards Palestine",3.2
+737,main-forums,answers-forums,2015,626,none,none,"To paraphrase a common saying, ""One man's weed is another man's lawn"".","First, let me say I've no experience doing battle with Bermuda grass.",1.0
+970,main-forums,answers-forums,2015,1825,none,none,I had a similar issue but in what seemed to be a simpler situation.,I'm actually about to do the same thing when transferring at London Heathrow.,0.0
+637,main-forums,answers-forums,2015,79,none,none,"Edit, again: The question seems to have changed, yet again.",I can think of three reasons why a faculty member might reveal how a student performed on a qualifying examination.,0.0
+626,main-forums,answers-forums,2015,4,none,none,I am not aware of any university run participant pools.,"At the universities I've worked in North America, human-subject studies (esp.",0.6
+260,main-captions,images,2014,44,none,none,A bag of cotton in front of a couch.,Calico cat sitting on step in front of a door.,0.0
+21,main-captions,MSRvid,2012,97,none,none,A man is playing a guitar.,A man is playing a trumpet.,1.714
+111,main-captions,MSRvid,2012,640,none,none,A woman is dancing.,A man breaks a stick.,0.0
+1140,main-news,MSRpar,2012,103,none,none,"The first health-care worker in the country to die of SARS was a Filipina-Canadian who contracted the disease at North York General Hospital, the site of the second outbreak.","Emile Laroza, 51, contracted SARS while working as a nurse at North York General Hospital, the epicentre of the second SARS outbreak.",3.25
+1026,main-news,MSRpar,2012,129,none,none,"""Frank Quattrone is innocent,"" Keker said in a statement.",Quattrone lawyer John W. Keker said his client is innocent.,3.75
+900,main-forums,answers-forums,2015,1500,none,none,"Before you want to start the study of a subject, figure out what you want to achieve.","As Eugene suggests, try to figure out what you want to achieve.",3.2
+403,main-captions,images,2015,390,none,none,A girl bounces in a bounce house.,A girl dances like a man in costume,1.2
+1241,main-news,MSRpar,2012,674,none,none,"These men ""are entitled to respect for their private lives,"" Kennedy said.","""The petitioners are entitled to respect for their private lives.""",2.75

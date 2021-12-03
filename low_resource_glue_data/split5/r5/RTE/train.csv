@@ -1,0 +1,6 @@
+index,sentence1,sentence2,label
+2200,The Democrats' success in the 2006 elections means changes at the top in the House and Senate.,Democrats won the 2006 elections.,entailment
+555,The papers presented show that all European countries are experiencing rapidly aging populations that will cause sharp increases in the cost of retirement income over the next several decades.,National pension systems currently adopted in Europe are in difficulties.,entailment
+2132,"""Brad Pitt and Angelina Jolie are to let Getty Images sell photos of their new baby Shiloh Nouvel Jolie-Pitt - and  have asked the proceeds go to charity. Angelina Jolie""""While we celebrate the joy of the birth of our daughter, we recognize that 2 million babies born  every year in the developing world die on the first day of their lives. These children can be saved, but only if governments around the world make it a priority,"""" the couple said, in a joint statement.""",Brad Pitt and Angelina Jolie have a daughter.,entailment
+1275,No stockpiles of weapons of mass destruction have been found in Iraq since Saddam's regime was toppled in a US-led invasion last year.,Weapons of mass destruction found in Iraq.,not_entailment
+2236,"""The 10-day-old """"test-tube"""" baby elephant born at Colchester Zoo has found a name, thanks to the internet!""",baby elephant born,entailment

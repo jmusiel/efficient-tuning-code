@@ -1,0 +1,11 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+620,main-captions,MSRvid,2012,184,none,none,A man is playing a violin.,A man is playing a harp.,1.6
+1591,main-captions,images,2015,280,none,none,Two people sit on the end of a dock.,Two people sitting on a dock.,4.2
+1073,main-captions,images,2014,100,none,none,A living room with a dining table in the background.,A boy doing a wheelie on a plank with the beach in the background.,0.0
+1917,main-captions,images,2015,1254,none,none,A girl in a pink dress rides her bike along a white picket fence.,A girl in a red dress rides her bike in front of a white fence.,4.0
+2979,main-news,MSRpar,2012,42,none,none,A divided Supreme Court ruled Monday that Congress can force the nation's public libraries to equip computers with anti-pornography filters.,"The Supreme Court said Monday the government can require public libraries to equip computers with anti-pornography filters, rejecting librarians' complaints that the law amounts to censorship.",3.6
+5303,main-news,headlines,2015,867,none,none,US seeks to reassure wary Gulf allies over Iran deal,Hagel seeks to reassure jittery Gulf allies after Iran deal,4.0
+2523,main-news,MSRpar,2012,122,none,none,"After 26 hours of surgery and a year of anticipation, the boys were separated Sunday at Children's Medical Center of Dallas.","Two-year-old Egyptian twin boys, born with their heads conjoined, have been separated after 26 hours of surgery at the Children's Medical Centre in Dallas.",3.2
+4246,main-news,headlines,2013,618,none,none,Four seriously injured in M23 motorway crash,Four injured in motorway crash,3.6
+4230,main-news,headlines,2013,600,none,none,What the Pope's butler saw – aide arrested over Vatican leaks,Pope’s butler arrested in scandal over Vatican leaks,3.4
+5647,main-news,headlines,2016,790,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Senior CPC official meets top DPRK leader's special envoy,North Korean leader sends 'special envoy' to China,3.0

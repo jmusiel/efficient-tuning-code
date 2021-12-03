@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+4768,main-news,headlines,2014,525,none,none,Tropical Storm Andrea zipping up the East Coast,Tropical Storm Andrea to slide up East Coast,4.0
+2913,main-news,MSRpar,2012,692,none,none,Mr Levine confirmed that Ms Cohen Alon had tried to sell the story during the World Cup.,"Ms Cohen Alon's lawyer, Donald Levine, confirmed she tried to sell the story in February.",3.438
+2437,main-forum,deft-forum,2014,437,none,none,I don't think Paul has a shot.,Paul doesn't have a shot.,3.6
+4313,main-news,headlines,2013,706,none,none,Usain Bolt wins 200m – Steven Howard reaction,Facebook mobile gains drive revenue growth: reaction,0.2
+392,main-captions,MSRvid,2012,594,none,none,A person is adding food in a pan.,A woman puts rice into a pan.,3.0

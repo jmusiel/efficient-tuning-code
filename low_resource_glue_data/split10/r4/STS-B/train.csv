@@ -1,0 +1,11 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+1139,main-captions,images,2014,202,none,none,Four Asian young people sitting in a den or living room.,A girl sitting in a living chair.,0.8
+4659,main-news,headlines,2014,379,none,none,Egyptian police fire tear gas at Brotherhood protesters,India: Tear Gas Fired At Gang Rape Protesters,1.2
+2301,main-forum,deft-forum,2014,301,none,none,How long after the obliteration should the kid return to school?,How long after the obliteration should it no longer bother the kid?,3.0
+2538,main-news,MSRpar,2012,144,none,none,"The seven other nations in the initiative are Britain, Germany, Italy, the Netherlands, Poland, Portugal and Spain.","Other nations involved in the PSI include Germany, Italy, the Netherlands, Poland, Portugal, Spain and Britain.",3.6
+3195,main-news,MSRpar,2012,385,none,none,"I really liked him and I still do, Cohen Alon told the Herald yesterday.","And I really liked him, and I still do.",3.2
+2370,main-forum,deft-forum,2014,370,none,none,You should stop prefixing or suffixing everything with you hate Jews.,"""I don't prefix or suffix everything with """"you hate Jews.""""""",2.4
+3955,main-news,headlines,2013,254,none,none,Russians rally against Putin's rule,Tens of thousands rally against Putin's rule (AP),3.4
+4716,main-news,headlines,2014,456,none,none,Singapore stocks close 0.4% higher,Indian stocks open higher,1.8
+3046,main-news,MSRpar,2012,130,none,none,"Captain Robert Ramsey of the US 1st Armoured Division said a truck had exploded outside the building about 11am, and that one of the compound's outer walls had collapsed.",Captain Robert Ramsey of US 1St Armored Division said a truck had exploded outside the building at around 11 am.,3.2
+2955,main-news,MSRpar,2012,4,none,none,"The tech-loaded Nasdaq composite rose 20.96 points to 1595.91, ending at its highest level for 12 months.","The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.",2.4

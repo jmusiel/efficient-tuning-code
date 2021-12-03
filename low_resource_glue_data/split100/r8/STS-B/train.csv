@@ -1,0 +1,101 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+1348,main-captions,images,2014,510,none,none,Old blue and white train on tracks.,A blue train in a mountainous area.,2.6
+38,main-captions,MSRvid,2012,57,none,none,A woman is slicing an onion.,A man is cutting an onion.,2.75
+3782,main-news,headlines,2013,40,none,none,Moscow protesters demand Vladimir Putin's resignation,Moscow protest against Vladimir Putin smaller and quieter,1.8
+4296,main-news,headlines,2013,680,none,none,Egypt's Mubarak critical,Egypt's Mubarak in critical condition,4.6
+5167,main-news,headlines,2015,532,none,none,China to investigate EU wine exports,Christie investigation heats up,1.2
+1592,main-captions,images,2015,283,none,none,Two dogs in a yard.,Two dogs in a stream.,2.0
+1089,main-captions,images,2014,125,none,none,An orange tabby cat sleeping on the sofa.,Man wearing a bib sitting on a green couch.,0.0
+516,main-captions,MSRvid,2012,40,none,none,A woman is peeling a potato.,A woman peels a potato.,5.0
+2347,main-forum,deft-forum,2014,347,none,none,The Infestation posts.,The mosquitoes posts.,1.8
+2208,main-forum,deft-forum,2014,208,none,none,We all believe that we are getting what we expect.,"Most times, % of the time, we are getting what we expect.",3.8
+5328,main-news,headlines,2015,929,none,none,Hijacker arrested after plane lands at Geneva Airport,Hijacked aircraft lands in Geneva,3.0
+3393,main-news,MSRpar,2012,671,none,none,It estimated on Thursday it has a 51 percent market share in Europe.,Boston Scientific said it has gained 51 percent of the coated-stent market in Europe.,2.8
+3574,main-news,deft-news,2014,124,none,none,last week russia announced that it will suspend participation in the cfe.,nato regrets russia's decision to suspend participation in the cfe.,2.4
+3745,main-news,deft-news,2014,295,none,none,indian and pakistani governments nearly engaged in a fourth conflict in 1999.,indian and pakistani governments each conducted nuclear tests in may 1998.,1.8
+3067,main-news,MSRpar,2012,168,none,none,"The Federal Trade Commission (FTC) asked Congress today for additional authority to fight unwanted Internet spam, which now accounts for up to half of all e-mail traffic.","The Federal Trade Commission asked Congress yesterday for broader powers to attack the rapidly growing problem of spam, which new studies show accounts for half of all e-mail traffic.",5.0
+2028,main-forum,deft-forum,2014,28,none,none,"""I have  years of """"Neener Neener"""" rights I use lettuce too.""","""I have  years of """"Neener Neener"""" rights Hi Wiggies!""",2.6
+2105,main-forum,deft-forum,2014,105,none,none,CYCLONE FORMATION IS NOT EXPECTED DURING THE NEXT  HOURS.,TROPICAL CYCLONE FORMATION IS NOT EXPECTED.,3.4
+3676,main-news,deft-news,2014,226,none,none,"naeem m. was hanged in zabol, sistan-baluchestan province.",zahedan is the capital of sistan-baluchestan province.,0.2
+934,main-captions,MSRvid,2012,646,none,none,A man is traveling in a boat.,A woman is cutting up a carrot with a knife.,0.0
+1959,main-captions,images,2015,1370,none,none,The white and brown dog is shaking its ears.,The brown dog is running across the sand.,1.4
+4474,main-news,headlines,2014,158,none,none,Van der Sloot to Marry in Prison,Joran Van Der Sloots Plans To Get Married In Peru Prison,4.0
+4462,main-news,headlines,2014,144,none,none,Gunmen kill nine people in northwest Pakistan,Militants kill 6 soldiers in northwest Pakistan,2.6
+4222,main-news,headlines,2013,589,none,none,Key says marae visit a lost opportunity,Key wants Waitangi marae visit to stay,2.2
+5317,main-news,headlines,2015,905,none,none,"What the Papers Say, Nov. 20, 2013","What the Papers Say, Oct. 10, 2013",2.8
+5660,main-news,headlines,2016,886,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Singapore shares open 0.83% higher on Wednesday,Singapore shares open 0.06% lower on Tuesday,1.0
+4193,main-news,headlines,2013,552,none,none,2 Americans Killed as Afghan Unrest Enters Fifth Day,Two American Officers Murdered As Afghan Unrest Continues,4.2
+5012,main-news,headlines,2015,137,none,none,Iranian president makes debut on world stage,Iran presidential candidate says western sanctions should be broken,0.6
+653,main-captions,MSRvid,2012,235,none,none,A woman is washing her hands.,A woman is straightening her hair.,0.8
+105,main-captions,MSRvid,2012,154,none,none,A woman is slicing up some meat.,A woman is breading some meat.,2.25
+2427,main-forum,deft-forum,2014,427,none,none,If God does not exist can anything be morally wrong?,I ask again if God does not exist can anything be morally wrong?,5.0
+4996,main-news,headlines,2015,103,none,none,Suspected U.S. drone strike kills 5 in Pakistan,U.S. drone strike kills 5 in Pakistan,3.8
+5247,main-news,headlines,2015,727,none,none,Arsenal v Stoke City ‚Äď live!,Tottenham v Manchester City ‚Äď live!,2.2
+1289,main-captions,images,2014,426,none,none,A buddha statue holding a candle is sitting on a table.,A man fishing on a small boat while on a lake.,0.0
+1482,main-captions,images,2014,724,none,none,A black and white cow looking through the fence.,A black and white cat laying on the ground in the sun.,0.6
+4061,main-news,headlines,2013,386,none,none,Red Cross worker killed in Pakistan,Kidnapped UK aid worker killed in Pakistan,2.2
+5057,main-news,headlines,2015,262,none,none,Saudi to give Lebanese army $3 billion,Saudi Arabia to grant Lebanese army $3 billion,5.0
+37,main-captions,MSRvid,2012,56,none,none,Someone is carving a statue.,A man is carving a statue.,3.75
+714,main-captions,MSRvid,2012,314,none,none,A man is being put into an abulance.,A man is pouring pasta onto a plate.,0.0
+224,main-captions,MSRvid,2012,329,none,none,A woman is dancing.,A woman is kneading dough.,0.4
+5517,main-news,headlines,2015,1413,none,none,US delays missile test as tensions rise,William Hague: US decision to halt missile test 'sensible',3.4
+2397,main-forum,deft-forum,2014,397,none,none,the problem isn't who has money.,the problem is who doesn't have money.,2.46666666666667
+2993,main-news,MSRpar,2012,58,none,none,Mr Sahel said police had identified the bodies of seven of the 14-strong cell believed to have carried out the five almost simultaneous attacks on Saturday.,He said police had identified the bodies of seven of the 14 bombers who launched five almost simultaneous raids Friday night.,4.0
+3256,main-news,MSRpar,2012,472,none,none,"Revenue rose 3.9 percent, to $1.63 billion from $1.57 billion.","The McLean, Virginia-based company said newspaper revenue increased 5 percent to $1.46 billion.",1.2
+5026,main-news,headlines,2015,176,none,none,Swiss vote on highest minimum wage,Swiss cast ballots on world's highest minimum wage,4.6
+1486,main-captions,images,2014,729,none,none,Two green birds fly towards a wooden telephone pole.,Two green birds flying above the telephone wires.,3.2
+51,main-captions,MSRvid,2012,75,none,none,A little boy is playing a keyboard.,A boy is playing key board.,4.4
+16,main-captions,MSRvid,2012,25,none,none,The polar bear is sliding on the snow.,A polar bear is sliding across the snow.,5.0
+3382,main-news,MSRpar,2012,655,none,none,"If we could do that throughout the world, we could end terrorism, he said.","""This is a hospital that treats everybody as people, and if we could do that throughout the world, we could end terrorism.""""""",3.5
+1062,main-captions,images,2014,86,none,none,Two Eagles perched on a branch.,Two bald eagles perched on a branch.,3.8
+1781,main-captions,images,2015,855,none,none,A white dog running on sand.,A white dog runs on the sand.,5.0
+941,main-captions,MSRvid,2012,657,none,none,A man is meditating.,The man is riding the horse.,0.75
+2350,main-forum,deft-forum,2014,350,none,none,"For the trillionth time, I've never said rehabilitation doesn't work.","""The point you quote should say """"I never said rehabilitation could never work.""""""",3.4
+267,main-captions,MSRvid,2012,398,none,none,A man is walking along a path through wilderness.,A man is walking down a road.,2.5
+1682,main-captions,images,2015,543,none,none,A young boy jumping in the air at the beach.,A boy jumping in the air on the beach.,4.8
+5646,main-news,headlines,2016,789,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Russia's Putin claims authority to invade Ukraine,Kremlin: Putin yet to decide on using Russian troops in Ukraine,2.0
+3855,main-news,headlines,2013,131,none,none,Nigeria plane crash: No survivors,4 Chinese among Nigeria plane crash victims,2.6
+3113,main-news,MSRpar,2012,246,none,none,He had been arrested twice before for trespassing and barred from the complex - home to his mother and two children.,He had been arrested twice before for trespassing and was barred from the complex.,3.6
+4543,main-news,headlines,2014,241,none,none,"Delhi Gang Rape Suspect 'Beaten, Poisoned'",Delhi gang-rape verdict deferred again,1.8
+5524,main-news,headlines,2015,1437,none,none,Sevens World Cup within Kenya‚Äôs reach,Clash of Styles in Court Opens Trial in Young Man‚Äôs Death,0.0
+5594,main-news,headlines,2016,314,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Chinese satellite spots large object in search area,Malaysia: Chinese satellite found object in ocean,3.0
+1438,main-captions,images,2014,652,none,none,A young girl riding a white and grey horse.,a little girl is riding a white and grey horse.,4.6
+1622,main-captions,images,2015,381,none,none,The brown and black dog sprints across the snow.,A black dog is running quickly along the ground.,2.8
+4646,main-news,headlines,2014,366,none,none,Italian Prime Minister Mario Monti Resigns,'Palestinian Prime Minister Fayyad resigns',1.4
+4786,main-news,headlines,2014,545,none,none,North Korean cargo reveals missile repair trade with Cuba,N Korean ship carrying Cuba missiles seized,2.8
+1303,main-captions,images,2014,443,none,none,A pug dog wits on a yellow chair next to a green dumpster.,A bulldog sitting on a yellow chair beside a large waste receptacle.,3.2
+3456,main-news,deft-news,2014,6,none,none,fulvio berghella stated that the digital worm named sq hell was particularly virulent and replicated itself at the rate of 8000 times an hour.,fulvio berghella stated that the digital worm named sq hell has a very high capacity to replicate itself and the digital worm named sq hell is slowing down the poste italiane computer network and making some computers inoperable.,3.6
+706,main-captions,MSRvid,2012,305,none,none,A person is slicing a bread pieces.,A man is slicing bread.,3.2
+3353,main-news,MSRpar,2012,620,none,none,Texans saddled with skyrocketing homeowners premiums might finally be getting relief.,Relief is in sight for Texans saddled with skyrocketing homeowners insurance premiums.,5.0
+4362,main-news,headlines,2014,18,none,none,Israel planes strike inside Syria,Israel launches airstrike into Syria,4.6
+5694,main-news,headlines,2016,1137,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),New US Sanctions Target Overseas Cyber Attackers,China disagrees with U.S. sanctions program on overseas cyber attackers,2.0
+3890,main-news,headlines,2013,176,none,none,French Fear New Serial Killer After Murders,Jersey Murder Trial: Killer 'Hearing Voices',0.8
+2021,main-forum,deft-forum,2014,21,none,none,.Nazi is a slang term for the NSWP.,Originally Posted by Odins eye .Nazi is a slang term for the NSWP.,4.6
+2239,main-forum,deft-forum,2014,239,none,none,Atlas Shrugged It's also a stellar performer in terms of blithering idiocy.,It's also a stellar performer in terms of blithering idiocy.,3.6
+2754,main-news,MSRpar,2012,460,none,none,"The island nation reported 65 new cases on May 22, a one day record, and 55 new cases on May 23, making Taiwan's epidemic the fastest-growing in the world.","Taiwan reported 65 new cases on May 22, a one-day record, and 55 new cases on May 23, making its epidemic the world's fastest-growing.",5.0
+1113,main-captions,images,2014,155,none,none,A potted plant in sunlight from a window.,A potted plant with only a few sprouting.,2.8
+1245,main-captions,images,2014,362,none,none,A group of sheep grazing on a hill.,A group of sheep are on a hill.,4.0
+1604,main-captions,images,2015,332,none,none,Two girls are sitting in front of a statue.,Two blonde girls are sitting next to a statue,3.8
+487,main-captions,MSRvid,2012,740,none,none,A woman is adding sauce to some food.,A person is cutting leaves.,0.2
+3687,main-news,deft-news,2014,237,none,none,iranian parliamentary speaker gholam-ali haddad-adel visited cuba.,the agreements were signed during iranian majlis (parliament) speaker gholam-ali haddad-adel's visit to cuba.,3.0
+3767,main-news,headlines,2013,20,none,none,Indian finance minister quits to run for president,Julian Assange Plans to Run for Australian Senate,0.2
+5358,main-news,headlines,2015,997,none,none,Los Angeles airport worker charged with making 9/11 threats,Los Angeles airport worker charged over 9/11 threats,5.0
+1623,main-captions,images,2015,383,none,none,The man in the backpack looks to his left.,An adult male wearing a backpack walks and looks to the left.,3.8
+4178,main-news,headlines,2013,533,none,none,Chicago teacher strike nears end with 'framework' agreement in place,"General strike ends: Histadrut, Treasury reach agreement",0.8
+2431,main-forum,deft-forum,2014,431,none,none,Originally Posted by zaf I suppose the water in the middle makes a difference.,"Originally Posted by zaf in the long term, yes.",1.0
+561,main-captions,MSRvid,2012,100,none,none,A man is talking with a woman.,A woman is walking with a dog.,0.5
+736,main-captions,MSRvid,2012,347,none,none,The woman is slicing fish cake.,The woman is riding a horse.,0.8
+4107,main-news,headlines,2013,441,none,none,NATO: 4 aid workers rescued from Afghan insurgents,5 aid workers freed in operation in Afghanistan,2.8
+354,main-captions,MSRvid,2012,527,none,none,Animals are playing in water.,Two men are playing ping pong.,0.0
+3624,main-news,deft-news,2014,174,none,none,the lawyer of michael karras named s.s. dhillon could not be reached for comment.,durban port authorities and police explosives inspectors could not be reached for comment.,2.0
+1925,main-captions,images,2015,1291,none,none,A young men jumps off rocks into a lake.,A young man in red swimming trunks jumped off a large rock into the water.,4.0
+4998,main-news,headlines,2015,106,none,none,22 killed in mine accident in southwestern China,"2 killed, dozens injured by blast in southwest Pakistan",0.6
+5443,main-news,headlines,2015,1224,none,none,Stocks rise in early trading,Stocks inch higher in early trading,4.4
+1109,main-captions,images,2014,150,none,none,The seagull is floating on the water.,Large cruise ship floating on the water.,1.2
+3253,main-news,MSRpar,2012,467,none,none,"The valid signatures of 897,158 registered California voters must be collected and turned in to county election officials by Sept. 2.","To force a recall election of Davis, the valid signatures of 897,158 registered California voters must be turned in to election officials.",3.2
+2909,main-news,MSRpar,2012,687,none,none,"At 5 p.m. EDT, Grace's center was near latitude 25.6 north, longitude 93.7 west or about 280 miles east-southeast of Corpus Christi.","At 11 a.m. EDT, Fabian's center was near latitude 18.1 north and longitude 53.2 west, or about 550 miles east of the Leewards.",1.25
+4585,main-news,headlines,2014,294,none,none,6.0-magnitude quake hits Greece -- USGS,5.0-magnitude quake jolts Japan,1.0
+4009,main-news,headlines,2013,322,none,none,Federer Wins 7th Wimbledon Title,Federer captures 7th Wimbledon title,5.0
+4580,main-news,headlines,2014,288,none,none,More French soldiers to Central African Republic,Gun battles in Central African capital create fresh panic,2.0
+743,main-captions,MSRvid,2012,356,none,none,The man is pushing the van.,The woman is singing.,0.0
+1761,main-captions,images,2015,791,none,none,"A teenage girl running on a beach shouting, with an older man walking behind her.",a young child running along the shore at a beach,1.8

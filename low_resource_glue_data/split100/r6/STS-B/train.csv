@@ -1,0 +1,101 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+5,main-captions,MSRvid,2012,11,none,none,Some men are fighting.,Two men are fighting.,4.25
+5322,main-news,headlines,2015,917,none,none,French raid wine cellar for austerity auction,US praises Ukraine deal; calls for concrete action,0.2
+1512,main-captions,images,2015,42,none,none,A dog is jumping up in the air to catch a toy.,A black dog jumps in the air to catch a toy.,4.0
+1347,main-captions,images,2014,508,none,none,A white bus with the word Julia is near water and a big ship.,A white bus with water and a barge in the background.,3.8
+382,main-captions,MSRvid,2012,582,none,none,The man is putting chicken into the container.,A man is putting foods in a box.,2.5
+1767,main-captions,images,2015,818,none,none,A man and a woman are smiling.,A man and a woman laughing.,3.2
+1303,main-captions,images,2014,443,none,none,A pug dog wits on a yellow chair next to a green dumpster.,A bulldog sitting on a yellow chair beside a large waste receptacle.,3.2
+630,main-captions,MSRvid,2012,199,none,none,A woman is swimming.,A man is spitting.,0.0
+5558,main-news,headlines,2016,63,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Mayawati demands president's rule in Kashmir,Mayawati demands Presidents rule in Jammu and Kashmir,3.0
+3402,main-news,MSRpar,2012,684,none,none,"Sliding down the ice, Moriarty and Carella hit the spongy, rocky floor of the river and immediately felt the pull.","Sliding down the embankment, the two rescuers hit the spongy, rocky floor of the river and immediately felt the pull.",3.4
+3449,main-news,MSRpar,2012,748,none,none,Hospitals and the Red Cross appealed to blood donors yesterday.,The Connecticut Hospital Association joined the Red Cross Monday in calling for more blood donors.,3.75
+3192,main-news,MSRpar,2012,380,none,none,"The Bishop of Armidale, Peter Brain, was forthright.","He hasn't got much choice, said the Bishop of Armidale, Peter Brain.",2.0
+5329,main-news,headlines,2015,930,none,none,PCB appoints Waqar Younis as head coach,Waqar Younis back as Pakistan coach,5.0
+5101,main-news,headlines,2015,381,none,none,Canada train plot suspects reject charges,"Canadians released in Egypt, not yet heading home",1.0
+1222,main-captions,images,2014,329,none,none,A yellow and blue airplane is flying in the sky.,Nine red and white aircraft flying in formation trailing smoke.,1.0
+4741,main-news,headlines,2014,490,none,none,Houston Texans head coach Gary Kubiak hospitalized after collapsing at game,Texans coach Gary Kubiak in stable condition after collapse,2.8
+3778,main-news,headlines,2013,36,none,none,Romney announces Paul Ryan as running mate,Romney names Ryan as running mate,5.0
+2211,main-forum,deft-forum,2014,211,none,none,The new study does not support your claim.,The physical evidence does not support your claim.,2.2
+5579,main-news,headlines,2016,217,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Cars, drivers plunge into river after Wash. I-5 bridge collapse",Cars plunge into river as US bridge collapses,3.0
+1493,main-captions,images,2014,741,none,none,A dark brown horse standing in a field.,Horse standing in a field.,3.6
+2807,main-news,MSRpar,2012,543,none,none,"Nick Markakis, a left-hander from Young Harris Junior College in Georgia, went to the Orioles with the seventh pick.","Next, Baltimore took Nick Markakis, a left-handed pitcher and outfielder from Young Harris Junior College in Georgia.",3.8
+2196,main-forum,deft-forum,2014,196,none,none,"If the universe has an explanation of its existence, that explanation is God.","Therefore, the universe has an explanation of its existence.",2.4
+5296,main-news,headlines,2015,851,none,none,Israel approves release of first group of Palestinian prisoners ahead of peace talks,Syrian opposition confirms participation in peace talks,1.0
+3077,main-news,MSRpar,2012,183,none,none,"Women who eat potatoes and other tuberous vegetables during pregnancy may be at risk of triggering type 1 diabetes in their children, Melbourne researchers believe.",Australian researchers believe they have found a trigger of type 1 diabetes in children - their mothers eating potatoes and other tuberous vegetables during pregnancy.,4.25
+3212,main-news,MSRpar,2012,411,none,none,"The consumer group generated $4.47 billion of profit and $20 billion of revenue from January to June, 53% of Citigroup's profit and revenue.","It generated $4.47 billion of profit and $20 billion of revenue in the year's first half, 53 percent of Citigroup's totals.",3.8
+3464,main-news,deft-news,2014,14,none,none,regional and international non-proliferation issues should be addressed through dialogue and negotiations.,the second proposal was that regional and international non-proliferation issues should be addressed through dialogue and negotiations.,3.6
+4407,main-news,headlines,2014,76,none,none,Dozens feared trapped in India building collapse,Rescuers race to find 20 still trapped in India building collapse,3.0
+567,main-captions,MSRvid,2012,108,none,none,A man is playing two pianos.,A cat is playing a piano.,1.6
+2888,main-news,MSRpar,2012,663,none,none,"The Dow Jones Industrial Average fell 98.32, or about 1.1 percent, to 9011.53.","The Dow Jones industrial average finished the day down 98.32 points at 9,011.53.",3.4
+3380,main-news,MSRpar,2012,652,none,none,"Stripping out the extraordinary items, fourth-quarter earnings were 64 cents a share compared to 25 cents a share in the prior year.",Earnings were 59 cents a share for the three months ended May 25 compared with 15 cents a share a year earlier.,1.0
+26,main-captions,MSRvid,2012,40,none,none,The woman is playing the flute.,A woman is playing a flute.,5.0
+4988,main-news,headlines,2015,86,none,none,Egypt forces set to block access to Morsi protest camps,Egyptian forces move to clear pro-Morsi protest camps,2.4
+5538,main-news,headlines,2015,1475,none,none,Iran's president condemns use of chemical weapons in Syria,Probe alleged use of chemical weapons in Syria,1.6
+2882,main-news,MSRpar,2012,656,none,none,They said the child was taken to Nassau County Medical Center for observation.,"""The boy was taken to Nassau University Medical Center, where staff said he was """"doing okay.""""""",3.4
+5306,main-news,headlines,2015,880,none,none,Trial Date Set for Egypt's Muslim Brotherhood Chief,Syria's Muslim Brotherhood faces uphill battle,2.2
+3207,main-news,MSRpar,2012,403,none,none,"The WiFi potties were to be unveiled this summer, at music festivals in Britain.",The world's first portal potty was soon to be rolled out at summer festivals in Great Britain.,4.0
+1872,main-captions,images,2015,1146,none,none,A black dog walking through water.,Two black dogs walking through the snow.,2.4
+4706,main-news,headlines,2014,442,none,none,Facebook earnings jump 63% as mobile ads accelerate,Facebook profits jump as user base expands,3.4
+991,main-captions,MSRvid,2012,732,none,none,A monkey is karate kicking at someone's gloved hand.,A monkey pratices martial arts.,3.5
+2354,main-forum,deft-forum,2014,354,none,none,So answer the question.,Stop avoiding the question.,3.4
+1428,main-captions,images,2014,636,none,none,White cat sitting inside of a sink.,Grey and white cat sitting in bathroom sink.,3.4
+562,main-captions,MSRvid,2012,101,none,none,The man is walking.,A man is talking.,1.4
+112,main-captions,MSRvid,2012,164,none,none,A boy is checking a calender.,A boy is looking at a calendar.,3.8
+4034,main-news,headlines,2013,352,none,none,More than 30 striking miners killed,More than 30 striking miners killed in South Africa,3.8
+3890,main-news,headlines,2013,176,none,none,French Fear New Serial Killer After Murders,Jersey Murder Trial: Killer 'Hearing Voices',0.8
+1549,main-captions,images,2015,188,none,none,A woman in a black shirt stands in front of bananas at a fruit stand.,a woman wearing black stands in front of a pickup truck.,2.4
+283,main-captions,MSRvid,2012,422,none,none,A chimpanzee is hurting a woman.,A man is driving a car.,0.0
+62,main-captions,MSRvid,2012,90,none,none,A kid plays with a toy phone.,A little boy plays with a toy phone.,3.5
+827,main-captions,MSRvid,2012,489,none,none,A man is playing flute.,A man is petting a tied up dog.,0.2
+4723,main-news,headlines,2014,465,none,none,"Mumbai photojournalist gangrape case cracked, five accused arrested",Mumbai journalist gang-rape case: All five accused arrested,4.8
+3031,main-news,MSRpar,2012,111,none,none,"The company posted a profit of $54.3 million, or 22 cents per share, in the year-ago period.","That was up from the year-ago quarter, when the company earned $54.3 million, or 22 cents a share.",4.176
+192,main-captions,MSRvid,2012,284,none,none,A man is getting inside a car.,An elderly man is getting into a red car.,3.75
+5662,main-news,headlines,2016,900,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),US Attorney General Holder resigns,Attorney General Eric Holder to Resign,5.0
+1630,main-captions,images,2015,396,none,none,Three people racing on ice skates.,Three ice skaters round a corner.,3.2
+3966,main-news,headlines,2013,267,none,none,South Africa starts investigating mine violence,South Africa hosts 'peace talks' in mine standoff,2.4
+5368,main-news,headlines,2015,1029,none,none,Westgate mall attackers spent four months planning in Nairobi,"Westgate attackers spent four months planning in Nairobi, says official",4.6
+802,main-captions,MSRvid,2012,455,none,none,A woman cuts a pineapple.,A woman is slicing a pineapple into pieces.,4.0
+3867,main-news,headlines,2013,147,none,none,Israel threatens action against Gaza aid ship,Israel attacks in Gaza Strip after rocket fire,1.6
+2772,main-news,MSRpar,2012,486,none,none,"Peterson told police he fished alone in San Francisco Bay on Christmas Eve, returning to an empty house.",Peterson told police he left his wife at about 9:30 a.m. on Dec. 24 to fish alone in San Francisco Bay.,3.0
+2762,main-news,MSRpar,2012,472,none,none,The Boston Archdiocese has faced waves of scandal that have not only angered victims' advocates but parishioners and some priests.,"The waves of scandal angered not only victims' advocates but parishioners and some priests, to the point that Law could no longer run the archdiocese.",3.0
+1862,main-captions,images,2015,1121,none,none,A dog jumps over a chain.,A dog leaping over a chain.,5.0
+2767,main-news,MSRpar,2012,477,none,none,"The new Army Commander is the Masaka Armoured Brigade commanding officer, Brigadier Aronda Nyakairima who is now promoted to major general.",PRESIDENT Yoweri Museveni has promoted Brigadier Aronda Nyakairima to Major General and named him Army Commander.,3.2
+3094,main-news,MSRpar,2012,213,none,none,"This has been a persistent problem that has not been solved, investigation board member Steven Wallace said.","This was a persistent problem which has not been solved, mechanically and physically, said board member Steven Wallace.",4.0
+4420,main-news,headlines,2014,93,none,none,China stocks close higher after economic meeting,China stocks close higher on Wednesday,3.4
+4050,main-news,headlines,2013,371,none,none,Romney vows to restore 'promise of America',Romney Promises to 'Restore America',3.8
+658,main-captions,MSRvid,2012,241,none,none,A man is dangling a mouse near a snake.,A man is feeding a mice to a snake.,3.2
+3343,main-news,MSRpar,2012,601,none,none,Ernst & Young admitted no wrongdoing with the settlement.,Ernst & Young spokesman Kenneth Kerrigan said the firm admits no wrongdoing.,4.0
+5551,main-news,headlines,2015,1499,none,none,Obama made last-minute decision on Syria approval,Obama mulls limited military action in Syria,2.0
+5156,main-news,headlines,2015,508,none,none,Hong Kong set for huge democracy rally on handover anniversary,Hong Kong set for huge democracy rally,3.8
+2187,main-forum,deft-forum,2014,187,none,none,"That's not the Moloch scene, though.",This is the Moloch scene.,2.4
+5232,main-news,headlines,2015,700,none,none,Manchester City wins second Premier League title in three years,Manchester City win English Premier League title,3.8
+532,main-captions,MSRvid,2012,59,none,none,A cow is eating grass.,A cow is eating hay.,3.8
+527,main-captions,MSRvid,2012,54,none,none,The dog is barking at the toy.,A dog is barking at a toy.,5.0
+5133,main-news,headlines,2015,452,none,none,Death toll rises to 29 in India's Mumbai building collapse,Death toll rises to 12 in Indonesia mine collapse,0.6
+2359,main-forum,deft-forum,2014,359,none,none,Jake with the assist.,Voracek with the goal.,0.4
+989,main-captions,MSRvid,2012,730,none,none,A girl is playing a guitar.,A boy is playing a key-board between the people.,1.0
+4419,main-news,headlines,2014,92,none,none,Syria denies reports of deadly Damascus nerve gas attack,US allies get help to repel Iranian computer attacks,0.0
+2898,main-news,MSRpar,2012,675,none,none,"Carnival Corp. stock was trading at $31.29 during midday trading Wednesday, down 72 cents or 2.25 percent.","Carnival Corp. stock was down 2.5 percent, or 81 cents, at $31.20 on the New York Stock Exchange.",3.2
+1785,main-captions,images,2015,862,none,none,A man in a straw hat shades his phone while others walk on a busy sidewalk.,A man lies on a street with his headand shoulders under a parked car that is jacked up.,0.6
+979,main-captions,MSRvid,2012,712,none,none,A man is putting broccoli into water.,A person is peeling a potato.,1.0
+2508,main-news,MSRpar,2012,98,none,none,"A three-judge panel of the 11th U.S. Circuit Court of Appeals ruled late Friday that the small size, limited use and secular purpose make the image legitimate.",A three-judge panel of the 8th U.S. Circuit Court of Appeals in St. Louis overturned a ruling issued last year that supported the ordinance.,2.8
+3377,main-news,MSRpar,2012,648,none,none,"The deal, approved by both companies' board of directors, is expected to be completed in the third quarter of Nvidia's fiscal third quarter.",The acquisition has been approved by both companies' board of directors and is expected to close in the third quarter this year.,3.4
+1074,main-captions,images,2014,101,none,none,The dining room table gets some afternoon sun.,Dining room with wooden dining table set with playmates.,2.2
+1479,main-captions,images,2014,719,none,none,Three women with brown hair are smiling.,Three women in Indian dresses in a crowded room smiling.,2.8
+4620,main-news,headlines,2014,337,none,none,Soccer-France to host Australia for first time in October,NRA official to face questions for first time since controversial remarks,0.0
+2814,main-news,MSRpar,2012,554,none,none,"Costa's semifinal opponent is Spaniard Juan Carlos Ferrero, whom he beat in last year's final.",Costa will play Juan Carlos Ferrero next in a rematch of last year's final.,3.75
+1226,main-captions,images,2014,333,none,none,Two guys sit on a couch holding beers with a girl lying on their laps.,Two women watching the street with their bikes to see when they may cross.,0.0
+2379,main-forum,deft-forum,2014,379,none,none,But do you actually believe there was an iceberg in those waters?,I absolutely do believe there was an iceberg in those waters.,3.0
+3478,main-news,deft-news,2014,28,none,none,nato regrets russia's decision to suspend participation in the cfe.,russia's decision to suspend participation in the cfe is a step in the wrong direction.,3.8
+1810,main-captions,images,2015,938,none,none,A girl bounces upside down on her head on a trampoline.,A girl is bouncing on her head on a trampoline.,4.8
+678,main-captions,MSRvid,2012,264,none,none,A man is swinging in a rope.,A gibbon is swinging in the trees.,1.25
+1029,main-captions,images,2014,45,none,none,Camouflage airplane sitting on grassy field.,A camouflaged plane sitting on the green grass.,4.4
+2296,main-forum,deft-forum,2014,296,none,none,Cyclopes don't exist - fine.,Goblins don't exist - fine.,1.6
+3801,main-news,headlines,2013,64,none,none,South Korea Orders Immediate Shutdown of 2 Nuclear Reactors,South Korea to boost nuclear power?,1.2
+5474,main-news,headlines,2015,1307,none,none,Polling stations open at Ukrainian presidential election,Nominations open for e.TV Ghana Most Influential Awards,0.2
+2236,main-forum,deft-forum,2014,236,none,none,If you answer yes to  and no to  you are probably straight.,If you answer no to  but yes to  then you are probably straight.,3.1
+1539,main-captions,images,2015,157,none,none,Man is carrying a tool box down the sidewalk.,A woman is riding a blue bicycle in a park.,0.0
+654,main-captions,MSRvid,2012,236,none,none,A woman fires a shotgun.,A woman is shooting a gun.,3.2
+4402,main-news,headlines,2014,68,none,none,Egypt's main opposition rejects president's call for dialogue,Egypt opposition mulls response to Morsi dialogue call,3.8
+4884,main-news,headlines,2014,665,none,none,Sniper waiting for result of appeal,New glories for China in striving for renewal,0.0

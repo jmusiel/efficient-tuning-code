@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+2019,main-forum,deft-forum,2014,19,none,none,"According to the girlfriend and Zimmerman, he did.",According to Zimmerman he did.,2.4
+1432,main-captions,images,2014,640,none,none,Two animals sitting on a rock.,Two eagles sitting on a long branch.,1.6
+1144,main-captions,images,2014,209,none,none,A group of river barges with trees in the background.,A group of cows in a field with yellow tags in their ears.,0.2
+2946,main-news,MSRpar,2012,739,none,none,"Oracle shares were also higher, trading up 12 cents at $13.60.",Shares of Redwood Shores-based Oracle rose 14 cents to $13.62.,2.0
+2648,main-news,MSRpar,2012,315,none,none,Most taxpayers will get surprise tax cuts of between $4 and $11 a week from July 1.,Australia's 9 million income taxpayers received surprise tax cuts of between $3 and $11 a week from Treasurer Peter Costello last night.,3.25

@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+5678,main-news,headlines,2016,1028,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Israeli forces arrest 21 Palestinians overnight, clash with locals",Israeli security forces arrest 8 Palestinians in overnight West Bank sweeps,1.0
+5526,main-news,headlines,2015,1440,none,none,Austrian found hoarding 56 stolen skulls in home museum,Stolen skulls found in home museum,3.4
+3657,main-news,deft-news,2014,207,none,none,do quy doan is a spokesman for the vietnamese ministry of culture and information.,grenell is spokesman for the u.s. mission to the united nations.,0.8
+5580,main-news,headlines,2016,227,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Death toll in Syria now tops 100,000","Death toll in Syria over 100,000 so far",5.0
+4907,main-news,headlines,2014,695,none,none,Car Bomb Wounds 15 in Hezbollah Stronghold in Lebanon,Car bomb rocks Hezbollah stronghold in Lebanon,3.2

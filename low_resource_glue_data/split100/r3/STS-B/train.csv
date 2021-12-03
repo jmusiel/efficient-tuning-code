@@ -1,0 +1,101 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+689,main-captions,MSRvid,2012,281,none,none,A man with glasses is talking.,A man in a library is talking.,3.25
+2856,main-news,MSRpar,2012,618,none,none,Cooley said he expects Muhammad will similarly be called as a witness at a pretrial hearing for Malvo.,Lee Boyd Malvo will be called as a witness Wednesday in a pretrial hearing for fellow sniper suspect John Allen Muhammad.,2.5
+5634,main-news,headlines,2016,714,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Saudi Women To Protest Against Driving Ban,Saudi women drive in protest with little problem,2.0
+3212,main-news,MSRpar,2012,411,none,none,"The consumer group generated $4.47 billion of profit and $20 billion of revenue from January to June, 53% of Citigroup's profit and revenue.","It generated $4.47 billion of profit and $20 billion of revenue in the year's first half, 53 percent of Citigroup's totals.",3.8
+2994,main-news,MSRpar,2012,59,none,none,"Only New Jersey now bans holders of learners permits or intermediate licenses from using cell phones, pagers or other wireless devices while driving.","In addition, the NTSB also recommended to NHTSA that state legislation be enacted to prohibit holders of learners permits and intermediate licenses from using mobile phones while driving.",1.4
+497,main-captions,MSRvid,2012,9,none,none,A small boy is playing with a dog.,A baby is playing with a dog.,3.75
+5695,main-news,headlines,2016,1148,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),5 killed in Israeli air strikes in Gaza,"38 IS militants killed in clashes, air strikes in Iraq",0.0
+1943,main-captions,images,2015,1336,none,none,A brown dog sits on the beach.,A dog running on the beach,2.0
+1012,main-captions,images,2014,17,none,none,A kid jumping a ledge with a bike.,A black and white cat playing with a blanket.,0.0
+3314,main-news,MSRpar,2012,561,none,none,The recent turnaround in the stock market and an easing in unemployment claims should keep consumer expectations at current levels and may signal more favorable economic times ahead.,"""The recent turnaround in the stock market and an easing in unemployment claims """"may signal more favorable economic times ahead,"""" she said.""",3.933
+3015,main-news,MSRpar,2012,89,none,none,"Spin and manipulative public relations and propaganda are not the answer, it said.","""The report added that """"spin"""" and manipulative public relations """"are not the answer,"""" but that neither is avoiding the debate.""",3.6
+3962,main-news,headlines,2013,263,none,none,US astronaut Neil Armstrong dead at 82,US astronaut Neil Armstrong dies,3.6
+1430,main-captions,images,2014,638,none,none,Two people are sailing a small boat.,Two women in a sailboat.,3.8
+1790,main-captions,images,2015,872,none,none,A person holding a net is standing in the water.,A black woman and two black children are sitting in a thatched tent.,0.6
+2186,main-forum,deft-forum,2014,186,none,none,h and i both read the books and thought the movie moved so quickly.,"I haven't read the books, but I saw the movie today.",3.0
+1242,main-captions,images,2014,356,none,none,a woman sitting on a sofa holding a baby.,Bird sitting on a log in a lake.,0.4
+1792,main-captions,images,2015,877,none,none,a man walks two dogs on leashes down the street,A man walks two dogs in the city.,4.2
+2853,main-news,MSRpar,2012,613,none,none,"Evacuation went smoothly, although passengers weren't told what was going on, Hunt said.","Passengers were evacuated smoothly, although they were not told what was going on, he said.",4.4
+2655,main-news,MSRpar,2012,324,none,none,A judge ordered the child placed in state custody Aug. 8.,"On Aug. 8, Juvenile Court Judge Robert Yeates ordered that Parker be placed in protective custody.",3.2
+1146,main-captions,images,2014,211,none,none,Yellow striped cat resting on blue sofa.,An orange tabby cat sleeping on the sofa.,4.0
+1367,main-captions,images,2014,541,none,none,Elegant dining room with wood furniture.,An elegant pink dining room with wooden furniture.,3.8
+5515,main-news,headlines,2015,1410,none,none,5 Things to Know About the Sochi Olympics,7 Things to Know About Ethanol,0.0
+329,main-captions,MSRvid,2012,493,none,none,A bear is running from two dogs.,A bear is fighting wolves.,1.4
+2169,main-forum,deft-forum,2014,169,none,none,% How much money does PP take in for abortion services?,How much is spent on abortions services?,2.6
+1587,main-captions,images,2015,267,none,none,A softball player swinging at a pitch.,A baseball player hitting the ball,2.8
+2619,main-news,MSRpar,2012,271,none,none,"The report ranked 45 large companies based on employment, marketing, procurement, community reinvestment and charitable donations.","Of those three, only Dillard's responded to the survey that ranked 45 large companies on employment, marketing, procurement, community reinvestment and charitable donations.",3.0
+5345,main-news,headlines,2015,970,none,none,Ukraine: Three Killed In Parliament Protests,Ukraine President Calls Talks To End Protests,1.0
+1406,main-captions,images,2014,603,none,none,A red and gray train is going through a tunnel.,A red and gray train travels through a tunnel amongst the trees.,4.25
+3259,main-news,MSRpar,2012,476,none,none,"What can I say to you? he told a crowd at a cemetery with a thousand headstones, many of them marking the graves of entire families.","Mr. Powell told a crowd at a cemetery with a thousand headstones, many of them marking the graves of entire families.",2.8
+1467,main-captions,images,2014,698,none,none,A man is standing next to a yellow sports car.,A man stands next to a yellow Corvette.,4.0
+5502,main-news,headlines,2015,1384,none,none,US military presence in East Asia,NATO ups military presence amid Russian threat,1.2
+3178,main-news,MSRpar,2012,352,none,none,The procedure is generally performed in the second or third trimester.,"The technique is used during the second and, occasionally, third trimester of pregnancy.",4.5
+4006,main-news,headlines,2013,319,none,none,HRW: Jordan biased against Palestinians from Syria,Jordan biased over Palestinians from Syria,4.2
+4943,main-news,headlines,2014,735,none,none,Three die after car crash at Tian'anmen,Three Killed In Crash At Tiananmen Square,4.6
+4890,main-news,headlines,2014,673,none,none,US-Russia reach agreement on Syria,US-Russia reach agreement on Syria weapons,3.4
+65,main-captions,MSRvid,2012,99,none,none,A squirrel is spinning around in circles.,A squirrel runs around in circles.,4.0
+5636,main-news,headlines,2016,726,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Nelson Mandela hospital release reports 'incorrect',Nelson Mandela Goes Home After Hospital Stay,2.0
+5006,main-news,headlines,2015,125,none,none,Sienna Miller testifies at UK phone hacking trial,Sienna Miller attacks press for ‚Äėtitillating‚Äô reports at hacking trial,3.0
+4906,main-news,headlines,2014,694,none,none,Typhoon survivors raid Philippine stores,Typhoon Bopha kills 15 in S. Philippines,1.2
+2206,main-forum,deft-forum,2014,206,none,none,DreamTech never been ejaculated on as far as I know.,It has never been ejaculated on as far as I know.,3.0
+2447,main-forum,deft-forum,2014,447,none,none,"The ideology was built around violent expansion, so yes - VIOLENT expansion.",The ideology was built around violent expansion and race superiority.,4.0
+1847,main-captions,images,2015,1070,none,none,A person is out in the water at the beach while the sun sets.,A person above their surfboard on the water.,3.0
+5523,main-news,headlines,2015,1436,none,none,3 Chinese tourists killed in Pakistan,Seven kidnappers killed in southern Nigeria,0.4
+5498,main-news,headlines,2015,1378,none,none,Top Chinese political advisor meets Greek PM,Top Chinese political advisor meets Yemeni president,3.4
+3048,main-news,MSRpar,2012,136,none,none,"The figures are becoming catastrophic, said Dr. Patrick Pelloux, the president of the association of emergency room physicians.","""This is unacceptable,"""" said Patrick Pelloux, the president of France's Association of Emergency Doctors.""",2.5
+3774,main-news,headlines,2013,27,none,none,Nigeria university mass attacked by gunmen,Nigeria: University Bombed in North,2.2
+430,main-captions,MSRvid,2012,643,none,none,A man is tying his shoe.,A dog is riding on a bicyclists shoulders.,0.0
+4150,main-news,headlines,2013,498,none,none,Putin claims victory in Russia's presidential election,Putin claims victory in presidential vote,4.2
+1950,main-captions,images,2015,1350,none,none,A brown dog is splashing water everywhere by shaking the water off of itself.,A white dog is standing by a river shaking himself dry.,2.4
+2896,main-news,MSRpar,2012,671,none,none,"At one of the three sampling sites at Huntington Beach, the bacteria reading came back at 160 on June 16 and at 120 on June 23.",The readings came back at 160 on June 16 and 120 at June 23 at one of three sampling sites at Huntington Beach.,3.25
+3359,main-news,MSRpar,2012,628,none,none,"Among the workers, the researchers found short workers had worse hearing than expected for their age.","Short workers had worse hearing than expected by age -- three times more often than taller workers, writes Barrenas.",3.8
+1087,main-captions,images,2014,121,none,none,Black train on train tracks.,A train on the train tracks.,4.1
+2152,main-forum,deft-forum,2014,152,none,none,My teachers have told me it is bad for you.,officers have told me its bad for you.,2.2
+2243,main-forum,deft-forum,2014,243,none,none,"Yes, I've assumed that all packaging would be recyclable in my argument.",I've assumed this as well in my argument.,2.8
+2885,main-news,MSRpar,2012,660,none,none,"Gov. Rick Perry has said that while he opposes gambling expansion, he would be reluctant to veto continuation of the Lottery Commission.","""Gov. Rick Perry opposes expansion of gambling but has said he would be """"hard-pressed"""" to veto the lottery sunset bill.""",3.8
+2396,main-forum,deft-forum,2014,396,none,none,We are all vessels filled with many wonders.,Jingle Bell Rock by Bobby Helm We are all vessels filled with many wonders.,3.0
+3876,main-news,headlines,2013,158,none,none,Mumbai is 2nd costliest Indian city to live in,Tech capital Bangalore costliest Indian city to live in: Survey,1.0
+1599,main-captions,images,2015,315,none,none,A young boy jumps into a pool with outstretched arms.,A dog jumps into a backyard pool.,1.2
+891,main-captions,MSRvid,2012,584,none,none,A woman shoots a shotgun.,The woman is shooting a rifle.,2.8
+4005,main-news,headlines,2013,318,none,none,"FACTBOX-Security developments in Iraq, February 1","FACTBOX-Security developments in Pakistan, March 13",1.6
+5196,main-news,headlines,2015,611,none,none,Suicide bomber kills 13 at restaurant in central Somalia,Suicide bomber kills at least 4 in Kabul,1.8
+5748,main-news,headlines,2016,1492,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Putin spokesman: Doping charges appear unfounded,The Latest on Severe Weather: 1 Dead in Texas After Tornado,0.0
+5552,main-news,headlines,2016,12,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Driver backs into stroller with child, drives off","Driver backs into mom, stroller with child then drives off",4.0
+2355,main-forum,deft-forum,2014,355,none,none,Haiti is a shithole.,Haiti has been a shithole.,4.2
+3563,main-news,deft-news,2014,113,none,none,"the treaty limits the number of aircraft, tanks and other non-nuclear heavy weapons around europe.","the conventional forces in europe treaty limits the number of military aircraft, tanks and other non-nuclear heavy weapons in europe.",4.2
+4154,main-news,headlines,2013,502,none,none,"Edwards Acquitted on 1 Count, Mistrial on Others",Edwards found not guilty on one count; mistrial on others,4.6
+4282,main-news,headlines,2013,662,none,none,IDF to deploy Iron Dome in Central Israel,Major snowstorm barrels down on Central Plains,0.0
+4138,main-news,headlines,2013,483,none,none,'Whitey' Bulger's girlfriend gets 8 years,"""Mobster """"Whitey"""" Bulger's girlfriend gets 8 years""",3.6
+5098,main-news,headlines,2015,365,none,none,7 killed by Shiite al-Houthi fighters in northern Yemen,At least 5 killed in sectarian conflict in north Yemen,3.0
+2072,main-forum,deft-forum,2014,72,none,none,Could be a lot of things.,Could be a simple mistake.,2.2
+1053,main-captions,images,2014,75,none,none,This is a rear view of a Chevrolet sports car.,The rear view of a red Chevrolet concept car.,3.6
+1496,main-captions,images,2014,749,none,none,A small brown birds is eating from a bird feeder hanging from a tree.,A small red and grey bird perched in a tree.,2.0
+2101,main-forum,deft-forum,2014,101,none,none,And the simple fact today?,I repeat: And the simple fact today?,4.0
+106,main-captions,MSRvid,2012,155,none,none,A man is playing on his keyboard.,A man is playing a keyboard piano.,4.0
+4271,main-news,headlines,2013,649,none,none,Deadline passes with no new Iran sanctions,EU Moves Closer to New Iran Sanctions,1.6
+3247,main-news,MSRpar,2012,459,none,none,"If you pass this bill, Big Brother will be watching you, said Rep. John Mabry, D-Waco.","""If you pass this bill, Rep. John Mabry Jr., D-Waco, told colleagues, """"Big Brother will be watching you.""""""",4.8
+1257,main-captions,images,2014,376,none,none,There are several sheared sheep in a pen.,Three white sheep in an enclosure.,2.4
+925,main-captions,MSRvid,2012,632,none,none,A man pours liquid into a pan.,The chef poured oil in the pan.,2.6
+5742,main-news,headlines,2016,1443,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"France shuts mosque, arrests man in crackdown after attacks",Security tightened at New Delhi churches after attacks,2.0
+3805,main-news,headlines,2013,69,none,none,Middle East: Israel: Hamas Leader Convicted,Middle East: Iraq: 17 Prisoners Escape in Kirkuk,0.8
+805,main-captions,MSRvid,2012,458,none,none,A cook seasons some dough.,A man is seasoning some dough in a pan.,3.75
+2098,main-forum,deft-forum,2014,98,none,none,Dutchy Has anyone heard from Dutchy?,"@NickFun, Has anyone heard from Dutchy?",3.6
+2878,main-news,MSRpar,2012,650,none,none,"Terri Schiavo, 39, is expected to die sometime in the next two weeks in the Tampa-area hospice where she has spent the past several years.","Terri Schiavo, 39, underwent the procedure at the Tampa Bay area hospice where she has been living for several years, said her father, Bob Schindler.",1.8
+4324,main-news,headlines,2013,721,none,none,Yahoo! to name Google's Mayer as CEO: report,Yahoo names Google exec Mayer as CEO,4.2
+5741,main-news,headlines,2016,1441,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Two Australians killed in Kenya after bus crashed into river,Permalink to Two killed in Germany train accident,0.0
+4226,main-news,headlines,2013,594,none,none,Germany warns Greece: No more money without reforms,Euro zone to Greece: No rescue without reforms,2.6
+4293,main-news,headlines,2013,677,none,none,US drone strike kills 5 militants in Pakistan,Drone strike kills four suspected militants in Pakistan,3.0
+1882,main-captions,images,2015,1171,none,none,Two brown dogs running together on sand,Two brown dogs are running on the sand.,4.6
+2894,main-news,MSRpar,2012,669,none,none,Michelle Wie chips Sunday during her 1-up victory over Virada Nirapathpongporn in the 27th U.S. Women's Amateur Public Links Championship.,Now she has her first trophy after victory in the US Women's Amateur Public Links here on Sunday.,2.75
+207,main-captions,MSRvid,2012,303,none,none,A man spreads butter on a big piece of bread.,A man is smearing butter on a slice of garlic bread.,3.5
+3933,main-news,headlines,2013,227,none,none,Lebanese Gunmen Clash Over Syria Crisis,Syrians hold solution to Syria crisis,1.0
+4280,main-news,headlines,2013,660,none,none,"Navy jet crashes into US apartments, pilots eject",U.S. Navy Jet Crashes Into Virginia Apartment Buildings,3.4
+570,main-captions,MSRvid,2012,111,none,none,A man and a woman are riding on their bicycles.,A man and woman are riding a motorcycle.,2.0
+4522,main-news,headlines,2014,212,none,none,"Israelis, Palestinians resume talks in US","Israelis, Palestinians begin talks",3.8
+4799,main-news,headlines,2014,561,none,none,Bangladesh building collapse death toll hits 359,Indian building collapse death toll rises to 72,0.8
+215,main-captions,MSRvid,2012,317,none,none,Someone is playing a piano.,A man is playing a guitar.,1.2
+1104,main-captions,images,2014,144,none,none,Red sports car racing down track.,A red sports car driving quickly on a track.,4.6
+5541,main-news,headlines,2015,1478,none,none,Italy bus crash death toll rises,Starbucks clears college degree path for workers,0.0
+3386,main-news,MSRpar,2012,662,none,none,But the cancer society said its study had been misused.,The American Cancer Society and several scientists said the study was flawed in several ways.,2.25
+4185,main-news,headlines,2013,542,none,none,Ryanair in new bid for Aer Lingus,Ryanair chief hails report findings,1.2

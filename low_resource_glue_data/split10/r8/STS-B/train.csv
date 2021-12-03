@@ -1,0 +1,11 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+3578,main-news,deft-news,2014,128,none,none,myanmar's military rulers burned approximately 250 million dollars worth of illegal drugs to mark the international day against drug abuse and illicit trafficking.,myanmar's military rulers incinerated the drugs to mark the international day against drug abuse and illicit trafficking.,3.75
+5010,main-news,headlines,2015,132,none,none,‚ÄėGlee‚Äô star Cory Monteith found dead in hotel room,Cory Monteith found dead: Canadian ‚ÄėGlee‚Äô star was 31,3.4
+1493,main-captions,images,2014,741,none,none,A dark brown horse standing in a field.,Horse standing in a field.,3.6
+4566,main-news,headlines,2014,273,none,none,Jeff Bezos Bets $250 Million on Reviving Washington Post,Jeff Bezos Pays $250 Million For The Washington Post,4.2
+2346,main-forum,deft-forum,2014,346,none,none,You purport to value life very heavily.,I purport to value human life very highly.,2.8
+1736,main-captions,images,2015,713,none,none,A man is scalling a sheer rock face with a rope support.,A young man is doing a ski jump with a purple board.,0.4
+271,main-captions,MSRvid,2012,403,none,none,The man is shooting an automatic rifle.,A man is shooting a gun.,3.8
+498,main-captions,MSRvid,2012,10,none,none,The man is drawing.,A man is drawing.,5.0
+326,main-captions,MSRvid,2012,489,none,none,A woman swims underwater.,A woman is swimming.,3.8
+978,main-captions,MSRvid,2012,711,none,none,A couple of policewomen are singing karaoke.,Two women are dancing.,0.8

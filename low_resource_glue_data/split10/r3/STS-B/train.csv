@@ -1,0 +1,11 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+1191,main-captions,images,2014,283,none,none,Two white horses staring over a fence.,Two horses standing in a pen.,3.0
+2480,main-news,MSRpar,2012,52,none,none,"""Earlier, they had defied a police order and cried """"Allahu Akbar"""" (God is Greatest) as Bashir walked to his seat in the tightly guarded courtroom.""","""Earlier, Bashir's supporters had defied a police order and cried """"Allahu Akbar (God is Greatest)"""" as he walked to his seat.""",4.0
+2400,main-forum,deft-forum,2014,400,none,none,Your confusion doesn't make me a liar.,Then your confusion doesn't make me a liar either.,3.8
+4434,main-news,headlines,2014,110,none,none,Death toll climbs to 15 in Indonesia boat sinking,Indonesia: Death toll rises to 11 in Indonesia boat capsize,3.6
+293,main-captions,MSRvid,2012,439,none,none,A woman is water skiing on a lake.,A man is playing a flute.,0.0
+4326,main-news,headlines,2013,723,none,none,6.0-magnitude quake hits northern Italy: USGS,"5.9-magnitude quake hits Sunda Strait, Indonesia: USGS",1.6
+3390,main-news,MSRpar,2012,667,none,none,"Our strong preference is to achieve a financial restructuring out of court, and we remain hopeful we can do so, chief executive Marce Fuller said.","Our strong preference is to achieve a financial restructuring out of court, Mirant CEO Marce Fuller said in a prepared statement early Friday.",4.0
+3704,main-news,deft-news,2014,254,none,none,a key european arms control treaty must be maintained.,the cfe treaty is a key european arms control treaty.,2.2
+1656,main-captions,images,2015,482,none,none,a group of old men walking down the street,A couple walking down the street.,2.0
+1166,main-captions,images,2014,241,none,none,A train sitting on the tracks near a field.,A train traveling down the tracks.,2.2

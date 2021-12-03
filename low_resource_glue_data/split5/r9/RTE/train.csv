@@ -1,0 +1,6 @@
+index,sentence1,sentence2,label
+241,We are committed to the deployment of these technologies and are excited by the advances in remote sensing technology that are enabling us to extract more information from sensors in a cost-efficient and timely manner.,Ocean remote sensing is developed.,not_entailment
+2403,"A former FBI special agent, Rowley, and Becky Lourey, whose son was killed in Iraq, will leave for Texas on Thursday and camp at the site for a few days.",Rowley and Lourey are relatives.,not_entailment
+163,The Los Angeles Lakers rolled over the Indiana Pacers in Wednesday's the opening round game of the NBA championship series.,Lakers win the championship.,not_entailment
+2195,"Strong support was given to water conservation, recycling and demand reduction options, while storage augmentation (dam building) was rejected on the grounds that there would not be sufficient water to fill any new dams.",Dam building prevents life-threatening situations.,not_entailment
+1992,"A bouncer at the Irish Pub in Atlantic City, New Jersey was stabbed to death Saturday morning while trying to break up a fight. Luis Martinez, 25, of Newark, was arrested on two charges of aggravated assault for the brawl that left 27-year-old Richard Rivera dead.",Richard Rivera caused the death of Luis Martinez.,not_entailment

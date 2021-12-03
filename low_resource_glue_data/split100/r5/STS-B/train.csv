@@ -1,0 +1,101 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+3350,main-news,MSRpar,2012,615,none,none,Congratulations on being named Time magazine's Person of the Year.,Time magazine named the American soldier its Person of the Year for 2003.,2.4
+5300,main-news,headlines,2015,860,none,none,Cleveland Kidnapper Ariel Castro Found Hanged in Prison Cell,Cleveland kidnapper Ariel Castro found hanging in his cell,5.0
+5245,main-news,headlines,2015,724,none,none,Ukrainian Prime Minister resigns amid protests,British Prime Minister condemns murder of teens,0.0
+2028,main-forum,deft-forum,2014,28,none,none,"""I have  years of """"Neener Neener"""" rights I use lettuce too.""","""I have  years of """"Neener Neener"""" rights Hi Wiggies!""",2.6
+4266,main-news,headlines,2013,641,none,none,Two Aust soldiers wounded in Afghanistan,4 foreign soldiers killed in Afghan east,1.2
+770,main-captions,MSRvid,2012,400,none,none,A woman covers a piece of meat with flour.,A woman is seasoning a piece of meat.,3.0
+4453,main-news,headlines,2014,135,none,none,Iraq Backs Egypt Crackdown on Morsi Supporters,Iraq backs Egypt crackdown on Mohamed Morsi supporters,4.8
+206,main-captions,MSRvid,2012,300,none,none,Two men are talking.,Two men are playing guitar.,1.5
+1310,main-captions,images,2014,451,none,none,A double decker red United bus on a city street.,A double decker bus drives on a city street.,4.0
+2716,main-news,MSRpar,2012,410,none,none,"The state's population was 6,080,485 in 2000, according to the U.S. census.","Between 1960 and 2000, however, the state's population grew by 30.4 percent to 6,080,485.",2.6
+207,main-captions,MSRvid,2012,303,none,none,A man spreads butter on a big piece of bread.,A man is smearing butter on a slice of garlic bread.,3.5
+4799,main-news,headlines,2014,561,none,none,Bangladesh building collapse death toll hits 359,Indian building collapse death toll rises to 72,0.8
+3773,main-news,headlines,2013,26,none,none,Saudis to permit women to compete in Olympics,Saudi Women Allowed To Compete At Olympics,4.8
+4455,main-news,headlines,2014,137,none,none,Five convicted in Kosovo organ trafficking case,Kosovo: 3 get jail time in organ trafficking case,2.8
+3246,main-news,MSRpar,2012,458,none,none,Russ Britt is the Los Angeles Bureau Chief for CBS.MarketWatch.com.,Emily Church is London bureau chief of CBS.MarketWatch.com.,1.8
+5374,main-news,headlines,2015,1038,none,none,"Canadian freight train blast death toll hits three, to rise",Canadian government 'monitoring' train blast situation,2.2
+3235,main-news,MSRpar,2012,442,none,none,The department ordered an 18.2 percent reduction for Allstate Texas Lloyds and a 12 percent reduction for State Farm Lloyds.,"The department ordered a 12 percent reduction for State Farm Lloyds, the state's largest insurer, and an 18.2 percent reduction for Allstate Texas Lloyds, the third-largest.",3.6
+2918,main-news,MSRpar,2012,698,none,none,Treasurys long-range plan is to provide retail buyers of all Treasury securities the ability to manage their holdings online in a single account.,The Treasury said wants to give retail buyers of all Treasury securities the ability eventually to manage holdings online in a single account.,4.4
+2252,main-forum,deft-forum,2014,252,none,none,And I'm your friend Mitt.,Your good friend Mitt.,4.0
+1507,main-captions,images,2015,32,none,none,A young girl holds up a peace sign.,A little girl holds onto a pole on a city street.,0.6
+3517,main-news,deft-news,2014,67,none,none,a breakdown of order in china will lead to significant global turmoil.,a breakdown of order in china will be worse than in afghanistan or yugoslavia.,3.4
+3647,main-news,deft-news,2014,197,none,none,sheik doon salad ilmi said civilian casualties resulting from overnight mortar and rocket attacks happen every day.,sheik doon salad ilmi stated that civilian casualties resulting from overnight mortar and rocket attacks are admitted to the hospital nearly every day.,3.6
+245,main-captions,MSRvid,2012,366,none,none,A car backs out of a space.,A car is backing out of a blocked lane.,3.0
+5012,main-news,headlines,2015,137,none,none,Iranian president makes debut on world stage,Iran presidential candidate says western sanctions should be broken,0.6
+1042,main-captions,images,2014,61,none,none,The skinny cows are standing on the grass.,The white ducks are standing on the ground.,0.6
+123,main-captions,MSRvid,2012,182,none,none,A man is spinning.,A man is dancing.,1.6
+5512,main-news,headlines,2015,1404,none,none,"Ehud Olmert, former Israeli prime minister, sentenced to six years in jail for corruption",Ehud Olmert sentenced to six years in Israel,3.8
+5587,main-news,headlines,2016,268,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Over 100 dead as typhoon slams central Philippines,At least 100 dead as typhoon batters Philippines,5.0
+1241,main-captions,images,2014,353,none,none,A train is at a train station.,A train parked at a train station.,4.2
+3631,main-news,deft-news,2014,181,none,none,international atomic energy association is the united nations watchdog.,the international atomic energy agency is the u.n.'s nuclear watchdog.,5.0
+3314,main-news,MSRpar,2012,561,none,none,The recent turnaround in the stock market and an easing in unemployment claims should keep consumer expectations at current levels and may signal more favorable economic times ahead.,"""The recent turnaround in the stock market and an easing in unemployment claims """"may signal more favorable economic times ahead,"""" she said.""",3.933
+3478,main-news,deft-news,2014,28,none,none,nato regrets russia's decision to suspend participation in the cfe.,russia's decision to suspend participation in the cfe is a step in the wrong direction.,3.8
+4025,main-news,headlines,2013,343,none,none,Chavez leaves again for Cuba for radiotherapy,Chavez set for more radiotherapy in Cuba,4.4
+1416,main-captions,images,2014,618,none,none,A small desk with chair near a laundry closet.,A room with tan walls and a washer and dryer.,0.2
+1629,main-captions,images,2015,395,none,none,A dog is jumping over a barrier at a agility competition.,A dog jumping over an obstacle course fence.,4.4
+5582,main-news,headlines,2016,241,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),"Egypt's Morsi faces trial for prison break, murder, says prosecution",Egypt's Morsi faces trial for prison break,3.0
+3109,main-news,MSRpar,2012,241,none,none,"A Royal Duty is based on his experiences with Diana, Princess of Wales and letters allegedly to and from her.","The royal household was bracing itself for any more revelations in A Royal Duty, based on the former servant’s time with Diana, Princess of Wales.",2.75
+3390,main-news,MSRpar,2012,667,none,none,"Our strong preference is to achieve a financial restructuring out of court, and we remain hopeful we can do so, chief executive Marce Fuller said.","Our strong preference is to achieve a financial restructuring out of court, Mirant CEO Marce Fuller said in a prepared statement early Friday.",4.0
+3851,main-news,headlines,2013,126,none,none,'Iran will attack Tel Aviv if Israel strikes',Senior cleric: Iran will attack Tel Aviv if Israel strikes,4.4
+633,main-captions,MSRvid,2012,202,none,none,A cat stares into the camera.,A cat addresses the camera.,3.0
+2114,main-forum,deft-forum,2014,114,none,none,Originally Posted by anabelle What's wrong with that?,Originally Posted by Vienna To 'say' what?,0.0
+2165,main-forum,deft-forum,2014,165,none,none,"Out of touch and completely untrustworthy, however, wouldn't.",Out of touch and untrustworthy?,4.25
+5566,main-news,headlines,2016,121,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Russia warns it will respond if interests attacked in Ukraine,Russia warns it will 'respond' if interests in Ukraine attacked,5.0
+946,main-captions,MSRvid,2012,665,none,none,An animal is walking.,A woman is applying eye makeup.,0.0
+2298,main-forum,deft-forum,2014,298,none,none,Landon And So This is Christmas We are all vessels filled with many wonders.,Play With Fire We are all vessels filled with many wonders.,1.8
+197,main-captions,MSRvid,2012,291,none,none,A woman slices tofu.,A woman is cutting tofu.,5.0
+5481,main-news,headlines,2015,1334,none,none,Iran rejects claim on chlorine bombs,Iran rejects MKO claim on nuclear site,2.4
+1345,main-captions,images,2014,505,none,none,A small child smiling at the camera.,A small child sits on a cement wall near white flower.,1.6
+5151,main-news,headlines,2015,497,none,none,Southwest grounds flights due to computer glitch,"Southwest flights delayed, canceled after computer glitch",4.2
+2634,main-news,MSRpar,2012,293,none,none,"Under Kansas law, it is illegal for children under the age of 16 to have sexual relations.","In the opinion, Kline noted that it is illegal for children that young to have sexual relations.",2.75
+282,main-captions,MSRvid,2012,418,none,none,A person is frying meat in a pan.,A person is holding a skunk.,0.75
+4747,main-news,headlines,2014,497,none,none,French train derails south of Paris,French train passengers tell of crash ordeal,1.2
+2036,main-forum,deft-forum,2014,36,none,none,You wanna know what I find curious?,That's what I find curious.,2.8
+5531,main-news,headlines,2015,1452,none,none,Israeli government authorises new settlements ahead of talks,Israel Approves New Settlement Homes Ahead of Peace Talks,4.8
+3345,main-news,MSRpar,2012,605,none,none,The differences between Grassley and Thomas on energy and Medicare have become so pointed that other members say their angry personal relationship is embarrassing the party.,Their differences on energy and Medicare have become so pointed other members say it is embarrassing to the party.,3.5
+1374,main-captions,images,2014,555,none,none,A lone cow sits in the cold of the yard.,a black and white cow standing in the field.,1.8
+2176,main-forum,deft-forum,2014,176,none,none,the problem isn't who has money.,the problem is who doesn't have money.,2.46666666666667
+2553,main-news,MSRpar,2012,170,none,none,"Morrill's wife, Ellie, sobbed and hugged Bondeson's sister-in-law during the service.","At the service Morrill's widow, Ellie, sobbed and hugged Bondeson's sister-in-law as people consoled her.",3.4
+2177,main-forum,deft-forum,2014,177,none,none,But do you actually believe there was an iceberg in those waters?,I don't believe there was any iceberg at all anywhere near the Titanic.,2.8
+2507,main-news,MSRpar,2012,97,none,none,"Daniels said he doesn't know what Bush will have to say about him at tonight's $2,000-per-person presidential fund-raiser.","Daniels said he doesn't know what Bush will say at tonight's $2,000-per-person reception to raise funds for his presidential re-election bid.",4.4
+4540,main-news,headlines,2014,238,none,none,Nato airstrike kills two Afghan kids,Nato solider dies in Afghanistan,1.2
+4395,main-news,headlines,2014,60,none,none,Russia condemns North Korean nuclear test,South Korea confirms that North Korea has conducted controversial third nuclear test,1.2
+2759,main-news,MSRpar,2012,469,none,none,"The company has expanded into providing other services for buyers, including payment services.","The company has expanded those basic services, offering payment and even financing.",4.2
+4440,main-news,headlines,2014,118,none,none,"Gunmen kill 9 foreign tourists, 1 Pakistani",Gunmen Kill 11 Foreign Tourists in Pakistan,2.8
+482,main-captions,MSRvid,2012,728,none,none,The hedgehog chewed on the towel.,A hedgehog is biting at a blanket.,3.4
+535,main-captions,MSRvid,2012,63,none,none,The man is playing the guitar.,A man is playing guitar.,5.0
+1939,main-captions,images,2015,1325,none,none,A woman sits alone against a brick wall,A woman is walking with a red bag.,1.2
+5547,main-news,headlines,2015,1489,none,none,"Palestinian hunger striker, Israel reach deal",Palestinian activist detained in Israeli raid,1.2
+3672,main-news,deft-news,2014,222,none,none,sharia is islamic law.,iran is an islamic republic .,1.2
+2958,main-news,MSRpar,2012,10,none,none,The man accused of using fake grenades to commandeer a Cuban plane that landed in Key West in April was sentenced Friday to 20 years in prison.,A Cuban architect was sentenced to 20 years in prison Friday for using two fake grenades to hijack a passenger plane from Cuba to Florida in April.,4.4
+4480,main-news,headlines,2014,165,none,none,USA expels Venezuela diplomats in row,U.S. expels Venezuelan diplomats,4.4
+106,main-captions,MSRvid,2012,155,none,none,A man is playing on his keyboard.,A man is playing a keyboard piano.,4.0
+2802,main-news,MSRpar,2012,536,none,none,"A nationally board certified teacher with a master's degree, Kelley makes a salary of $65,000 in his 30th year.","A nationally board certified teacher with a master's degree, Kelley, in his 30th year teaching, makes $65,000.",4.75
+3810,main-news,headlines,2013,75,none,none,I'll Have Another retired to stud,I'll Have Another wins Preakness,1.0
+4311,main-news,headlines,2013,703,none,none,"Bombings, clashes continue in Syria","Bombings, clashes as Syria opposition seeks arms",3.4
+5413,main-news,headlines,2015,1147,none,none,Georgians vote for new president,Ally of Georgia's billionaire PM to be president -exit polls,2.6
+4946,main-news,headlines,2014,739,none,none,"Two Earthquakes Hit Northwest China, 11 Dead",Twin quakes kill 89 in China,2.4
+5358,main-news,headlines,2015,997,none,none,Los Angeles airport worker charged with making 9/11 threats,Los Angeles airport worker charged over 9/11 threats,5.0
+5697,main-news,headlines,2016,1152,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Greece bailout uncertainty weighs on global markets,Greece concerns drag on Asia markets,3.0
+1308,main-captions,images,2014,448,none,none,a train rides on his tracks.,"The train comes down the track, between two rows of trees.",3.0
+5593,main-news,headlines,2016,309,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),White diamond breaks record in Hong Kong auction,White diamond fetches record $34m at HK auction,4.0
+1003,main-captions,images,2014,4,none,none,a bus driving in a street.,Red double decker bus driving down street.,4.0
+5470,main-news,headlines,2015,1298,none,none,Turkey president appeals for calm,Texas house provisionally approves abortion law,0.0
+1244,main-captions,images,2014,359,none,none,Two cows standing in a large field.,Horse standing in a field.,1.6
+5524,main-news,headlines,2015,1437,none,none,Sevens World Cup within Kenya‚Äôs reach,Clash of Styles in Court Opens Trial in Young Man‚Äôs Death,0.0
+1190,main-captions,images,2014,279,none,none,Old green bottle sitting on a table.,Three men in suits sitting at a table.,0.4
+1502,main-captions,images,2015,13,none,none,A brown dog digging a hole in front of a plant,A group of people walking on the side of a railroad track.,0.0
+5340,main-news,headlines,2015,958,none,none,Egyptian military spokesman denounces incitement against army,Labor ministry announcement due on Monday,0.0
+4433,main-news,headlines,2014,109,none,none,Mugabe declared winner of disputed elections,Zimbabwe: Mugabe declared winner in disputed vote,4.0
+1865,main-captions,images,2015,1130,none,none,Three children in a ball pit.,Several children playing in a ball pit.,3.4
+345,main-captions,MSRvid,2012,515,none,none,A boy is making some dance steps.,A boy is pouring something from a pitcher.,0.4
+2502,main-news,MSRpar,2012,84,none,none,"Doctors say one or both boys may die, and that some brain damage is possible if they survive.","Doctors said that one or both of the boys may die and that if they survive, some brain damage is possible.",5.0
+2382,main-forum,deft-forum,2014,382,none,none,Just so long as the tax on that sale is paid.,Just so long as the tax is paid.,3.8
+3065,main-news,MSRpar,2012,163,none,none,"Once converted, BayStar will own an aggregate of approximately 2.95 million shares of SCO common stock or 17.5 percent of the company's outstanding shares.","The investment gives Larkspur, Calif.-based BayStar more than 2.9 million shares of SCO common stock, or 17.5 percent of the company's outstanding shares.",4.0
+5494,main-news,headlines,2015,1367,none,none,"Bomb blast rocks shopping mall in Nigeria, 12 killed",Bomb blasts before Indian opposition rally kill 4,1.4
+69,main-captions,MSRvid,2012,105,none,none,A man is playing the guitar and singing.,A man is playing the guitar.,2.917
+4159,main-news,headlines,2013,508,none,none,Thailand: Iranians planned to attack Israelis,Malaysia to extradite Iranian for attack on Israelis,1.0
+5181,main-news,headlines,2015,576,none,none,Typhoon death toll rises to 3633,Egyptian death toll rises to 638,0.6
+1626,main-captions,images,2015,388,none,none,A small dog runs through an obstacle course.,A small dog jumping over an obstacle.,3.8
+85,main-captions,MSRvid,2012,123,none,none,A woman is slicing tomato.,A man is slicing onion.,1.6
