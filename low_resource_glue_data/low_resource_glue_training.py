@@ -91,8 +91,8 @@ def main():
                     os.remove(output_dir+"/pytorch_model.bin")
                     checkpoint_names = glob.glob(output_dir+"/checkpoint*")
                     for check_name in checkpoint_names:
-                        os.remove(output_dir+"/"+check_name+"/optimizer.pt")
-                        os.remove(output_dir+"/"+check_name+"/pytorch_model.bin")
+                        os.remove(check_name+"/optimizer.pt")
+                        os.remove(check_name+"/pytorch_model.bin")
                     
 
 if __name__ == "__main__":
