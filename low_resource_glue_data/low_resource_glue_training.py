@@ -1,4 +1,5 @@
 import os
+import glob
 
 
 def main():
@@ -8,7 +9,7 @@ def main():
 
     tasks = ["RTE"]
     splits = [1]
-    replicates = range(1)
+    replicates = range(2)
 
     for task in tasks:
             for split in splits:
@@ -17,12 +18,14 @@ def main():
                     rep_str = "r"+str(replicate)
 
                     training_name = "" + str(split_str) + "_" + str(rep_str) + "_" + str(task) + ""
+                    output_dir = "checkpoints/glue/finetuning_script/" + str(training_name)
+                    working_dir = "/home/jovyan/joe-cls-vol/class_projects/nlp_11711_project/efficient-tuning-code"
 
                     bash_str = "python -u examples/pytorch/text-classification/run_glue.py "\
-                    + "--model_name_or_path roberta-base "\
-                    + "--train_file /home/jovyan/working/class_projects/nlp_11711_project/efficient-tuning-code/low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/train.csv "\
-                    + "--test_file /home/jovyan/working/class_projects/nlp_11711_project/efficient-tuning-code/low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/test.csv "\
-                    + "--validation_file /home/jovyan/working/class_projects/nlp_11711_project/efficient-tuning-code/low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/dev.csv "\
+                    + "--model_name_or_path bert-base-uncased "\
+                    + "--train_file low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/train.csv "\
+                    + "--test_file low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/test.csv "\
+                    + "--validation_file low_resource_glue_data/" + str(split_str) + "/" + str(rep_str) + "/" + str(task) + "/dev.csv "\
                     + "--do_train "\
                     + "--do_eval "\
                     + "--do_predict "\
@@ -66,25 +69,31 @@ def main():
                     + "--max_seq_length 512 "\
                     + "--fp16 "\
                     + "--logging_steps 50 "\
-                    + "--save_total_limit 2 "\
+                    + "--save_total_limit 1 "\
                     + "--evaluation_strategy epoch "\
                     + "--save_strategy epoch "\
                     + "--save_steps 5000 "\
                     + "--eval_steps 5000 "\
                     + "--load_best_model_at_end "\
                     + "--report_to wandb "\
-                    + "--run_name rte.finetuning_script." + str(training_name) + " "\
+                    + "--run_name glue.finetuning_script." + str(training_name) + " "\
                     + "--overwrite_output_dir "\
                     + "--disable_tqdm true "\
                     + "--metric_for_best_model loss "\
                     + "--greater_is_better true "\
                     + "--ddp_find_unused_parameter false "\
-                    + "--output_dir checkpoints/glue/rte/finetuning_script/" + str(training_name) + " "\
-                    + "2>&1 | tee checkpoints/glue/rte/finetuning_script/" + str(training_name) + "/log.txt"
+                    + "--output_dir " + str(output_dir) + " "\
+                    + "2>&1 | tee " + str(output_dir) + "/log.txt"
 
-                    os.chdir("/home/jovyan/working/class_projects/nlp_11711_project/efficient-tuning-code")
+                    os.chdir(working_dir)
                     os.system(bash_str)
 
+                    os.remove(output_dir+"/pytorch_model.bin")
+                    checkpoint_names = glob.glob(output_dir+"/checkpoint*")
+                    for check_name in checkpoint_names:
+                        os.remove(output_dir+"/"+check_name+"/optimizer.pt")
+                        os.remove(output_dir+"/"+check_name+"/pytorch_model.bin")
+                    
 
 if __name__ == "__main__":
     main()
