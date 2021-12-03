@@ -22,7 +22,7 @@ for split_path in split_paths:
                     to_header = True
                     if "CoLA" in root:
                         read_header = None
-                        to_header = False
+                        to_header = True
                     print("reading "+root+"/"+file)
                     tsv_frame = pd.read_csv(root+"/"+file, sep="\t", error_bad_lines=False, header=read_header, engine="python", quoting=csv.QUOTE_NONE)
 
@@ -44,6 +44,13 @@ for split_path in split_paths:
 
                     tsv_frame.replace(to_replace="2012test", value="2012", inplace=True)
                     tsv_frame.replace(to_replace="2012train", value="2012", inplace=True)
+                    if "CoLA" in root:
+                        tsv_frame.rename(columns={
+                            0: "source",
+                            1: "label",
+                            2: "author",
+                            3: "sentence",
+                        }, inplace=True)
 
                     if file == "dev.tsv":
                         test_df = tsv_frame.sample(frac=0.5)
