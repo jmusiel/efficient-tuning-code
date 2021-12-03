@@ -2,12 +2,14 @@ import os
 import pandas as pd
 import csv
 
+base_split_path = "/home/jovyan/joe-cls-vol/class_projects/nlp_11711_project/revisit-bert-finetuning/low_resource/low_resource_glue_data/"
+
 split_paths = [
-    "/home/jovyan/working/class_projects/nlp_11711_project/revisit-bert-finetuning/low_resource/low_resource_glue_data/split1",
-    "/home/jovyan/working/class_projects/nlp_11711_project/revisit-bert-finetuning/low_resource/low_resource_glue_data/split5",
-    "/home/jovyan/working/class_projects/nlp_11711_project/revisit-bert-finetuning/low_resource/low_resource_glue_data/split10",
-    "/home/jovyan/working/class_projects/nlp_11711_project/revisit-bert-finetuning/low_resource/low_resource_glue_data/split100",
-    "/home/jovyan/working/class_projects/nlp_11711_project/revisit-bert-finetuning/low_resource/low_resource_glue_data/split1000",
+    base_split_path+"split1",
+    base_split_path+"split5",
+    base_split_path+"split10",
+    base_split_path+"split100",
+    base_split_path+"split1000",
 ]
 
 for split_path in split_paths:
@@ -39,6 +41,9 @@ for split_path in split_paths:
                     if not os.path.isdir(to_dir):
                         os.mkdir(to_dir)
                     print("loaded " + to_dir + file + " creating " + to_dir+file.split(".")[0]+".csv")
+
+                    tsv_frame.replace(to_replace="2012test", value="2012", inplace=True)
+                    tsv_frame.replace(to_replace="2012train", value="2012", inplace=True)
 
                     if file == "dev.tsv":
                         test_df = tsv_frame.sample(frac=0.5)
