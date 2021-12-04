@@ -7,12 +7,10 @@ def main():
     tasks = ["RTE","MRPC","STS-B","CoLA"]
     splits = [1, 5, 10, 100, 1000]
     replicates = range(5)
+    ffn_options = ["ffn_hi_input", "ffn_ho_input"]
 
-    tasks = ["RTE"]
-    splits = [1]
-    replicates = range(2)
-
-    for task in tasks:
+    for ffn_input in ffn_options:
+        for task in tasks:
             for split in splits:
                 split_str = "split"+str(split)
                 for replicate in replicates:
@@ -45,7 +43,7 @@ def main():
                     + "--attn_option concat "\
                     + "--attn_gate none "\
                     + "--ffn_mode adapter "\
-                    + "--ffn_option ffn_hi_input "\
+                    + "--ffn_option " + ffn_input + " "\
                     + "--ffn_gate none "\
                     + "--adapter_layernorm_option fixed_scalar "\
                     + "--adapter_init_option lora "\
@@ -127,6 +125,7 @@ def main():
                                 "task": task,
                                 "split": split,
                                 "replicate": replicate,
+                                "ffn": ffn_input,
                             }]
                         )
 
