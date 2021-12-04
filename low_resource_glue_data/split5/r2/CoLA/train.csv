@@ -1,6 +1,6 @@
-source,label,author,sentence
-l-93,1,,The window broke.
-g_81,1,,A woman hit a pregnant girl.
-bc01,1,,No candidate can predict how many people will vote for him.
-m_02,1,,Martha chewed the bread.
-rhl07,1,,The door has a fresh coat of paint.
+source,label,sentence
+l-93,1,The window broke.
+g_81,1,A woman hit a pregnant girl.
+bc01,1,No candidate can predict how many people will vote for him.
+m_02,1,Martha chewed the bread.
+rhl07,1,The door has a fresh coat of paint.

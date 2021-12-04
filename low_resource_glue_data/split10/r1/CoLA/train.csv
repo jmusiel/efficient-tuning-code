@@ -1,11 +1,11 @@
-source,label,author,sentence
-ad03,0,*,Anson demonized old
-bc01,1,,The cup smashed apart against the stone.
-bc01,1,,John does not like Mary.
-l-93,1,,Anne met Cathy.
-ad03,1,,Agamemnon forced Aphrodite to leave the school.
-r-67,0,*,Myron is making Suzie's claim that dead is better than red.
-ad03,1,,He might could go
-sks13,1,,She is proud.
-l-93,1,,Lora buttered the toast.
-bc01,1,,They represented Mary seriously as a genuine linguist.
+source,label,sentence
+ad03,0,Anson demonized old
+bc01,1,The cup smashed apart against the stone.
+bc01,1,John does not like Mary.
+l-93,1,Anne met Cathy.
+ad03,1,Agamemnon forced Aphrodite to leave the school.
+r-67,0,Myron is making Suzie's claim that dead is better than red.
+ad03,1,He might could go
+sks13,1,She is proud.
+l-93,1,Lora buttered the toast.
+bc01,1,They represented Mary seriously as a genuine linguist.
