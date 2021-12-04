@@ -16,7 +16,7 @@ def main():
                 for replicate in replicates:
                     rep_str = "r"+str(replicate)
 
-                    training_name = "" + str(split_str) + "_" + str(rep_str) + "_" + str(task) + ""
+                    training_name = "" + str(split_str) + "_" + str(rep_str) + "_" + str(ffn_input) + "_" + str(task) + ""
                     output_dir = "checkpoints/glue/finetuning_script/" + str(training_name)
                     working_dir = "/home/jovyan/joe-cls-vol/class_projects/nlp_11711_project/efficient-tuning-code"
 
@@ -61,8 +61,8 @@ def main():
                     + "--num_bias_layers 12 "\
                     + "--max_eval_samples 1600 "\
                     + "--gradient_accumulation_steps 1 "\
-                    + "--max_steps -1 "\
-                    + "--num_train_epochs 10 "\
+                    + "--max_steps -10 "\
+                    + "--num_train_epochs 1 "\
                     + "--learning_rate 1e-4 "\
                     + "--lr_scheduler_type polynomial "\
                     + "--max_grad_norm 1 "\
