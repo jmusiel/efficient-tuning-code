@@ -62,7 +62,7 @@ def main():
                     + "--max_eval_samples 1600 "\
                     + "--gradient_accumulation_steps 1 "\
                     + "--max_steps -10 "\
-                    + "--num_train_epochs 1 "\
+                    + "--num_train_epochs 10 "\
                     + "--learning_rate 1e-4 "\
                     + "--lr_scheduler_type polynomial "\
                     + "--max_grad_norm 1 "\
