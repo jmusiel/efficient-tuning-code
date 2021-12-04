@@ -51,6 +51,7 @@ for split_path in split_paths:
                             2: "author",
                             3: "sentence",
                         }, inplace=True)
+                        tsv_frame.drop(labels="author", axis="columns", inplace=True)
 
                     if file == "dev.tsv":
                         test_df = tsv_frame.sample(frac=0.5)
