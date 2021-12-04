@@ -100,48 +100,48 @@ def main():
                     else:
                         results_df = pd.DataFrame([])
 
-                    predict_df = pd.read_csv(output_dir+"/predict_results_None.txt", sep="\t")
-                    if task == "CoLA":
-                        test_df = pd.read_csv(test_data_dir, sep=",", header=None)
-                    else:
+                    if os.path.exists(output_dir+"/predict_results_None.txt") and os.path.exists(output_dir+"/all_results.json"):
+                        predict_df = pd.read_csv(output_dir+"/predict_results_None.txt", sep="\t")
                         test_df = pd.read_csv(test_data_dir, sep=",")
 
-                    # load json of eval results
-                    with open(output_dir+"/all_results.json", "r") as f:
-                        eval_results_dict = json.load(f)
+                        # load json of eval results
+                        with open(output_dir+"/all_results.json", "r") as f:
+                            eval_results_dict = json.load(f)
 
-                    # compare test results to test set
-                    if task == "CoLA":
-                        label = "1" # 2nd column
-                    elif task == "MRPC":
-                        label = "Quality"
-                    elif task == "RTE":
-                        label = "label"
-                    elif task == "STS-B":
-                        label = "score"
-                    num_diff = test_df[label].compare(predict_df["prediction"]).shape[0]
-                    test_acc = 1 - (num_diff/predict_df.shape[0])
+                        # compare test results to test set
+                        if task == "CoLA":
+                            label = "label" # 2nd column
+                        elif task == "MRPC":
+                            label = "Quality"
+                        elif task == "RTE":
+                            label = "label"
+                        elif task == "STS-B":
+                            label = "score"
+                        num_diff = test_df[label].compare(predict_df["prediction"]).shape[0]
+                        test_acc = 1 - (num_diff/predict_df.shape[0])
 
-                    # create results dataframe entry
-                    df = pd.DataFrame(
-                        [{
-                            "test_acc": test_acc,
-                            "task": task,
-                            "split": split,
-                            "replicate": replicate,
-                        }]
-                    )
+                        # create results dataframe entry
+                        df = pd.DataFrame(
+                            [{
+                                "test_acc": test_acc,
+                                "task": task,
+                                "split": split,
+                                "replicate": replicate,
+                            }]
+                        )
 
-                    # combine results into one dataframe
-                    results_df = results_df.append(df, ignore_index=True)
+                        # combine results into one dataframe
+                        results_df = results_df.append(df, ignore_index=True)
 
                     results_df.to_csv("low_resource_glue_data/efficient_finetuning_results.csv")
 
-                    os.remove(output_dir+"/pytorch_model.bin")
-                    checkpoint_names = glob.glob(output_dir+"/checkpoint*")
-                    for check_name in checkpoint_names:
-                        os.remove(check_name+"/optimizer.pt")
-                        os.remove(check_name+"/pytorch_model.bin")
+                    if os.path.exists(output_dir+"/pytorch_model.bin"):
+                        os.remove(output_dir+"/pytorch_model.bin")
+                        checkpoint_names = glob.glob(output_dir+"/checkpoint*")
+                        for check_name in checkpoint_names:
+                            if os.path.exists(check_name+"/optimizer.pt") and os.path.exists(check_name+"/pytorch_model.bin"):
+                                os.remove(check_name+"/optimizer.pt")
+                                os.remove(check_name+"/pytorch_model.bin")
 
     i = 0
     rename_path = "low_resource_glue_data/efficient_finetuning_results" + str(i) + ".csv"
