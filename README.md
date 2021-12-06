@@ -1,4 +1,8 @@
 # NLP 11711 Final Project Repo
+Code repo for the final group project for NLP 11711 Fall 2021
+
+All credit for this implementation goes to the principal authors of the original version of this codebase: Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig
+
 This code is really a fork of the code used for [TOWARDS A UNIFIED VIEW OF PARAMETER-EFFICIENT TRANSFER LEARNING](https://arxiv.org/pdf/2110.04366.pdf). 
 
 Code from the Project 3 [repo](https://github.com/jmusiel/revisit-bert-finetuning) was also used.
