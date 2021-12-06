@@ -1,6 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import sklearn.metrics
+import scipy
 
 def get_test_metrics():
     test_metrics = {
@@ -28,9 +30,45 @@ def main():
                 "std": [],
             }
             for split in splits:
-                split_results = results_df[(results_df["task"] == task) & (results_df["ffn"] == ffn_input) & (results_df["split"] == split)]["test_acc"]
-                mean_split = np.mean(split_results.to_numpy())
-                std_split = np.std(split_results.to_numpy())
+                if task == "RTE":
+                    split_results = results_df[(results_df["task"] == task) & (results_df["ffn"] == ffn_input) & (results_df["split"] == split)]["test_acc"]
+                    mean_split = np.mean(split_results.to_numpy())
+                    std_split = np.std(split_results.to_numpy())
+                else:
+                    actual_list = []
+                    predicted_list = []
+                    for replicate in replicates:
+                        results_path = "/home/jovyan/joe-cls-vol/class_projects/nlp_11711_project/efficient-tuning-code/checkpoints/glue/finetuning_script/" +\
+                            "split" + str(split) +\
+                            "_r" + str(replicate) +\
+                            "_" + str(ffn_input) +\
+                            "_" + str(task) +\
+                            "/predict_results_None.txt"
+                        rep_df = pd.read_csv(results_path, sep="\t")
+                        predicted_list.append(rep_df["prediction"].to_numpy())
+                        test_data_path = "/home/jovyan/joe-cls-vol/class_projects/nlp_11711_project/efficient-tuning-code/low_resource_glue_data" +\
+                            "/split" + str(split) +\
+                            "/r" + str(replicate) +\
+                            "/" + str(task) +\
+                            "/test.csv"
+                        test_data_df = pd.read_csv(test_data_path)
+                        if task == "MRPC":
+                            actual_list.append(test_data_df["Quality"].to_numpy())
+                        elif task == "STS-B":
+                            actual_list.append(test_data_df["score"].to_numpy())
+                        elif task == "CoLA":
+                            actual_list.append(test_data_df["label"].to_numpy())
+                    score_list = []
+                    for actual, pred in zip(actual_list, predicted_list):
+                        if task == "MRPC":
+                            score_list.append(sklearn.metrics.f1_score(actual, pred))
+                        elif task == "STS-B":
+                            score_list.append(scipy.stats.spearmanr(actual, pred)[0])
+                        elif task == "CoLA":
+                            score_list.append(sklearn.metrics.matthews_corrcoef(actual, pred))
+                    mean_split = np.mean(score_list)
+                    std_split = np.std(score_list)
+
                 plot_values[ffn_input][task]["split"].append(split)
                 plot_values[ffn_input][task]["mean"].append(mean_split)
                 plot_values[ffn_input][task]["std"].append(std_split)
@@ -72,7 +110,7 @@ def main():
             ax.fill_between(x, y - std, y + std, color=fillcolor, alpha=0.5)
         fig.tight_layout()
         fig.suptitle(ffn_input, fontsize=20)
-        plt.savefig("figure_" + str(ffn_input) + "_lowresource_flat.png")
+        plt.savefig("scored_figure_" + str(ffn_input) + "_lowresource_flat.png")
 
 
 if __name__ == "__main__":
