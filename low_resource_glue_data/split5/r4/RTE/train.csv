@@ -1,0 +1,6 @@
+index,sentence1,sentence2,label
+1317,"Alan Mulally, Boeing's head of the unit, said at the start of the strike that it may cause delivery delays that would give Airbus SAS an advantage in what is the strongest commercial aircraft market in five years.",Boeing is a subsidiary of Airbus SAS.,not_entailment
+1272,"On this particular trip, Airbus, in cooperation with its partners, organized a trip for 80 children between the ages of 9 and 16 years from nearby National Children's Homes to visit EuroDisney for a day.",EuroDisney is located nearby National Children's Homes.,not_entailment
+439,Scientists at the Genome Institute of Singapore (GIS) have discovered the complete genetic sequence of a coronavirus isolated from a Singapore patient with SARS.,Singapore scientists reveal that SARS virus has undergone genetic changes.,not_entailment
+22,"Rabies virus infects the central nervous system, causing encephalopathy and ultimately death. Early symptoms of rabies in humans are nonspecific, consisting of fever, headache, and general malaise.",Rabies is fatal in humans.,entailment
+2045,The participation of women in parliament in Mauritius is expected to increase as more female candidates have contested Monday's election.,Women are poorly represented in parliament.,not_entailment

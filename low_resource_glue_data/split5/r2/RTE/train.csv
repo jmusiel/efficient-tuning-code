@@ -1,0 +1,6 @@
+index,sentence1,sentence2,label
+866,Mr Ferdinand Piech said that the German company did not have any confidential plans or documents about GM's ultra-low-cost factory project.,Documents included secret plans for a new factory.,not_entailment
+1031,"Witching hour passed and Potter fans poured into bookshops around the world on Saturday, snatching up copies of the latest instalment in the series that promises to be the fastest-selling book in history.",Potter fans rushed to tills in order to purchase the book.,entailment
+2487,"NASA's Saturn exploration spacecraft, Cassini , has discovered an atmosphere about the moon Enceladus . This is the first such discovery by Cassini, other than Titan , of the presence of an atmosphere around a Saturn moon.",Titan is the fifteenth of Saturn's known satellites.,not_entailment
+875,"A wooden steamer of 293 ft sank on 10/13/1902, 13.5 miles North by Northwest of Fairport Harbor, Ohio. The lives of ten of the 19 persons on board were lost in the wreck.",100 or more people lost their lives in a ferry sinking.,not_entailment
+164,Israel plans to increase the share of gas in its energy balance to 25 percent by 2025 from the current 1 percent.,Currently the share of natural gas in Israel's energy system amounts to no more than one percent.,entailment

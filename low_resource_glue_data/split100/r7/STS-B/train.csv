@@ -1,0 +1,101 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+5096,main-news,headlines,2015,361,none,none,Thousands evacuated in Moscow metro fire,Thousands evacuated after fire breaks out in Moscow Metro,4.8
+5267,main-news,headlines,2015,780,none,none,Cyclone leaves trail of destruction in India,Cyclone Phailin evacuation kept Indian villagers alive,2.4
+5473,main-news,headlines,2015,1302,none,none,"Doha gas blast kills 12, injures dozens","Syria missile kills 26, including 8 kids",0.6
+5670,main-news,headlines,2016,964,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Hawaii preps for first hurricane in 22 years,Hawaii bracing as first hurricane in 22 years approaches,5.0
+1704,main-captions,images,2015,610,none,none,A baby in a red hat sitting in a stroller is holding a doll.,A man in a gray shirt sitting in a field of flowers.,0.0
+4548,main-news,headlines,2014,249,none,none,"One dead, 11 hurt in LA car chaos","6 dead, 33 hurt in Cotabato blast",1.2
+1057,main-captions,images,2014,80,none,none,A woman holding a small baby.,A smiling woman holding a small baby.,4.0
+4099,main-news,headlines,2013,433,none,none,4 French Soldiers Reported Killed in Afghanistan,British Soldier Killed In Afghanistan,1.0
+3655,main-news,deft-news,2014,205,none,none,the abductee support group hopes parliament will change the laws soon.,the abductee support group will use the survey to press parliament to pass new laws.,3.0
+4037,main-news,headlines,2013,357,none,none,China stocks end higher on PMI at midday,Chinese stocks open higher Thursday,1.8
+5488,main-news,headlines,2015,1344,none,none,Syrian civil war in photos,Syrian civil war peace talks at risk from Iran invitation,1.2
+767,main-captions,MSRvid,2012,394,none,none,A woman is playing the flute.,A woman is slicing some tuna.,0.4
+1345,main-captions,images,2014,505,none,none,A small child smiling at the camera.,A small child sits on a cement wall near white flower.,1.6
+318,main-captions,MSRvid,2012,479,none,none,A woman is chopping an onion.,A woman is slicing partially into half of an onion.,3.2
+3856,main-news,headlines,2013,133,none,none,Explosion at Venezuela Refinery Kills at Least 39,Venezuela mourns oil refinery blast deaths,2.8
+4693,main-news,headlines,2014,425,none,none,Syria welcomes Iran's nuclear deal,"Iran, six world powers clinch breakthrough nuclear deal",3.0
+2861,main-news,MSRpar,2012,626,none,none,"In an interview, Healey, who is a criminologist, acknowledged that much of the sentiment among legislators here and across the country was wariness toward capital punishment.","In an interview, Ms. Healey, who is a criminologist, said many lawmakers here and across the country shared a wariness toward capital punishment.",4.6
+2118,main-forum,deft-forum,2014,118,none,none,"If it wasn't a life, then it would not be able to be born.","If it wasn't alive, then it would miscarriage on it's own.",3.0
+805,main-captions,MSRvid,2012,458,none,none,A cook seasons some dough.,A man is seasoning some dough in a pan.,3.75
+472,main-captions,MSRvid,2012,711,none,none,A person is frying a meat in the pan.,A man is cutting a vegetable.,0.6
+5508,main-news,headlines,2015,1394,none,none,AstraZeneca pays $4.1bn to buy Bristol-Myers Squibb out of diabetes alliance,AstraZeneca to buy Bristol out of diabetes venture for up to $4.1 billion,5.0
+2832,main-news,MSRpar,2012,577,none,none,"""Government bonds sold off sharply after Greenspan told Congress on Tuesday that the U.S. economy """"could very well be embarking on a period of extended growth"""".""","""Greenspan told Congress on Tuesday the U.S. economy """"could very well be embarking on a period of sustained growth"""".""",3.2
+3015,main-news,MSRpar,2012,89,none,none,"Spin and manipulative public relations and propaganda are not the answer, it said.","""The report added that """"spin"""" and manipulative public relations """"are not the answer,"""" but that neither is avoiding the debate.""",3.6
+3464,main-news,deft-news,2014,14,none,none,regional and international non-proliferation issues should be addressed through dialogue and negotiations.,the second proposal was that regional and international non-proliferation issues should be addressed through dialogue and negotiations.,3.6
+1554,main-captions,images,2015,196,none,none,A little girl walks on a boardwalk with blue domes in the background.,A man going over a jump on his bike with a river in the background,0.0
+3308,main-news,MSRpar,2012,554,none,none,The jury also found Gonzales guilty of using excessive force by dousing Olvera-Carrera with pepper spray.,Gonzales was found guilty of using excessive force by spraying Olvera with pepper spray.,4.25
+1978,main-captions,images,2015,1434,none,none,Two kids are walking on a path in the woods.,Two children walking down a path in the woods.,5.0
+4640,main-news,headlines,2014,360,none,none,"Obama coming 'to listen' to Israel, Palestinians",Kerry Welcomes Arab Plan for Israeli-Palestinian Talks,0.8
+2477,main-news,MSRpar,2012,49,none,none,"For me, the Lewinsky imbroglio seemed like just another vicious scandal manufactured by political opponents, according to extracts released yesterday.","For me, the Lewinsky imbroglio seemed like just another vicious scandal manufactured by political opponents, Mrs Clinton writes.",3.2
+1089,main-captions,images,2014,125,none,none,An orange tabby cat sleeping on the sofa.,Man wearing a bib sitting on a green couch.,0.0
+476,main-captions,MSRvid,2012,718,none,none,A rider is running and jumping her horse.,A woman jumps hurdles on a horse.,4.0
+3977,main-news,headlines,2013,281,none,none,Egypt lets Mubarak PM back in presidential race,Egypt confirms Mubarak's PM back in presidency race,4.25
+552,main-captions,MSRvid,2012,88,none,none,A woman is slicing an onion.,Someone is slicing a onion.,3.25
+25,main-captions,MSRvid,2012,38,none,none,The boy fell off his bike.,A boy falls off his bike.,4.8
+335,main-captions,MSRvid,2012,500,none,none,A man is breaking water jugs.,A woman is peeling garlic.,0.2
+2499,main-news,MSRpar,2012,80,none,none,"Scribner's body was found floating in the city's Portage Bay, where he lived with his wife in a houseboat.","A kayaker found Dr. Scribner's body floating near the doctor's houseboat in Portage Bay, where he was eating lunch when his wife, Ethel, left for an appointment.",3.2
+868,main-captions,MSRvid,2012,547,none,none,A dog is barking.,A jet is flying.,0.231
+889,main-captions,MSRvid,2012,581,none,none,Several ferrets climb out of their cage.,Ferrets climb down from a shelf.,2.2
+820,main-captions,MSRvid,2012,481,none,none,A young boy sings and plays a guitar.,A kid plays the guitar.,3.25
+821,main-captions,MSRvid,2012,482,none,none,The woman is peeling lemon.,The man is balancing on the wire.,0.4
+3106,main-news,MSRpar,2012,238,none,none,"The film is the second of a trilogy, which will wrap up in November with The Matrix Revolutions.","""Reloaded is the second installment of a trilogy; """"The Matrix Revolutions"""" is slated for debut in November.""",3.833
+1371,main-captions,images,2014,547,none,none,A gray cat with green eyes looks at the camera.,A grey cat with green eyes looking into the camera.,5.0
+2150,main-forum,deft-forum,2014,150,none,none,It doesn't have to be braindead.,I don't have a proposed model.,0.0
+1045,main-captions,images,2014,64,none,none,Brown cow with horns standing in a field.,Brown horse standing in middle of grassy field.,1.8
+1235,main-captions,images,2014,346,none,none,A smiling woman holding a small baby.,a woman sitting on a sofa holding a baby.,3.4
+1620,main-captions,images,2015,378,none,none,A black and white dog is swimming in a large green lake.,A black dog runs fast into shallow water.,2.2
+4535,main-news,headlines,2014,232,none,none,Preston and England legend Tom Finney dies at 91,Former England great Tom Finney dies at 91,4.4
+1143,main-captions,images,2014,208,none,none,A plane flying at a distance.,A woman with a white horse.,0.0
+43,main-captions,MSRvid,2012,64,none,none,A person is slicing a tomato.,A person is slicing some meat.,1.75
+142,main-captions,MSRvid,2012,207,none,none,A dog licks up a baby's drool.,A dog licks a baby.,2.2
+1671,main-captions,images,2015,516,none,none,A boy goes down an inflatable slide.,A boy in red slides down an inflatable ride.,3.8
+3558,main-news,deft-news,2014,108,none,none,the russian foreign ministry stated that russia has not suspended dialogue.,russian officials stated that russia will not reconsider the suspension.,2.6
+4633,main-news,headlines,2014,353,none,none,Dozens killed in air strike on bakery in central Syria,'Dozens killed' in Syrian air strike on bakery,5.0
+2728,main-news,MSRpar,2012,427,none,none,She said Jane Doe's lawyers asked Verizon to withhold her name because she was planning on challenging the subpoena.,"Jane Doe, deciding to fight the subpoena, asked Verizon to withhold her name.",3.6
+5054,main-news,headlines,2015,257,none,none,India and China troops retreat to de facto border in face-off deal,India says China agrees retreat to de facto border in faceoff deal,4.2
+1951,main-captions,images,2015,1356,none,none,A black and white dog is running on the beach.,The black and brown dog is running through the snow.,1.8
+4434,main-news,headlines,2014,110,none,none,Death toll climbs to 15 in Indonesia boat sinking,Indonesia: Death toll rises to 11 in Indonesia boat capsize,3.6
+2553,main-news,MSRpar,2012,170,none,none,"Morrill's wife, Ellie, sobbed and hugged Bondeson's sister-in-law during the service.","At the service Morrill's widow, Ellie, sobbed and hugged Bondeson's sister-in-law as people consoled her.",3.4
+4131,main-news,headlines,2013,474,none,none,"Gore Vidal dead at 86: Legendary author, playwright, and politician dies","Gore Vidal, celebrated author, playwright, dies at 86",4.0
+2650,main-news,MSRpar,2012,318,none,none,"Tuition at four-year private colleges averaged $19,710 this year, up 6 percent from 2002.","For the current academic year, tuition at public colleges averaged $4,694, up almost $600 from the year before.",1.5
+5047,main-news,headlines,2015,227,none,none,Seven Filipinos slain in Yemen attack,Syrian soldiers killed in bomb attack,0.8
+5701,main-news,headlines,2016,1174,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Egypt: IPI Urges Release of Al Jazeera Journalist Arrested in Berlin,Egypt sentences Al Jazeera journalists to jail,1.0
+3507,main-news,deft-news,2014,57,none,none,john duncan is great britain's ambassador for multilateral arms control and disarmament.,at un assembly chinese government urges increased efforts toward global arms control and disarmament.,1.4
+2430,main-forum,deft-forum,2014,430,none,none,This is not your country.,This is our country.,1.4
+1066,main-captions,images,2014,91,none,none,Five birds stand on the snow.,Several cardinals stand in the snow.,3.8
+3066,main-news,MSRpar,2012,165,none,none,OPEC producers at a meeting on Wednesday are set to pressure independent oil exporters to contribute to the cartel's next supply cut to allow for the return of Iraqi oil.,OPEC this week is set to pressure independent exporters to back the cartel's next supply cut to prevent the resumption of Iraqi exports undercutting oil prices.,2.8
+4518,main-news,headlines,2014,208,none,none,North Korea's third test brings it closer to nuclear power status,NATO says North Korea nuclear test is grave threat to world peace,2.2
+5140,main-news,headlines,2015,478,none,none,Prince George is christened at St James's Palace,Prince George christened in London,3.8
+4295,main-news,headlines,2013,679,none,none,"U.S. orders non-essential staff to leave Sudan, Tunisia","US orders non-essential staff to leave Tunisia, Sudan",4.0
+3989,main-news,headlines,2013,297,none,none,"Romney, Obama fight for edge on Medicare","Obama, Romney compete for undecideds, stoke base",1.0
+4297,main-news,headlines,2013,683,none,none,Assad says mercenaries are behind Syria unrest,Assad Accuses US of Fueling Syrian Uprising,3.33333333333333
+5216,main-news,headlines,2015,661,none,none,Cricket-England v Australia fourth test scoreboard,"Cricket-England 155-4 v Australia, fourth test - tea",4.0
+3128,main-news,MSRpar,2012,266,none,none,"In an E-mail statement to the Knoxville News Sentinel, Shumaker said, ''I am not giving any consideration to resignation.","""I am not giving any consideration to resignation,"""" Shumaker said in a statement.""",4.0
+4105,main-news,headlines,2013,439,none,none,Man finds car on eBay 42 years after it was stolen,Texas man finds his car 42 years after it was stolen,3.6
+936,main-captions,MSRvid,2012,650,none,none,A man is dicing an onion.,The man is playing the guitar.,0.4
+1743,main-captions,images,2015,741,none,none,A boy plays baseball.,A man is playing baseball.,3.0
+745,main-captions,MSRvid,2012,358,none,none,A dog is speaking to the camera.,A dog is eating some water melon.,0.6
+490,main-captions,MSRvid,2012,746,none,none,A man is running on a street.,A man plays the guitar.,0.8
+5298,main-news,headlines,2015,855,none,none,NATO: 5 Americans killed in southern Afghanistan,Roadside bomb kills 3 policemen in southern Afghanistan,1.6
+500,main-captions,MSRvid,2012,17,none,none,A boy is playing a guitar.,A kid is playing a guitar.,3.6
+5250,main-news,headlines,2015,743,none,none,Tropical Storm Karen targets US Gulf Coast,Tropical Storm Karen weakens as it nears U.S. Gulf Coast,2.6
+303,main-captions,MSRvid,2012,450,none,none,A man is drawing a picture.,A person is drawing.,3.6
+964,main-captions,MSRvid,2012,694,none,none,A child is walking down the street as a jeep pulls up.,A woman is walking along a road and a man in a motorcar pulls up beside her.,1.4
+2202,main-forum,deft-forum,2014,202,none,none,Not as irritated as you.,You seem as irritated as Henry.,1.75
+1574,main-captions,images,2015,235,none,none,A man sits with fishing poles near a body of water.,A man sits on a rock next to a folding deck chair and a fishing pole.,3.4
+4625,main-news,headlines,2014,342,none,none,"Suicide Bombs Hit Egypt Military in Sinai, Kill 6","Suicide bombs hit Egypt military in Sinai, kill 4",2.8
+5661,main-news,headlines,2016,887,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),China treasury bond futures open higher Tuesday,China treasury bond futures close mixed Wednesday,1.0
+5599,main-news,headlines,2016,377,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Police helicopter crashes into Scottish pub,Police helicopter crashes on top of bar in Glasgow,4.0
+3288,main-news,MSRpar,2012,518,none,none,"Im very proud of the citizens of this state, said Gov. John Baldacci, a casino foe.","I´m very proud of the citizens of this state, Gov. John Baldacci said after votes from Tuesday´s referendum were counted.",3.8
+663,main-captions,MSRvid,2012,246,none,none,A man is eating a banana.,Someone is peeling a banana.,1.8
+4061,main-news,headlines,2013,386,none,none,Red Cross worker killed in Pakistan,Kidnapped UK aid worker killed in Pakistan,2.2
+4176,main-news,headlines,2013,531,none,none,France warns Syria over chemical weapons use,U.N. concerned at possible Syria chemical weapons,2.2
+2768,main-news,MSRpar,2012,479,none,none,Mailblocks was founded five years after WebTV was acquired by Microsoft for $425 million.,WebTV was sold to Microsoft in 1997 for $425 million and today is called MSN TV.,2.8
+1533,main-captions,images,2015,135,none,none,Smiling man with reflective classes.,A gentleman smiling and showing his reflective sunglasses.,4.6
+3006,main-news,MSRpar,2012,75,none,none,The bill says that a woman who undergoes such an abortion couldn't be prosecuted.,A woman who underwent such an abortion could not be prosecuted under the bill.,5.0
+2452,main-news,MSRpar,2012,5,none,none,"Myanmar's pro-democracy leader Aung San Suu Kyi will return home late Friday but will remain in detention after recovering from surgery at a Yangon hospital, her personal physician said.","Myanmar's pro-democracy leader Aung San Suu Kyi will be kept under house arrest following her release from a hospital where she underwent surgery, her personal physician said Friday.",4.6
+973,main-captions,MSRvid,2012,705,none,none,The man is using a sledghammer to break the concrete block that is on the other man.,A man breaks a slab of concrete that is lying on a prone man with a sledge hammer.,5.0
+4855,main-news,headlines,2014,628,none,none,"White House, defense contractors discuss harm of automatic spending cuts","White House, defense firms discuss automatic spending cuts",4.4
+633,main-captions,MSRvid,2012,202,none,none,A cat stares into the camera.,A cat addresses the camera.,3.0
+3400,main-news,MSRpar,2012,682,none,none,Richard Grasso quit as chairman last week after losing the support of his board amid public furor over his $140 million pay package.,Grasso quit last week in the wake of a firestorm of criticism over his $140 million compensation package.,3.8

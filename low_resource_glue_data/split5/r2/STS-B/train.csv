@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+387,main-captions,MSRvid,2012,587,none,none,A man is running on a field.,A man climbs up a rope.,1.0
+2265,main-forum,deft-forum,2014,265,none,none,Is that how it works?,"Nah, that's not how it works.",1.6
+2449,main-forum,deft-forum,2014,449,none,none,my final word: ignoring has the effect of normalizing.,taking advantage has the effect of reinforcing.,0.4
+3701,main-news,deft-news,2014,251,none,none,the opposition japanese communist party was against the new law and feared it would lead to a stronger military.,the opposition japanese communist party was against the bill proposing the new law.,3.2
+4012,main-news,headlines,2013,327,none,none,43 killed in bus crash,15 killed in crash in India,1.6

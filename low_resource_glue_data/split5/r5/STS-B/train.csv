@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+5207,main-news,headlines,2015,640,none,none,A look at major terror attacks in East Africa,UN Security Council slams deadly terrorist attack in Kenyan capital,1.6
+4406,main-news,headlines,2014,75,none,none,6.9 magnitude earthquake hits New Zealand,5.6 magnitude earthquake shakes Iran,0.2
+4569,main-news,headlines,2014,276,none,none,South Africans mark ailing Mandela's 95th birthday,South Africa's former PM Nelson Mandela back in hospital,1.4
+2630,main-news,MSRpar,2012,286,none,none,Both rebels and government forces have been accused of pillaging villages in Liberia's countryside despite the peace agreement.,"Both rebels and government forces, including those loyald to Taylor, have been accused of pillaging villages in Liberia's countryside despite a peace deal.",4.0
+2260,main-forum,deft-forum,2014,260,none,none,This eclipses the old record of  set in .,This breaks the daily record of  set in .,4.8

@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+215,main-captions,MSRvid,2012,317,none,none,Someone is playing a piano.,A man is playing a guitar.,1.2
+5589,main-news,headlines,2016,272,Europe Media Monitor (http://emm.newsbrief.eu),Europe Media Monitor (http://emm.newsbrief.eu),Israel agrees to 12 hour ceasefire,Israel agrees to 24-hour Gaza truce,3.0
+3180,main-news,MSRpar,2012,357,none,none,He said the attackers left behind leaflets urging staff at the Ishtar Sheraton to stop working at the hotel and demanding U.S. forces leave Iraq.,He said the attackers left behind leaflets urging workers at the Ishtar Sheraton to stop working at the hotel.,3.0
+5194,main-news,headlines,2015,609,none,none,Bangladesh Islamists rally against atheist bloggers,Bangladeshi Islamists rally to demand action against atheist bloggers,4.6
+1815,main-captions,images,2015,960,none,none,A black dog with a blue collar is running in the snow.,A black dog with a red collar plays in the snow.,3.2

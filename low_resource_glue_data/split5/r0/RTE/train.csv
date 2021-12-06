@@ -1,0 +1,6 @@
+index,sentence1,sentence2,label
+481,The Arabic-language television network Al-Jazeera reports it has received a statement and a videotape from militants.,Al-Jazeera is an Arabic-language television network.,entailment
+1731,"Of course, most of the tax cuts expire in 2010; only three years from when Rangel would take over as chair if Democrats win.",Democrats won the elections three years ago.,not_entailment
+1173,The Philippine Stock Exchange Composite Index rose 0.1 percent to 1573.65.,The Philippine Stock Exchange Composite Index rose.,entailment
+809,"Vegetables help to preserve your bones, and help fight the bone-thinning disease osteoporosis.",Fruits and vegetables prevent osteoporosis.,not_entailment
+583,"GUS on Friday disposed of its remaining home shopping business and last non-UK retail operation with the 390m (265m) sale of the Dutch home shopping company, Wehkamp, to Industri Kapital, a private equity firm.",Wehkamp was based in the UK.,not_entailment

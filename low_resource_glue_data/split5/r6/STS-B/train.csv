@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+2802,main-news,MSRpar,2012,536,none,none,"A nationally board certified teacher with a master's degree, Kelley makes a salary of $65,000 in his 30th year.","A nationally board certified teacher with a master's degree, Kelley, in his 30th year teaching, makes $65,000.",4.75
+313,main-captions,MSRvid,2012,471,none,none,A monkey pulls the tail of a dog.,A monkey is teasing a dog at the zoo.,2.8
+994,main-captions,MSRvid,2012,741,none,none,The man is playing the wooden flute.,A little boy is vacuuming the floor.,0.0
+4175,main-news,headlines,2013,527,none,none,Girl accused of burning Koran goes into hiding,Girl accused of burning Koran bailed,3.2
+1206,main-captions,images,2014,309,none,none,A woman riding a brown horse.,A person dressed in white on a brown horse.,3.2

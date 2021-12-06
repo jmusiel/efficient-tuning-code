@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+3645,main-news,deft-news,2014,195,none,none,the iaea report is restricted.,the killers escaped.,0.0
+671,main-captions,MSRvid,2012,254,none,none,A man is speaking on a stage.,A man is speaking at a podium.,3.4
+43,main-captions,MSRvid,2012,64,none,none,A person is slicing a tomato.,A person is slicing some meat.,1.75
+1905,main-captions,images,2015,1225,none,none,a snowboarder jumps into the air.,A snowboarder flies through the air.,4.0
+1965,main-captions,images,2015,1390,none,none,The brown dog is running along a grassy pathway.,A brown dog is running along a grassy stretch divided by strings.,3.4

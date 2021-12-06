@@ -1,0 +1,11 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+1147,main-captions,images,2014,212,none,none,A passenger train coming into a station.,A large bird is flying through the air.,0.0
+1361,main-captions,images,2014,531,none,none,"A red, double-decker bus.",Front and left side of a red double decker bus.,3.2
+4237,main-news,headlines,2013,609,none,none,Libya PM names new cabinet after protests over original,"Libyan assembly rejects new cabinet, dismisses PM",1.2
+9,main-captions,MSRvid,2012,16,none,none,A person is throwing a cat on to the ceiling.,A person throws a cat on the ceiling.,5.0
+2671,main-news,MSRpar,2012,349,none,none,"The songs are on offer for 99 cents each, or $9.99 for an album.",The company will offer songs for 99 cents and albums for $9.95.,3.333
+2008,main-forum,deft-forum,2014,8,none,none,War in the middle east.,A WAR in the middle east.,5.0
+4046,main-news,headlines,2013,366,none,none,"Google CEO says Android important, not critical","Larry Page says Android important, not critical",4.0
+3831,main-news,headlines,2013,102,none,none,"Cash-rich Apple to pay dividend, buy back shares","Apple to pay $2.65/share dividend, buy back $10B stock",3.8
+2113,main-forum,deft-forum,2014,113,none,none,religious fiction Isn't that redundant and repetetive?,Isn't that redundant and repetetive?,3.2
+1359,main-captions,images,2014,529,none,none,A group of people sitting at a restaurant table.,A group of people sitting around a table on a porch.,2.6

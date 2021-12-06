@@ -1,0 +1,11 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+1102,main-captions,images,2014,141,none,none,a dog napping under a small table.,A dog sleeping under a table.,4.6
+5526,main-news,headlines,2015,1440,none,none,Austrian found hoarding 56 stolen skulls in home museum,Stolen skulls found in home museum,3.4
+877,main-captions,MSRvid,2012,563,none,none,The person is removing the scales from the fish.,A person is descaling a fish.,5.0
+2030,main-forum,deft-forum,2014,30,none,none,I wood have asked her if she is up for a treesome.,I wood have at least asked if a threesome was out of the question.,4.8
+4861,main-news,headlines,2014,635,none,none,"17 killed, 133 wounded in bomb attacks in northern Iraq","15 killed, 90 wounded in fresh attacks in Iraq",2.8
+3986,main-news,headlines,2013,292,none,none,Plane crash in Ghana kills at least 10,Plane Crash in Ghana: How the international media reported it,2.2
+3630,main-news,deft-news,2014,180,none,none,drug traffickers face the death penalty under tajik law.,afghan drug trafficker was caught in tajikistan.,1.6
+3386,main-news,MSRpar,2012,662,none,none,But the cancer society said its study had been misused.,The American Cancer Society and several scientists said the study was flawed in several ways.,2.25
+646,main-captions,MSRvid,2012,224,none,none,A man plays a guitar.,A woman is playing guitar.,2.0
+1317,main-captions,images,2014,463,none,none,Two women in the kitchen looking at a object.,Three men in suits sitting at a table.,0.0

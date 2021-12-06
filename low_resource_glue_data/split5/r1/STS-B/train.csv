@@ -1,0 +1,6 @@
+index,genre,filename,year,old_index,source1,source2,sentence1,sentence2,score
+5523,main-news,headlines,2015,1436,none,none,3 Chinese tourists killed in Pakistan,Seven kidnappers killed in southern Nigeria,0.4
+3269,main-news,MSRpar,2012,492,none,none,"The report forecasts there will be 71,079 hot spots worldwide this year, up from just 14,752 in 2002 and 1,214 in 2001.","The report also claims that there will be up to 9.3 million visitors to hot spots this year, up again from the meagre 2.5 million in 2002.",1.75
+2924,main-news,MSRpar,2012,707,none,none,"Shares of USA Interactive rose $2.28, or 7 percent, to $34.96 on Friday in Nasdaq Stock Market composite trading and have gained 53 percent this year.","Shares of LendingTree rose $6.03, or 41 percent, to close at $20.72 on the Nasdaq stock market yesterday.",1.0
+1670,main-captions,images,2015,513,none,none,The white and brown dog runs across the grass.,Three dogs are running on the grass.,3.2
+1521,main-captions,images,2015,89,none,none,"Many people are in the bicycle racing, including one man in a three-wheeled bike.",A man riding on a three-wheeled wheelchair.,2.6
